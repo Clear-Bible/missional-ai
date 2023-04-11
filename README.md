@@ -8,6 +8,12 @@ Datasets for Natural Language Processing". The tutorial was led by
 Jonathan Robie, Sean Boisen, and Randall Tan of [Clear Bible,
 Inc](https://www.clear.bible/).
 
+## Quick Start
+
+**New to Colab/Jupyter Notebooks:** If you have never used Google Colaboratory or Jupyter notebooks, check out the [Getting Started](https://github.com/Clear-Bible/missional-ai/blob/main/00_getting_started.ipynb) tutorial, and click the 'Open in Colab' button at the top of the file.
+
+**Experienced with Colab/Jupyter Notebooks:** If you have used notebooks like this before, but you are new to MACULA Greek and Hebrew data, head to [MACULA Data Overview](https://github.com/Clear-Bible/missional-ai/blob/main/01_macula_data_overview.ipynb) to get started.
+
 ## Tutorial Abstract
 
 The original Greek and Hebrew texts are at the heart of Bible
