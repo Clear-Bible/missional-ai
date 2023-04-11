@@ -28,7 +28,7 @@ integrated to work together.
 In this workshop, we will use Google Colab notebooks to show how to
 use this data for specific tasks, then demonstrate some useful NLP
 tasks such as exploratory data analysis, topic modeling, identifying
-important vocabulary in a passage using tf-idf, and text summarie.
+important vocabulary in a passage using TF-IDF, and text summarization.
 
 Participants will be encouraged to work at their own pace and ask
 questions.  They are also welcome to work on their own projects using
