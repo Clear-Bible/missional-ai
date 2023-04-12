@@ -1,1485 +1,2034 @@
 identifier	altId	text	transType	isPunc	isPrimary
-40001001001	The-1	The		False	False
-40001001002	book-1	book	k	False	True
-40001001003	of-1	of	m	False	False
-40001001004	the-1	the		False	False
-40001001005	genealogy-1	genealogy	k	False	True
-40001001006	of-2	of	m	False	False
-40001001007	Jesus-1	Jesus	k	False	True
-40001001008	Christ-1	Christ	k	False	True
-40001001009	,-1	,		True	False
-40001001010	the-2	the		False	False
-40001001011	son-1	son	k	False	True
-40001001012	of-2	of	m	False	False
-40001001013	David-1	David	k	False	True
-40001001014	,-2	,		True	False
-40001001015	the-2	the		False	False
-40001001016	son-2	son	k	False	True
-40001001017	of-2	of	m	False	False
-40001001018	Abraham-1	Abraham	k	False	True
-40001001019	.-1	.		True	False
-40001002001	Abraham-1	Abraham	k	False	True
-40001002002	became-1	became	k	False	False
-40001002003	the-1	the	k	False	False
-40001002004	father-1	father	k	False	True
-40001002005	of-1	of	k	False	False
-40001002006	Isaac-1	Isaac	k	False	True
-40001002007	,-1	,		True	False
-40001002008	and-1	and	k	False	True
-40001002009	Isaac-2	Isaac	k	False	True
-40001002010	became-2	became	k	False	False
-40001002011	the-2	the	k	False	False
-40001002012	father-2	father	k	False	True
-40001002013	of-2	of	k	False	False
-40001002014	Jacob-1	Jacob	k	False	True
-40001002015	,-2	,		True	False
-40001002016	and-2	and	k	False	True
-40001002017	Jacob-2	Jacob	k	False	True
-40001002018	became-2	became	k	False	False
-40001002019	the-2	the	k	False	False
-40001002020	father-2	father	k	False	True
-40001002021	of-2	of	k	False	False
-40001002022	Judah-1	Judah	k	False	True
-40001002023	and-2	and	k	False	True
-40001002024	his-1	his	k	False	True
-40001002025	brothers-1	brothers	k	False	True
-40001002026	,-2	,		True	False
-40001003001	and-1	and	k	False	True
-40001003002	Judah-1	Judah	k	False	True
-40001003003	became-1	became	k	False	False
-40001003004	the-1	the	k	False	False
-40001003005	father-1	father	k	False	True
-40001003006	of-1	of	k	False	False
-40001003007	Perez-1	Perez	k	False	True
-40001003008	and-2	and	k	False	True
-40001003009	Zerah-1	Zerah	k	False	True
-40001003010	by-1	by	k	False	True
-40001003011	Tamar-1	Tamar	k	False	True
-40001003012	,-1	,		True	False
-40001003013	and-2	and	k	False	True
-40001003014	Perez-2	Perez	k	False	True
-40001003015	became-2	became	k	False	False
-40001003016	the-2	the	k	False	False
-40001003017	father-2	father	k	False	True
-40001003018	of-2	of	k	False	False
-40001003019	Hezron-1	Hezron	k	False	True
-40001003020	,-2	,		True	False
-40001003021	and-2	and	k	False	True
-40001003022	Hezron-2	Hezron	k	False	True
-40001003023	became-2	became	k	False	False
-40001003024	the-2	the	k	False	False
-40001003025	father-2	father	k	False	True
-40001003026	of-2	of	k	False	False
-40001003027	Aram-1	Aram	k	False	True
-40001003028	,-2	,		True	False
-40001004001	and-1	and	k	False	True
-40001004002	Aram-1	Aram	k	False	True
-40001004003	became-1	became	k	False	False
-40001004004	the-1	the	k	False	False
-40001004005	father-1	father	k	False	True
-40001004006	of-1	of	k	False	False
-40001004007	Amminadab-1	Amminadab	k	False	True
-40001004008	,-1	,		True	False
-40001004009	and-2	and	k	False	True
-40001004010	Amminadab-2	Amminadab	k	False	True
-40001004011	became-2	became	k	False	False
-40001004012	the-2	the	k	False	False
-40001004013	father-2	father	k	False	True
-40001004014	of-2	of	k	False	False
-40001004015	Nahshon-1	Nahshon	k	False	True
-40001004016	,-2	,		True	False
-40001004017	and-2	and	k	False	True
-40001004018	Nahshon-2	Nahshon	k	False	True
-40001004019	became-2	became	k	False	False
-40001004020	the-2	the	k	False	False
-40001004021	father-2	father	k	False	True
-40001004022	of-2	of	k	False	False
-40001004023	Salmon-1	Salmon	k	False	True
-40001004024	,-2	,		True	False
-40001005001	and-1	and	k	False	True
-40001005002	Salmon-1	Salmon	k	False	True
-40001005003	became-1	became	k	False	False
-40001005004	the-1	the	k	False	False
-40001005005	father-1	father	k	False	True
-40001005006	of-1	of	k	False	False
-40001005007	Boaz-1	Boaz	k	False	True
-40001005008	by-1	by	k	False	True
-40001005009	Rahab-1	Rahab	k	False	True
-40001005010	,-1	,		True	False
-40001005011	and-2	and	k	False	True
-40001005012	Boaz-2	Boaz	k	False	True
-40001005013	became-2	became	k	False	False
-40001005014	the-2	the	k	False	False
-40001005015	father-2	father	k	False	True
-40001005016	of-2	of	k	False	False
-40001005017	Obed-1	Obed	k	False	True
-40001005018	by-2	by	k	False	True
-40001005019	Ruth-1	Ruth	k	False	True
-40001005020	,-2	,		True	False
-40001005021	and-2	and	k	False	True
-40001005022	Obed-2	Obed	k	False	True
-40001005023	became-2	became	k	False	False
-40001005024	the-2	the	k	False	False
-40001005025	father-2	father	k	False	True
-40001005026	of-2	of	k	False	False
-40001005027	Jesse-1	Jesse	k	False	True
-40001005028	,-2	,		True	False
-40001006001	and-1	and	k	False	True
-40001006002	Jesse-1	Jesse	k	False	True
-40001006003	became-1	became	k	False	False
-40001006004	the-1	the	k	False	False
-40001006005	father-1	father	k	False	True
-40001006006	of-1	of	k	False	False
-40001006007	David-1	David	k	False	True
-40001006008	the-2	the	k	False	True
-40001006009	king-1	king	k	False	True
-40001006010	.-1	.		True	False
-40001006011	And-1	And	k	False	True
-40001006012	David-2	David	k	False	True
-40001006013	became-2	became	k	False	False
-40001006014	the-2	the	k	False	False
-40001006015	father-2	father	k	False	True
-40001006016	of-2	of	k	False	False
-40001006017	Solomon-1	Solomon	k	False	True
-40001006018	by-1	by	k	False	True
-40001006019	the-2	the	k	False	True
-40001006020	{-1	{		True	False
-40001006021	wife-1	wife		False	False
-40001006022	}-1	}		True	False
-40001006023	of-2	of	m	False	False
-40001006024	Uriah-1	Uriah	k	False	True
-40001006025	,-1	,		True	False
-40001007001	and-1	and	k	False	True
-40001007002	Solomon-1	Solomon	k	False	True
-40001007003	became-1	became	k	False	False
-40001007004	the-1	the	k	False	False
-40001007005	father-1	father	k	False	True
-40001007006	of-1	of	k	False	False
-40001007007	Rehoboam-1	Rehoboam	k	False	True
-40001007008	,-1	,		True	False
-40001007009	and-2	and	k	False	True
-40001007010	Rehoboam-2	Rehoboam	k	False	True
-40001007011	became-2	became	k	False	False
-40001007012	the-2	the	k	False	False
-40001007013	father-2	father	k	False	True
-40001007014	of-2	of	k	False	False
-40001007015	Abijah-1	Abijah	k	False	True
-40001007016	,-2	,		True	False
-40001007017	and-2	and	k	False	True
-40001007018	Abijah-2	Abijah	k	False	True
-40001007019	became-2	became	k	False	False
-40001007020	the-2	the	k	False	False
-40001007021	father-2	father	k	False	True
-40001007022	of-2	of	k	False	False
-40001007023	Asa-1	Asa	k	False	True
-40001007024	,-2	,		True	False
-40001008001	and-1	and	k	False	True
-40001008002	Asa-1	Asa	k	False	True
-40001008003	became-1	became	k	False	False
-40001008004	the-1	the	k	False	False
-40001008005	father-1	father	k	False	True
-40001008006	of-1	of	k	False	False
-40001008007	Jehoshaphat-1	Jehoshaphat	k	False	True
-40001008008	,-1	,		True	False
-40001008009	and-2	and	k	False	True
-40001008010	Jehoshaphat-2	Jehoshaphat	k	False	True
-40001008011	became-2	became	k	False	False
-40001008012	the-2	the	k	False	False
-40001008013	father-2	father	k	False	True
-40001008014	of-2	of	k	False	False
-40001008015	Joram-1	Joram	k	False	True
-40001008016	,-2	,		True	False
-40001008017	and-2	and	k	False	True
-40001008018	Joram-2	Joram	k	False	True
-40001008019	became-2	became	k	False	False
-40001008020	the-2	the	k	False	False
-40001008021	father-2	father	k	False	True
-40001008022	of-2	of	k	False	False
-40001008023	Uzziah-1	Uzziah	k	False	True
-40001008024	,-2	,		True	False
-40001009001	and-1	and	k	False	True
-40001009002	Uzziah-1	Uzziah	k	False	True
-40001009003	became-1	became	k	False	False
-40001009004	the-1	the	k	False	False
-40001009005	father-1	father	k	False	True
-40001009006	of-1	of	k	False	False
-40001009007	Jotham-1	Jotham	k	False	True
-40001009008	,-1	,		True	False
-40001009009	and-2	and	k	False	True
-40001009010	Jotham-2	Jotham	k	False	True
-40001009011	became-2	became	k	False	False
-40001009012	the-2	the	k	False	False
-40001009013	father-2	father	k	False	True
-40001009014	of-2	of	k	False	False
-40001009015	Ahaz-1	Ahaz	k	False	True
-40001009016	,-2	,		True	False
-40001009017	and-2	and	k	False	True
-40001009018	Ahaz-2	Ahaz	k	False	True
-40001009019	became-2	became	k	False	False
-40001009020	the-2	the	k	False	False
-40001009021	father-2	father	k	False	True
-40001009022	of-2	of	k	False	False
-40001009023	Hezekiah-1	Hezekiah	k	False	True
-40001009024	,-2	,		True	False
-40001010001	and-1	and	k	False	True
-40001010002	Hezekiah-1	Hezekiah	k	False	True
-40001010003	became-1	became	k	False	False
-40001010004	the-1	the	k	False	False
-40001010005	father-1	father	k	False	True
-40001010006	of-1	of	k	False	False
-40001010007	Manasseh-1	Manasseh	k	False	True
-40001010008	,-1	,		True	False
-40001010009	and-2	and	k	False	True
-40001010010	Manasseh-2	Manasseh	k	False	True
-40001010011	became-2	became	k	False	False
-40001010012	the-2	the	k	False	False
-40001010013	father-2	father	k	False	True
-40001010014	of-2	of	k	False	False
-40001010015	Amon-1	Amon	k	False	True
-40001010016	,-2	,		True	False
-40001010017	and-2	and	k	False	True
-40001010018	Amon-2	Amon	k	False	True
-40001010019	became-2	became	k	False	False
-40001010020	the-2	the	k	False	False
-40001010021	father-2	father	k	False	True
-40001010022	of-2	of	k	False	False
-40001010023	Josiah-1	Josiah	k	False	True
-40001010024	,-2	,		True	False
-40001011001	and-1	and	k	False	True
-40001011002	Josiah-1	Josiah	k	False	True
-40001011003	became-1	became	k	False	False
-40001011004	the-1	the	k	False	False
-40001011005	father-1	father	k	False	True
-40001011006	of-1	of	k	False	False
-40001011007	Jechoniah-1	Jechoniah	k	False	True
-40001011008	and-2	and	k	False	True
-40001011009	his-1	his	k	False	True
-40001011010	brothers-1	brothers	k	False	True
-40001011011	,-1	,		True	False
-40001011012	at-1	at	k	False	True
-40001011013	the-2	the	k	False	False
-40001011014	time-1	time	k	False	False
-40001011015	of-2	of	k	False	False
-40001011016	the-2	the	k	False	True
-40001011017	deportation-1	deportation	k	False	True
-40001011018	to-1	to	m	False	False
-40001011019	Babylon-1	Babylon	k	False	True
-40001011020	.-1	.		True	False
-40001012001	And-1	And	k	False	True
-40001012002	after-1	after	k	False	True
-40001012003	the-1	the	k	False	True
-40001012004	deportation-1	deportation	k	False	True
-40001012005	to-1	to	m	False	False
-40001012006	Babylon-1	Babylon	k	False	True
-40001012007	,-1	,		True	False
-40001012008	Jechoniah-1	Jechoniah	k	False	True
-40001012009	became-1	became	k	False	False
-40001012010	the-2	the	k	False	False
-40001012011	father-1	father	k	False	True
-40001012012	of-1	of	k	False	False
-40001012013	Shealtiel-1	Shealtiel	k	False	True
-40001012014	,-2	,		True	False
-40001012015	and-1	and	k	False	True
-40001012016	Shealtiel-2	Shealtiel	k	False	True
-40001012017	became-2	became	k	False	False
-40001012018	the-2	the	k	False	False
-40001012019	father-2	father	k	False	True
-40001012020	of-2	of	k	False	False
-40001012021	Zerubbabel-1	Zerubbabel	k	False	True
-40001012022	,-2	,		True	False
-40001013001	and-1	and	k	False	True
-40001013002	Zerubbabel-1	Zerubbabel	k	False	True
-40001013003	became-1	became	k	False	False
-40001013004	the-1	the	k	False	False
-40001013005	father-1	father	k	False	True
-40001013006	of-1	of	k	False	False
-40001013007	Abiud-1	Abiud	k	False	True
-40001013008	,-1	,		True	False
-40001013009	and-2	and	k	False	True
-40001013010	Abiud-2	Abiud	k	False	True
-40001013011	became-2	became	k	False	False
-40001013012	the-2	the	k	False	False
-40001013013	father-2	father	k	False	True
-40001013014	of-2	of	k	False	False
-40001013015	Eliakim-1	Eliakim	k	False	True
-40001013016	,-2	,		True	False
-40001013017	and-2	and	k	False	True
-40001013018	Eliakim-2	Eliakim	k	False	True
-40001013019	became-2	became	k	False	False
-40001013020	the-2	the	k	False	False
-40001013021	father-2	father	k	False	True
-40001013022	of-2	of	k	False	False
-40001013023	Azor-1	Azor	k	False	True
-40001013024	,-2	,		True	False
-40001014001	and-1	and	k	False	True
-40001014002	Azor-1	Azor	k	False	True
-40001014003	became-1	became	k	False	False
-40001014004	the-1	the	k	False	False
-40001014005	father-1	father	k	False	True
-40001014006	of-1	of	k	False	False
-40001014007	Zadok-1	Zadok	k	False	True
-40001014008	,-1	,		True	False
-40001014009	and-2	and	k	False	True
-40001014010	Zadok-2	Zadok	k	False	True
-40001014011	became-2	became	k	False	False
-40001014012	the-2	the	k	False	False
-40001014013	father-2	father	k	False	True
-40001014014	of-2	of	k	False	False
-40001014015	Achim-1	Achim	k	False	True
-40001014016	,-2	,		True	False
-40001014017	and-2	and	k	False	True
-40001014018	Achim-2	Achim	k	False	True
-40001014019	became-2	became	k	False	False
-40001014020	the-2	the	k	False	False
-40001014021	father-2	father	k	False	True
-40001014022	of-2	of	k	False	False
-40001014023	Eliud-1	Eliud	k	False	True
-40001014024	,-2	,		True	False
-40001015001	and-1	and	k	False	True
-40001015002	Eliud-1	Eliud	k	False	True
-40001015003	became-1	became	k	False	False
-40001015004	the-1	the	k	False	False
-40001015005	father-1	father	k	False	True
-40001015006	of-1	of	k	False	False
-40001015007	Eleazar-1	Eleazar	k	False	True
-40001015008	,-1	,		True	False
-40001015009	and-2	and	k	False	True
-40001015010	Eleazar-2	Eleazar	k	False	True
-40001015011	became-2	became	k	False	False
-40001015012	the-2	the	k	False	False
-40001015013	father-2	father	k	False	True
-40001015014	of-2	of	k	False	False
-40001015015	Matthan-1	Matthan	k	False	True
-40001015016	,-2	,		True	False
-40001015017	and-2	and	k	False	True
-40001015018	Matthan-2	Matthan	k	False	True
-40001015019	became-2	became	k	False	False
-40001015020	the-2	the	k	False	False
-40001015021	father-2	father	k	False	True
-40001015022	of-2	of	k	False	False
-40001015023	Jacob-1	Jacob	k	False	True
-40001015024	,-2	,		True	False
-40001016001	and-1	and	k	False	True
-40001016002	Jacob-1	Jacob	k	False	True
-40001016003	became-1	became	k	False	False
-40001016004	the-1	the	k	False	False
-40001016005	father-1	father	k	False	True
-40001016006	of-1	of	k	False	False
-40001016007	Joseph-1	Joseph	k	False	True
-40001016008	,-1	,		True	False
-40001016009	the-2	the	k	False	True
-40001016010	husband-1	husband	k	False	True
-40001016011	of-2	of	m	False	False
-40001016012	Mary-1	Mary	k	False	True
-40001016013	by-1	by	k	False	True
-40001016014	whom-1	whom	k	False	True
-40001016015	was-1	was	m	False	False
-40001016016	born-1	born	k	False	True
-40001016017	Jesus-1	Jesus	k	False	True
-40001016018	,-2	,		True	False
-40001016019	who-1	who	m	False	False
-40001016020	is-1	is	m	False	False
-40001016021	called-1	called	k	False	True
-40001016022	Christ-1	Christ	k	False	True
-40001016023	.-1	.		True	False
-40001017001	Therefore-1	Therefore	k	False	True
-40001017002	all-1	all	k	False	True
-40001017003	the-1	the	k	False	True
-40001017004	generations-1	generations	k	False	True
-40001017005	from-1	from	k	False	True
-40001017006	Abraham-1	Abraham	k	False	True
-40001017007	to-1	to	k	False	True
-40001017008	David-1	David	k	False	True
-40001017009	{-1	{		True	False
-40001017010	are-1	are		False	False
-40001017011	}-1	}		True	False
-40001017012	fourteen-1	fourteen	k	False	True
-40001017013	generations-2	generations	k	False	True
-40001017014	,-1	,		True	False
-40001017015	and-1	and	k	False	True
-40001017016	from-2	from	k	False	True
-40001017017	David-2	David	k	False	True
-40001017018	to-2	to	k	False	True
-40001017019	the-2	the	k	False	True
-40001017020	deportation-1	deportation	k	False	True
-40001017021	to-2	to	m	False	False
-40001017022	Babylon-1	Babylon	k	False	True
-40001017023	{-2	{		True	False
-40001017024	are-2	are		False	False
-40001017025	}-2	}		True	False
-40001017026	fourteen-2	fourteen	k	False	True
-40001017027	generations-2	generations	k	False	True
-40001017028	,-2	,		True	False
-40001017029	and-2	and	k	False	True
-40001017030	from-2	from	k	False	True
-40001017031	the-2	the	k	False	True
-40001017032	deportation-2	deportation	k	False	True
-40001017033	to-2	to	m	False	False
-40001017034	Babylon-2	Babylon	k	False	True
-40001017035	to-2	to	k	False	True
-40001017036	the-2	the	k	False	True
-40001017037	Christ-1	Christ	k	False	True
-40001017038	{-2	{		True	False
-40001017039	are-2	are		False	False
-40001017040	}-2	}		True	False
-40001017041	fourteen-2	fourteen	k	False	True
-40001017042	generations-2	generations	k	False	True
-40001017043	.-1	.		True	False
-40001018001	Now-1	Now	k	False	True
-40001018002	the-1	the	k	False	True
-40001018003	birth-1	birth	k	False	True
-40001018004	of-1	of	m	False	False
-40001018005	Jesus-1	Jesus	k	False	True
-40001018006	Christ-1	Christ	k	False	True
-40001018007	occurred-1	occurred	k	False	True
-40001018008	in-1	in	k	False	False
-40001018009	this-1	this	k	False	True
-40001018010	way-1	way	k	False	False
-40001018011	.-1	.		True	False
-40001018012	His-1	His	k	False	True
-40001018013	mother-1	mother	k	False	True
-40001018014	Mary-1	Mary	k	False	True
-40001018015	had-1	had	m	False	False
-40001018016	been-1	been	m	False	False
-40001018017	betrothed-1	betrothed	k	False	True
-40001018018	to-1	to	m	False	False
-40001018019	Joseph-1	Joseph	k	False	True
-40001018020	,-1	,		True	False
-40001018021	{-1	{		True	False
-40001018022	but-1	but	k	False	False
-40001018023	}-1	}		True	False
-40001018024	before-1	before	k	False	True
-40001018025	they-1	they	k	False	True
-40001018026	came-1	came	k	False	True
-40001018027	together-1	together	k	False	False
-40001018028	,-2	,		True	False
-40001018029	she-1	she	m	False	False
-40001018030	was-1	was	m	False	False
-40001018031	found-1	found	k	False	True
-40001018032	[-1	[		True	False
-40001018033	to-2	to	m	False	False
-40001018034	be-1	be	m	False	False
-40001018035	pregnant-1	pregnant	k	False	True
-40001018036	]-1	]		True	False
-40001018037	by-1	by	k	False	True
-40001018038	the-2	the		False	False
-40001018039	Holy-1	Holy	k	False	True
-40001018040	Spirit-1	Spirit	k	False	True
-40001018041	.-2	.		True	False
-40001019001	So-1	So	k	False	True
-40001019002	Joseph-1	Joseph	k	False	True
-40001019003	her-1	her	k	False	True
-40001019004	husband-1	husband	k	False	True
-40001019005	,-1	,		True	False
-40001019006	being-1	being	k	False	True
-40001019007	righteous-1	righteous	k	False	True
-40001019008	and-1	and	k	False	True
-40001019009	not-1	not	k	False	True
-40001019010	wanting-1	wanting	k	False	True
-40001019011	to-1	to	m	False	False
-40001019012	disgrace-1	disgrace	k	False	True
-40001019013	her-2	her	k	False	True
-40001019014	,-2	,		True	False
-40001019015	intended-1	intended	k	False	True
-40001019016	to-2	to	m	False	False
-40001019017	divorce-1	divorce	k	False	True
-40001019018	her-2	her	k	False	True
-40001019019	secretly-1	secretly	k	False	True
-40001019020	.-1	.		True	False
-40001020001	But-1	But	k	False	True
-40001020002	{-1	{		True	False
-40001020003	as-1	as	m	False	False
-40001020004	}-1	}		True	False
-40001020005	he-1	he	k	False	True
-40001020006	was-1	was	m	False	False
-40001020007	considering-1	considering	k	False	True
-40001020008	these-1	these	k	False	True
-40001020009	things-1	things	a	False	False
-40001020010	,-1	,		True	False
-40001020011	behold-1	behold	k	False	True
-40001020012	,-2	,		True	False
-40001020013	an-1	an	m	False	False
-40001020014	angel-1	angel	k	False	True
-40001020015	of-1	of	m	False	False
-40001020016	the-1	the		False	False
-40001020017	Lord-1	Lord	k	False	True
-40001020018	appeared-1	appeared	k	False	True
-40001020019	to-1	to	m	False	False
-40001020020	him-1	him	k	False	True
-40001020021	in-1	in	k	False	True
-40001020022	a-1	a	m	False	False
-40001020023	dream-1	dream	k	False	True
-40001020024	,-2	,		True	False
-40001020025	saying-1	saying	k	False	True
-40001020026	,-2	,		True	False
-40001020027	“-1	“		True	False
-40001020028	Joseph-1	Joseph	k	False	True
-40001020029	,-2	,		True	False
-40001020030	son-1	son	k	False	True
-40001020031	of-2	of	m	False	False
-40001020032	David-1	David	k	False	True
-40001020033	,-2	,		True	False
-40001020034	do-1	do	m	False	False
-40001020035	not-1	not	k	False	True
-40001020036	be-1	be	m	False	False
-40001020037	afraid-1	afraid	k	False	True
-40001020038	to-2	to	m	False	False
-40001020039	take-1	take	k	False	True
-40001020040	Mary-1	Mary	k	False	True
-40001020041	{-2	{		True	False
-40001020042	as-2	as		False	False
-40001020043	}-2	}		True	False
-40001020044	your-1	your	k	False	True
-40001020045	wife-1	wife	k	False	True
-40001020046	,-2	,		True	False
-40001020047	for-1	for	k	False	True
-40001020048	what-1	what	m	False	False
-40001020049	has-1	has	m	False	False
-40001020050	been-1	been	m	False	False
-40001020051	conceived-1	conceived	k	False	True
-40001020052	in-2	in	k	False	True
-40001020053	her-1	her	k	False	True
-40001020054	is-1	is	k	False	True
-40001020055	from-1	from	k	False	True
-40001020056	the-2	the		False	False
-40001020057	Holy-1	Holy	k	False	True
-40001020058	Spirit-1	Spirit	k	False	True
-40001020059	.-1	.		True	False
-40001021001	And-1	And	k	False	True
-40001021002	she-1	she	m	False	False
-40001021003	will-1	will	m	False	False
-40001021004	give-1	give	k	False	False
-40001021005	birth-1	birth	k	False	True
-40001021006	to-1	to	k	False	False
-40001021007	a-1	a	m	False	False
-40001021008	son-1	son	k	False	True
-40001021009	,-1	,		True	False
-40001021010	and-1	and	k	False	True
-40001021011	you-1	you	m	False	False
-40001021012	will-2	will	m	False	False
-40001021013	call-1	call	k	False	True
-40001021014	his-1	his	k	False	True
-40001021015	name-1	name	k	False	True
-40001021016	‘-1	‘		True	False
-40001021017	Jesus-1	Jesus	k	False	True
-40001021018	,-2	,		True	False
-40001021019	’-1	’		True	False
-40001021020	because-1	because	k	False	True
-40001021021	he-1	he	k	False	True
-40001021022	will-2	will	m	False	False
-40001021023	save-1	save	k	False	True
-40001021024	his-2	his	k	False	True
-40001021025	people-1	people	k	False	True
-40001021026	from-1	from	k	False	True
-40001021027	their-1	their	k	False	True
-40001021028	sins-1	sins	k	False	True
-40001021029	.-1	.		True	False
-40001021030	”-1	”		True	False
-40001022001	Now-1	Now	k	False	True
-40001022002	all-1	all	k	False	True
-40001022003	this-1	this	k	False	True
-40001022004	happened-1	happened	k	False	True
-40001022005	in-1	in	k	False	True
-40001022006	order-1	order	k	False	False
-40001022007	that-1	that	k	False	False
-40001022008	what-1	what	m	False	False
-40001022009	was-1	was	m	False	False
-40001022010	spoken-1	spoken	k	False	True
-40001022011	by-1	by	k	False	True
-40001022012	the-1	the		False	False
-40001022013	Lord-1	Lord	k	False	True
-40001022014	through-1	through	k	False	True
-40001022015	the-2	the	k	False	True
-40001022016	prophet-1	prophet	k	False	True
-40001022017	would-1	would	m	False	False
-40001022018	be-1	be	m	False	False
-40001022019	fulfilled-1	fulfilled	k	False	True
-40001022020	,-1	,		True	False
-40001022021	saying-1	saying	k	False	True
-40001022022	,-2	,		True	False
-40001023001	“-1	“		True	False
-40001023002	Behold-1	Behold	k	False	True
-40001023003	,-1	,		True	False
-40001023004	the-1	the	k	False	True
-40001023005	virgin-1	virgin	k	False	True
-40001023006	[-1	[		True	False
-40001023007	will-1	will	m	False	False
-40001023008	become-1	become	k	False	False
-40001023009	pregnant-1	pregnant	k	False	True
-40001023010	]-1	]		True	False
-40001023011	and-1	and	k	False	True
-40001023012	will-2	will	m	False	False
-40001023013	give-1	give	k	False	False
-40001023014	birth-1	birth	k	False	True
-40001023015	to-1	to	k	False	False
-40001023016	a-1	a	m	False	False
-40001023017	son-1	son	k	False	True
-40001023018	,-2	,		True	False
-40001023019	and-2	and	k	False	True
-40001023020	they-1	they	m	False	False
-40001023021	will-2	will	m	False	False
-40001023022	call-1	call	k	False	True
-40001023023	his-1	his	k	False	True
-40001023024	name-1	name	k	False	True
-40001023025	Emmanuel-1	Emmanuel	k	False	True
-40001023026	,-2	,		True	False
-40001023027	”-1	”		True	False
-40001023028	which-1	which	k	False	True
-40001023029	is-1	is	k	False	True
-40001023030	translated-1	translated	k	False	True
-40001023031	,-2	,		True	False
-40001023032	“-2	“		True	False
-40001023033	God-1	God	k	False	True
-40001023034	with-1	with	k	False	True
-40001023035	us-1	us	k	False	True
-40001023036	.-1	.		True	False
-40001023037	”-2	”		True	False
-40001024001	And-1	And	k	False	True
-40001024002	Joseph-1	Joseph	k	False	True
-40001024003	,-1	,		True	False
-40001024004	{-1	{		True	False
-40001024005	when-1	when	m	False	False
-40001024006	he-1	he	k	False	False
-40001024007	}-1	}		True	False
-40001024008	woke-1	woke	k	False	True
-40001024009	up-1	up	k	False	False
-40001024010	from-1	from	k	False	True
-40001024011	sleep-1	sleep	k	False	True
-40001024012	,-2	,		True	False
-40001024013	did-1	did	k	False	True
-40001024014	as-1	as	k	False	True
-40001024015	the-1	the	k	False	True
-40001024016	angel-1	angel	k	False	True
-40001024017	of-1	of	m	False	False
-40001024018	the-2	the		False	False
-40001024019	Lord-1	Lord	k	False	True
-40001024020	commanded-1	commanded	k	False	True
-40001024021	him-1	him	k	False	True
-40001024022	,-2	,		True	False
-40001024023	and-1	and	k	False	True
-40001024024	he-2	he	m	False	False
-40001024025	took-1	took	k	False	True
-40001024026	his-1	his	k	False	True
-40001024027	wife-1	wife	k	False	True
-40001025001	and-1	and	k	False	True
-40001025002	[-1	[		True	False
-40001025003	did-1	did	m	False	False
-40001025004	not-1	not	k	False	True
-40001025005	have-1	have	m	False	False
-40001025006	sexual-1	sexual	k	False	True
-40001025007	relations-1	relations	k	False	False
-40001025008	with-1	with	k	False	False
-40001025009	]-1	]		True	False
-40001025010	her-1	her	k	False	True
-40001025011	until-1	until	k	False	True
-40001025012	she-1	she	m	False	False
-40001025013	gave-1	gave	k	False	False
-40001025014	birth-1	birth	k	False	True
-40001025015	to-1	to	k	False	False
-40001025016	a-1	a	m	False	False
-40001025017	son-1	son	k	False	True
-40001025018	.-1	.		True	False
-40001025019	And-1	And	k	False	True
-40001025020	he-1	he	m	False	False
-40001025021	called-1	called	k	False	True
-40001025022	his-1	his	k	False	True
-40001025023	name-1	name	k	False	True
-40001025024	Jesus-1	Jesus	k	False	True
-40001025025	.-2	.		True	False
-40002001001	Now-1	Now	k	False	True
-40002001002	{-1	{		True	False
-40002001003	after-1	after	m	False	False
-40002001004	}-1	}		True	False
-40002001005	Jesus-1	Jesus	k	False	True
-40002001006	was-1	was	m	False	False
-40002001007	born-1	born	k	False	True
-40002001008	in-1	in	k	False	True
-40002001009	Bethlehem-1	Bethlehem	k	False	True
-40002001010	of-1	of	m	False	False
-40002001011	Judea-1	Judea	k	False	True
-40002001012	in-2	in	k	False	True
-40002001013	the-1	the		False	False
-40002001014	days-1	days	k	False	True
-40002001015	of-2	of	m	False	False
-40002001016	Herod-1	Herod	k	False	True
-40002001017	the-2	the	k	False	True
-40002001018	king-1	king	k	False	True
-40002001019	,-1	,		True	False
-40002001020	behold-1	behold	k	False	True
-40002001021	,-2	,		True	False
-40002001022	wise-1	wise	k	False	True
-40002001023	men-1	men	k	False	False
-40002001024	from-1	from	k	False	True
-40002001025	the-2	the		False	False
-40002001026	east-1	east	k	False	True
-40002001027	came-1	came	k	False	True
-40002001028	to-1	to	k	False	True
-40002001029	Jerusalem-1	Jerusalem	k	False	True
-40002001030	,-2	,		True	False
-40002002001	saying-1	saying	k	False	True
-40002002002	,-1	,		True	False
-40002002003	“-1	“		True	False
-40002002004	Where-1	Where	k	False	True
-40002002005	is-1	is	k	False	True
-40002002006	the-1	the	k	False	True
-40002002007	one-1	one	k	False	False
-40002002008	who-1	who	m	False	False
-40002002009	has-1	has	m	False	False
-40002002010	been-1	been	m	False	False
-40002002011	born-1	born	k	False	True
-40002002012	king-1	king	k	False	True
-40002002013	of-1	of	m	False	False
-40002002014	the-2	the		False	False
-40002002015	Jews-1	Jews	k	False	True
-40002002016	?-1	?		True	False
-40002002017	For-1	For	k	False	True
-40002002018	we-1	we	m	False	False
-40002002019	have-1	have	m	False	False
-40002002020	seen-1	seen	k	False	True
-40002002021	his-1	his	k	False	True
-40002002022	star-1	star	k	False	True
-40002002023	at-1	at	k	False	True
-40002002024	its-1	its		False	False
-40002002025	rising-1	rising	k	False	True
-40002002026	and-1	and	k	False	True
-40002002027	have-2	have	m	False	False
-40002002028	come-1	come	k	False	True
-40002002029	to-1	to	m	False	False
-40002002030	worship-1	worship	k	False	True
-40002002031	him-1	him	k	False	True
-40002002032	.-1	.		True	False
-40002002033	”-1	”		True	False
-40002003001	And-1	And	k	False	True
-40002003002	{-1	{		True	False
-40002003003	when-1	when	m	False	False
-40002003004	}-1	}		True	False
-40002003005	King-1	King	k	False	True
-40002003006	Herod-1	Herod	k	False	True
-40002003007	heard-1	heard	k	False	True
-40002003008	{-2	{		True	False
-40002003009	it-1	it		False	False
-40002003010	}-2	}		True	False
-40002003011	,-1	,		True	False
-40002003012	he-1	he	m	False	False
-40002003013	was-1	was	m	False	False
-40002003014	troubled-1	troubled	k	False	True
-40002003015	,-2	,		True	False
-40002003016	and-1	and	k	False	True
-40002003017	all-1	all	k	False	True
-40002003018	Jerusalem-1	Jerusalem	k	False	True
-40002003019	with-1	with	k	False	True
-40002003020	him-1	him	k	False	True
-40002003021	,-2	,		True	False
-40002004001	and-1	and	k	False	True
-40002004002	{-1	{		True	False
-40002004003	after-1	after	m	False	False
-40002004004	}-1	}		True	False
-40002004005	calling-1	calling	k	False	True
-40002004006	together-1	together	k	False	False
-40002004007	all-1	all	k	False	True
-40002004008	the-1	the	k	False	True
-40002004009	chief-1	chief	k	False	True
-40002004010	priests-1	priests	k	False	False
-40002004011	and-2	and	k	False	True
-40002004012	scribes-1	scribes	k	False	True
-40002004013	of-1	of	m	False	False
-40002004014	the-2	the	k	False	True
-40002004015	people-1	people	k	False	True
-40002004016	,-1	,		True	False
-40002004017	he-1	he	m	False	False
-40002004018	inquired-1	inquired	k	False	True
-40002004019	from-1	from	k	False	True
-40002004020	them-1	them	k	False	True
-40002004021	where-1	where	k	False	True
-40002004022	the-2	the	k	False	True
-40002004023	Christ-1	Christ	k	False	True
-40002004024	was-1	was	m	False	False
-40002004025	to-1	to	m	False	False
-40002004026	be-1	be	m	False	False
-40002004027	born-1	born	k	False	True
-40002004028	.-1	.		True	False
-40002005001	So-1	So	k	False	True
-40002005002	they-1	they	k	False	True
-40002005003	said-1	said	k	False	True
-40002005004	to-1	to	m	False	False
-40002005005	him-1	him	k	False	True
-40002005006	,-1	,		True	False
-40002005007	“-1	“		True	False
-40002005008	In-1	In	k	False	True
-40002005009	Bethlehem-1	Bethlehem	k	False	True
-40002005010	of-1	of	m	False	False
-40002005011	Judea-1	Judea	k	False	True
-40002005012	,-2	,		True	False
-40002005013	for-1	for	k	False	True
-40002005014	thus-1	thus	k	False	True
-40002005015	it-1	it	m	False	False
-40002005016	is-1	is	m	False	False
-40002005017	written-1	written	k	False	True
-40002005018	by-1	by	k	False	True
-40002005019	the-1	the	k	False	True
-40002005020	prophet-1	prophet	k	False	True
-40002005021	,-2	,		True	False
-40002006001	‘-1	‘		True	False
-40002006002	And-1	And	k	False	True
-40002006003	you-1	you	k	False	True
-40002006004	,-1	,		True	False
-40002006005	Bethlehem-1	Bethlehem	k	False	True
-40002006006	,-2	,		True	False
-40002006007	land-1	land	k	False	True
-40002006008	of-1	of	m	False	False
-40002006009	Judah-1	Judah	k	False	True
-40002006010	,-2	,		True	False
-40002006011	are-1	are	k	False	True
-40002006012	by-1	by	k	False	False
-40002006013	no-1	no	k	False	False
-40002006014	means-1	means	k	False	True
-40002006015	least-1	least	k	False	True
-40002006016	among-1	among	k	False	True
-40002006017	the-1	the	k	False	True
-40002006018	rulers-1	rulers	k	False	True
-40002006019	of-2	of	m	False	False
-40002006020	Judah-2	Judah	k	False	True
-40002006021	,-2	,		True	False
-40002006022	for-1	for	k	False	True
-40002006023	from-1	from	k	False	True
-40002006024	you-2	you	k	False	True
-40002006025	will-1	will	m	False	False
-40002006026	go-1	go	k	False	True
-40002006027	out-1	out	k	False	False
-40002006028	a-1	a	m	False	False
-40002006029	ruler-1	ruler	k	False	True
-40002006030	who-1	who	k	False	True
-40002006031	will-2	will	m	False	False
-40002006032	shepherd-1	shepherd	k	False	True
-40002006033	my-1	my	k	False	True
-40002006034	people-1	people	k	False	True
-40002006035	Israel-1	Israel	k	False	True
-40002006036	.-1	.		True	False
-40002006037	’-1	’		True	False
-40002006038	”-1	”		True	False
-40002007001	Then-1	Then	k	False	True
-40002007002	Herod-1	Herod	k	False	True
-40002007003	secretly-1	secretly	k	False	True
-40002007004	summoned-1	summoned	k	False	True
-40002007005	the-1	the	k	False	True
-40002007006	wise-1	wise	k	False	True
-40002007007	men-1	men	k	False	False
-40002007008	{-1	{		True	False
-40002007009	and-1	and		False	False
-40002007010	}-1	}		True	False
-40002007011	determined-1	determined	k	False	True
-40002007012	precisely-1	precisely	k	False	False
-40002007013	from-1	from	k	False	True
-40002007014	them-1	them	k	False	True
-40002007015	the-2	the	k	False	True
-40002007016	time-1	time	k	False	True
-40002007017	{-2	{		True	False
-40002007018	when-1	when	m	False	False
-40002007019	}-2	}		True	False
-40002007020	the-2	the		False	False
-40002007021	star-1	star	k	False	True
-40002007022	appeared-1	appeared	k	False	True
-40002007023	.-1	.		True	False
-40002008001	And-1	And	k	False	True
-40002008002	he-1	he	m	False	False
-40002008003	sent-1	sent	k	False	True
-40002008004	them-1	them	k	False	True
-40002008005	to-1	to	k	False	True
-40002008006	Bethlehem-1	Bethlehem	k	False	True
-40002008007	{-1	{		True	False
-40002008008	and-1	and		False	False
-40002008009	}-1	}		True	False
-40002008010	said-1	said	k	False	True
-40002008011	,-1	,		True	False
-40002008012	“-1	“		True	False
-40002008013	Go-1	Go	k	False	True
-40002008014	,-2	,		True	False
-40002008015	inquire-1	inquire	k	False	True
-40002008016	carefully-1	carefully	k	False	True
-40002008017	concerning-1	concerning	k	False	True
-40002008018	the-1	the	k	False	True
-40002008019	child-1	child	k	False	True
-40002008020	,-2	,		True	False
-40002008021	and-2	and	k	False	True
-40002008022	when-1	when	k	False	True
-40002008023	you-1	you	m	False	False
-40002008024	have-1	have	m	False	False
-40002008025	found-1	found	k	False	True
-40002008026	{-2	{		True	False
-40002008027	him-1	him		False	False
-40002008028	}-2	}		True	False
-40002008029	,-2	,		True	False
-40002008030	report-1	report	k	False	True
-40002008031	to-2	to	m	False	False
-40002008032	me-1	me	k	False	True
-40002008033	so-1	so	k	False	True
-40002008034	that-1	that	k	False	False
-40002008035	I-1	I	k	False	True
-40002008036	also-1	also	k	False	False
-40002008037	may-1	may	m	False	False
-40002008038	come-1	come	k	False	True
-40002008039	{-2	{		True	False
-40002008040	and-2	and		False	False
-40002008041	}-2	}		True	False
-40002008042	worship-1	worship	k	False	True
-40002008043	him-2	him	k	False	True
-40002008044	.-1	.		True	False
-40002008045	”-1	”		True	False
-40002009001	{-1	{		True	False
-40002009002	After-1	After	k	False	False
-40002009003	}-1	}		True	False
-40002009004	they-1	they	k	False	True
-40002009005	listened-1	listened	k	False	True
-40002009006	to-1	to	k	False	False
-40002009007	the-1	the	k	False	True
-40002009008	king-1	king	k	False	True
-40002009009	,-1	,		True	False
-40002009010	they-2	they	m	False	False
-40002009011	went-1	went	k	False	True
-40002009012	out-1	out	k	False	False
-40002009013	,-2	,		True	False
-40002009014	and-1	and	k	False	True
-40002009015	behold-1	behold	k	False	True
-40002009016	,-2	,		True	False
-40002009017	the-2	the	k	False	True
-40002009018	star-1	star	k	False	True
-40002009019	which-1	which	k	False	True
-40002009020	they-2	they	m	False	False
-40002009021	had-1	had	m	False	False
-40002009022	seen-1	seen	k	False	True
-40002009023	at-1	at	k	False	True
-40002009024	its-1	its		False	False
-40002009025	rising-1	rising	k	False	True
-40002009026	led-1	led	k	False	True
-40002009027	them-1	them	k	False	True
-40002009028	until-1	until	k	False	True
-40002009029	it-1	it	m	False	False
-40002009030	came-1	came	k	False	True
-40002009031	{-2	{		True	False
-40002009032	and-2	and		False	False
-40002009033	}-2	}		True	False
-40002009034	stood-1	stood	k	False	True
-40002009035	above-1	above	k	False	True
-40002009036	{-2	{		True	False
-40002009037	the-2	the		False	False
-40002009038	place-1	place		False	False
-40002009039	}-2	}		True	False
-40002009040	where-1	where	k	False	True
-40002009041	the-2	the	k	False	True
-40002009042	child-1	child	k	False	True
-40002009043	was-1	was	k	False	True
-40002009044	.-1	.		True	False
-40002010001	Now-1	Now	k	False	True
-40002010002	{-1	{		True	False
-40002010003	when-1	when	m	False	False
-40002010004	they-1	they		False	False
-40002010005	}-1	}		True	False
-40002010006	saw-1	saw	k	False	True
-40002010007	the-1	the	k	False	True
-40002010008	star-1	star	k	False	True
-40002010009	,-1	,		True	False
-40002010010	they-2	they	m	False	False
-40002010011	rejoiced-1	rejoiced	k	False	True
-40002010012	{-2	{		True	False
-40002010013	with-1	with	m	False	False
-40002010014	}-2	}		True	False
-40002010015	very-1	very	k	False	True
-40002010016	great-1	great	k	False	True
-40002010017	joy-1	joy	k	False	True
-40002010018	.-1	.		True	False
-40002011001	And-1	And	k	False	True
-40002011002	{-1	{		True	False
-40002011003	when-1	when	m	False	False
-40002011004	they-1	they		False	False
-40002011005	}-1	}		True	False
-40002011006	came-1	came	k	False	True
-40002011007	into-1	into	k	False	True
-40002011008	the-1	the	k	False	True
-40002011009	house-1	house	k	False	True
-40002011010	,-1	,		True	False
-40002011011	they-2	they	m	False	False
-40002011012	saw-1	saw	k	False	True
-40002011013	the-2	the	k	False	True
-40002011014	child-1	child	k	False	True
-40002011015	with-1	with	k	False	True
-40002011016	Mary-1	Mary	k	False	True
-40002011017	his-1	his	k	False	True
-40002011018	mother-1	mother	k	False	True
-40002011019	,-2	,		True	False
-40002011020	and-1	and	k	False	True
-40002011021	they-2	they	m	False	False
-40002011022	fell-1	fell	k	False	True
-40002011023	down-1	down	k	False	False
-40002011024	{-2	{		True	False
-40002011025	and-2	and		False	False
-40002011026	}-2	}		True	False
-40002011027	worshiped-1	worshiped	k	False	True
-40002011028	him-1	him	k	False	True
-40002011029	.-1	.		True	False
-40002011030	And-2	And	k	False	True
-40002011031	opening-1	opening	k	False	True
-40002011032	their-1	their	k	False	True
-40002011033	treasure-1	treasure	k	False	True
-40002011034	boxes-1	boxes	k	False	False
-40002011035	,-2	,		True	False
-40002011036	they-2	they	m	False	False
-40002011037	offered-1	offered	k	False	True
-40002011038	him-2	him	k	False	True
-40002011039	gifts-1	gifts	k	False	True
-40002011040	of-1	of	m	False	False
-40002011041	gold-1	gold	k	False	True
-40002011042	and-2	and	k	False	True
-40002011043	frankincense-1	frankincense	k	False	True
-40002011044	and-2	and	k	False	True
-40002011045	myrrh-1	myrrh	k	False	True
-40002011046	.-2	.		True	False
-40002012001	And-1	And	k	False	True
-40002012002	being-1	being	m	False	False
-40002012003	warned-1	warned	k	False	True
-40002012004	in-1	in	k	False	True
-40002012005	a-1	a	m	False	False
-40002012006	dream-1	dream	k	False	True
-40002012007	not-1	not	k	False	True
-40002012008	to-1	to	m	False	False
-40002012009	return-1	return	k	False	True
-40002012010	to-2	to	k	False	True
-40002012011	Herod-1	Herod	k	False	True
-40002012012	,-1	,		True	False
-40002012013	they-1	they	m	False	False
-40002012014	went-1	went	k	False	True
-40002012015	back-1	back	k	False	False
-40002012016	to-2	to	k	False	True
-40002012017	their-1	their	k	False	True
-40002012018	{-1	{		True	False
-40002012019	own-1	own	k	False	False
-40002012020	}-1	}		True	False
-40002012021	country-1	country	k	False	True
-40002012022	by-1	by	k	False	True
-40002012023	another-1	another	k	False	True
-40002012024	route-1	route	k	False	True
-40002012025	.-1	.		True	False
-40002013001	Now-1	Now	k	False	True
-40002013002	{-1	{		True	False
-40002013003	after-1	after	m	False	False
-40002013004	}-1	}		True	False
-40002013005	they-1	they	k	False	True
-40002013006	had-1	had	m	False	False
-40002013007	gone-1	gone	k	False	True
-40002013008	away-1	away	k	False	False
-40002013009	,-1	,		True	False
-40002013010	behold-1	behold	k	False	True
-40002013011	,-2	,		True	False
-40002013012	an-1	an	m	False	False
-40002013013	angel-1	angel	k	False	True
-40002013014	of-1	of	m	False	False
-40002013015	the-1	the		False	False
-40002013016	Lord-1	Lord	k	False	True
-40002013017	appeared-1	appeared	k	False	True
-40002013018	in-1	in	k	False	True
-40002013019	a-1	a	m	False	False
-40002013020	dream-1	dream	k	False	True
-40002013021	to-1	to	m	False	False
-40002013022	Joseph-1	Joseph	k	False	True
-40002013023	,-2	,		True	False
-40002013024	saying-1	saying	k	False	True
-40002013025	,-2	,		True	False
-40002013026	“-1	“		True	False
-40002013027	Get-1	Get	k	False	True
-40002013028	up-1	up	k	False	False
-40002013029	,-2	,		True	False
-40002013030	take-1	take	k	False	True
-40002013031	the-2	the	k	False	True
-40002013032	child-1	child	k	False	True
-40002013033	and-1	and	k	False	True
-40002013034	his-1	his	k	False	True
-40002013035	mother-1	mother	k	False	True
-40002013036	and-2	and	k	False	True
-40002013037	flee-1	flee	k	False	True
-40002013038	to-2	to	k	False	True
-40002013039	Egypt-1	Egypt	k	False	True
-40002013040	,-2	,		True	False
-40002013041	and-2	and	k	False	True
-40002013042	stay-1	stay	k	False	True
-40002013043	there-1	there	k	False	True
-40002013044	until-1	until	k	False	True
-40002013045	I-1	I	m	False	False
-40002013046	tell-1	tell	k	False	True
-40002013047	you-1	you	k	False	True
-40002013048	.-1	.		True	False
-40002013049	For-1	For	k	False	True
-40002013050	Herod-1	Herod	k	False	True
-40002013051	is-1	is	k	False	False
-40002013052	about-1	about	k	False	True
-40002013053	to-2	to	k	False	False
-40002013054	seek-1	seek	k	False	True
-40002013055	the-2	the	k	False	True
-40002013056	child-2	child	k	False	True
-40002013057	to-2	to	m	False	False
-40002013058	destroy-1	destroy	k	False	True
-40002013059	him-1	him	k	False	True
-40002013060	.-2	.		True	False
-40002013061	”-1	”		True	False
-40002014001	So-1	So	k	False	True
-40002014002	he-1	he	k	False	True
-40002014003	got-1	got	k	False	True
-40002014004	up-1	up	k	False	False
-40002014005	{-1	{		True	False
-40002014006	and-1	and		False	False
-40002014007	}-1	}		True	False
-40002014008	took-1	took	k	False	True
-40002014009	the-1	the	k	False	True
-40002014010	child-1	child	k	False	True
-40002014011	and-2	and	k	False	True
-40002014012	his-1	his	k	False	True
-40002014013	mother-1	mother	k	False	True
-40002014014	during-1	during		False	False
-40002014015	the-2	the		False	False
-40002014016	night-1	night	k	False	True
-40002014017	and-2	and	k	False	True
-40002014018	went-1	went	k	False	True
-40002014019	away-1	away	k	False	False
-40002014020	to-1	to	k	False	True
-40002014021	Egypt-1	Egypt	k	False	True
-40002014022	.-1	.		True	False
-40002015001	And-1	And	k	False	True
-40002015002	he-1	he	m	False	False
-40002015003	was-1	was	k	False	True
-40002015004	there-1	there	k	False	True
-40002015005	until-1	until	k	False	True
-40002015006	the-1	the	k	False	True
-40002015007	death-1	death	k	False	True
-40002015008	of-1	of	m	False	False
-40002015009	Herod-1	Herod	k	False	True
-40002015010	,-1	,		True	False
-40002015011	in-1	in	k	False	True
-40002015012	order-1	order	k	False	False
-40002015013	that-1	that	k	False	False
-40002015014	what-1	what	m	False	False
-40002015015	was-2	was	m	False	False
-40002015016	said-1	said	k	False	True
-40002015017	by-1	by	k	False	True
-40002015018	the-2	the		False	False
-40002015019	Lord-1	Lord	k	False	True
-40002015020	through-1	through	k	False	True
-40002015021	the-2	the	k	False	True
-40002015022	prophet-1	prophet	k	False	True
-40002015023	would-1	would	m	False	False
-40002015024	be-1	be	m	False	False
-40002015025	fulfilled-1	fulfilled	k	False	True
-40002015026	,-2	,		True	False
-40002015027	saying-1	saying	k	False	True
-40002015028	,-2	,		True	False
-40002015029	“-1	“		True	False
-40002015030	Out-1	Out	k	False	True
-40002015031	of-2	of	k	False	False
-40002015032	Egypt-1	Egypt	k	False	True
-40002015033	I-1	I	m	False	False
-40002015034	called-1	called	k	False	True
-40002015035	my-1	my	k	False	True
-40002015036	son-1	son	k	False	True
-40002015037	.-1	.		True	False
-40002015038	”-1	”		True	False
-40002016001	Then-1	Then	k	False	True
-40002016002	Herod-1	Herod	k	False	True
-40002016003	,-1	,		True	False
-40002016004	{-1	{		True	False
-40002016005	when-1	when	m	False	False
-40002016006	he-1	he		False	False
-40002016007	}-1	}		True	False
-40002016008	saw-1	saw	k	False	True
-40002016009	that-1	that	k	False	True
-40002016010	he-2	he	m	False	False
-40002016011	had-1	had	m	False	False
-40002016012	been-1	been	m	False	False
-40002016013	deceived-1	deceived	k	False	True
-40002016014	by-1	by	k	False	True
-40002016015	the-1	the	k	False	True
-40002016016	wise-1	wise	k	False	True
-40002016017	men-1	men	k	False	False
-40002016018	,-2	,		True	False
-40002016019	became-1	became	k	False	False
-40002016020	very-1	very	k	False	True
-40002016021	angry-1	angry	k	False	True
-40002016022	,-2	,		True	False
-40002016023	and-1	and	k	False	True
-40002016024	he-2	he	m	False	False
-40002016025	sent-1	sent	k	False	True
-40002016026	{-2	{		True	False
-40002016027	soldiers-1	soldiers		False	False
-40002016028	}-2	}		True	False
-40002016029	{-2	{		True	False
-40002016030	and-2	and		False	False
-40002016031	}-2	}		True	False
-40002016032	executed-1	executed	k	False	True
-40002016033	all-1	all	k	False	True
-40002016034	the-2	the	k	False	True
-40002016035	children-1	children	k	False	True
-40002016036	in-1	in	k	False	True
-40002016037	Bethlehem-1	Bethlehem	k	False	True
-40002016038	and-2	and	k	False	True
-40002016039	in-2	in	k	False	True
-40002016040	all-2	all	k	False	True
-40002016041	the-2	the	k	False	True
-40002016042	region-1	region	k	False	True
-40002016043	{-2	{		True	False
-40002016044	around-1	around		False	False
-40002016045	}-2	}		True	False
-40002016046	it-1	it	k	False	True
-40002016047	from-1	from	k	False	True
-40002016048	{-2	{		True	False
-40002016049	the-2	the		False	False
-40002016050	age-1	age		False	False
-40002016051	of-1	of		False	False
-40002016052	}-2	}		True	False
-40002016053	two-1	two	k	False	True
-40002016054	years-1	years	k	False	False
-40002016055	old-1	old	k	False	False
-40002016056	and-2	and	k	False	True
-40002016057	under-1	under	k	False	True
-40002016058	,-2	,		True	False
-40002016059	according-1	according	k	False	True
-40002016060	to-1	to	k	False	False
-40002016061	the-2	the	k	False	True
-40002016062	time-1	time	k	False	True
-40002016063	which-1	which	k	False	True
-40002016064	he-2	he	m	False	False
-40002016065	had-2	had	m	False	False
-40002016066	determined-1	determined	k	False	True
-40002016067	precisely-1	precisely	k	False	False
-40002016068	from-2	from	k	False	True
-40002016069	the-2	the	k	False	True
-40002016070	wise-2	wise	k	False	True
-40002016071	men-2	men	k	False	False
-40002016072	.-1	.		True	False
-40002017001	Then-1	Then	k	False	True
-40002017002	what-1	what	m	False	False
-40002017003	was-1	was	m	False	False
-40002017004	spoken-1	spoken	k	False	True
-40002017005	by-1	by	k	False	True
-40002017006	the-1	the	k	False	True
-40002017007	prophet-1	prophet	k	False	True
-40002017008	Jeremiah-1	Jeremiah	k	False	True
-40002017009	was-2	was	m	False	False
-40002017010	fulfilled-1	fulfilled	k	False	True
-40002017011	,-1	,		True	False
-40002017012	saying-1	saying	k	False	True
-40002017013	,-2	,		True	False
-40002018001	“-1	“		True	False
-40002018002	A-1	A	m	False	False
-40002018003	voice-1	voice	k	False	True
-40002018004	was-1	was	m	False	False
-40002018005	heard-1	heard	k	False	True
-40002018006	in-1	in	k	False	True
-40002018007	Ramah-1	Ramah	k	False	True
-40002018008	,-1	,		True	False
-40002018009	weeping-1	weeping	k	False	True
-40002018010	and-1	and	k	False	True
-40002018011	great-1	great	k	False	True
-40002018012	mourning-1	mourning	k	False	True
-40002018013	,-2	,		True	False
-40002018014	Rachel-1	Rachel	k	False	True
-40002018015	weeping-2	weeping	k	False	True
-40002018016	{-1	{		True	False
-40002018017	for-1	for	m	False	False
-40002018018	}-1	}		True	False
-40002018019	her-1	her	k	False	True
-40002018020	children-1	children	k	False	True
-40002018021	,-2	,		True	False
-40002018022	and-2	and	k	False	True
-40002018023	she-1	she	m	False	False
-40002018024	did-1	did	m	False	False
-40002018025	not-1	not	k	False	True
-40002018026	want-1	want	k	False	True
-40002018027	to-1	to	m	False	False
-40002018028	be-1	be	m	False	False
-40002018029	comforted-1	comforted	k	False	True
-40002018030	,-2	,		True	False
-40002018031	because-1	because	k	False	True
-40002018032	[-1	[		True	False
-40002018033	they-1	they	m	False	False
-40002018034	exist-1	exist	k	False	True
-40002018035	no-1	no	k	False	True
-40002018036	longer-1	longer	k	False	False
-40002018037	]-1	]		True	False
-40002018038	.-1	.		True	False
-40002018039	”-1	”		True	False
-40002019001	Now-1	Now	k	False	True
-40002019002	{-1	{		True	False
-40002019003	after-1	after	m	False	False
-40002019004	}-1	}		True	False
-40002019005	Herod-1	Herod	k	False	True
-40002019006	had-1	had	m	False	False
-40002019007	died-1	died	k	False	True
-40002019008	,-1	,		True	False
-40002019009	behold-1	behold	k	False	True
-40002019010	,-2	,		True	False
-40002019011	an-1	an	m	False	False
-40002019012	angel-1	angel	k	False	True
-40002019013	of-1	of	m	False	False
-40002019014	the-1	the		False	False
-40002019015	Lord-1	Lord	k	False	True
-40002019016	appeared-1	appeared	k	False	True
-40002019017	in-1	in	k	False	True
-40002019018	a-1	a	m	False	False
-40002019019	dream-1	dream	k	False	True
-40002019020	to-1	to	m	False	False
-40002019021	Joseph-1	Joseph	k	False	True
-40002019022	in-2	in	k	False	True
-40002019023	Egypt-1	Egypt	k	False	True
-40002019024	,-2	,		True	False
-40002020001	saying-1	saying	k	False	True
-40002020002	,-1	,		True	False
-40002020003	“-1	“		True	False
-40002020004	Get-1	Get	k	False	True
-40002020005	up-1	up	k	False	False
-40002020006	,-2	,		True	False
-40002020007	take-1	take	k	False	True
-40002020008	the-1	the	k	False	True
-40002020009	child-1	child	k	False	True
-40002020010	and-1	and	k	False	True
-40002020011	his-1	his	k	False	True
-40002020012	mother-1	mother	k	False	True
-40002020013	and-2	and	k	False	True
-40002020014	go-1	go	k	False	True
-40002020015	to-1	to	k	False	True
-40002020016	the-2	the		False	False
-40002020017	land-1	land	k	False	True
-40002020018	of-1	of	m	False	False
-40002020019	Israel-1	Israel	k	False	True
-40002020020	,-2	,		True	False
-40002020021	for-1	for	k	False	True
-40002020022	those-1	those	k	False	True
-40002020023	who-1	who	m	False	False
-40002020024	were-1	were	m	False	False
-40002020025	seeking-1	seeking	k	False	True
-40002020026	the-2	the	k	False	True
-40002020027	life-1	life	k	False	True
-40002020028	of-2	of	m	False	False
-40002020029	the-2	the	k	False	True
-40002020030	child-2	child	k	False	True
-40002020031	are-1	are	m	False	False
-40002020032	dead-1	dead	k	False	True
-40002020033	.-1	.		True	False
-40002020034	”-1	”		True	False
-40002021001	So-1	So	k	False	True
-40002021002	he-1	he	k	False	True
-40002021003	got-1	got	k	False	True
-40002021004	up-1	up	k	False	False
-40002021005	{-1	{		True	False
-40002021006	and-1	and		False	False
-40002021007	}-1	}		True	False
-40002021008	took-1	took	k	False	True
-40002021009	the-1	the	k	False	True
-40002021010	child-1	child	k	False	True
-40002021011	and-2	and	k	False	True
-40002021012	his-1	his	k	False	True
-40002021013	mother-1	mother	k	False	True
-40002021014	and-2	and	k	False	True
-40002021015	[-1	[		True	False
-40002021016	entered-1	entered	k	False	True
-40002021017	]-1	]		True	False
-40002021018	the-2	the		False	False
-40002021019	land-1	land	k	False	True
-40002021020	of-1	of	m	False	False
-40002021021	Israel-1	Israel	k	False	True
-40002021022	.-1	.		True	False
-40002022001	But-1	But	k	False	True
-40002022002	{-1	{		True	False
-40002022003	when-1	when	m	False	False
-40002022004	he-1	he		False	False
-40002022005	}-1	}		True	False
-40002022006	heard-1	heard	k	False	True
-40002022007	that-1	that	k	False	True
-40002022008	Archelaus-1	Archelaus	k	False	True
-40002022009	was-1	was	m	False	False
-40002022010	reigning-1	reigning	k	False	True
-40002022011	over-1	over	k	False	False
-40002022012	Judea-1	Judea	k	False	True
-40002022013	in-1	in	k	False	False
-40002022014	place-1	place	k	False	True
-40002022015	of-1	of	k	False	False
-40002022016	his-1	his	k	False	True
-40002022017	father-1	father	k	False	True
-40002022018	Herod-1	Herod	k	False	True
-40002022019	,-1	,		True	False
-40002022020	he-2	he	m	False	False
-40002022021	was-2	was	m	False	False
-40002022022	afraid-1	afraid	k	False	True
-40002022023	to-1	to	m	False	False
-40002022024	go-1	go	k	False	True
-40002022025	there-1	there	k	False	True
-40002022026	,-2	,		True	False
-40002022027	and-1	and	k	False	True
-40002022028	being-1	being	m	False	False
-40002022029	warned-1	warned	k	False	True
-40002022030	in-2	in	k	False	True
-40002022031	a-1	a	m	False	False
-40002022032	dream-1	dream	k	False	True
-40002022033	,-2	,		True	False
-40002022034	he-2	he	m	False	False
-40002022035	took-1	took	k	False	True
-40002022036	refuge-1	refuge	k	False	False
-40002022037	in-2	in	m	False	False
-40002022038	the-1	the	k	False	True
-40002022039	regions-1	regions	k	False	True
-40002022040	of-2	of	m	False	False
-40002022041	Galilee-1	Galilee	k	False	True
-40002022042	.-1	.		True	False
-40002023001	And-1	And	k	False	True
-40002023002	he-1	he	m	False	False
-40002023003	came-1	came	k	False	True
-40002023004	{-1	{		True	False
-40002023005	and-1	and		False	False
-40002023006	}-1	}		True	False
-40002023007	lived-1	lived	k	False	True
-40002023008	in-1	in	k	False	True
-40002023009	a-1	a	m	False	False
-40002023010	town-1	town	k	False	True
-40002023011	called-1	called	k	False	True
-40002023012	Nazareth-1	Nazareth	k	False	True
-40002023013	,-1	,		True	False
-40002023014	in-2	in	k	False	False
-40002023015	order-1	order	k	False	False
-40002023016	that-1	that	k	False	True
-40002023017	what-1	what	m	False	False
-40002023018	was-1	was	m	False	False
-40002023019	said-1	said	k	False	True
-40002023020	by-1	by	k	False	True
-40002023021	the-1	the	k	False	True
-40002023022	prophets-1	prophets	k	False	True
-40002023023	would-1	would	m	False	False
-40002023024	be-1	be	m	False	False
-40002023025	fulfilled-1	fulfilled	k	False	True
-40002023026	:-1	:		True	False
-40002023027	to-1	to		False	False
-40002023028	introduce-1	introduce		False	False
-40002023029	an-1	an		False	False
-40002023030	indirect-1	indirect		False	False
-40002023031	quotation-1	quotation		False	False
-40002023032	,-2	,		True	False
-40002023033	in-2	in		False	False
-40002023034	which-1	which		False	False
-40002023035	case-1	case		False	False
-40002023036	it-1	it		False	False
-40002023037	could-1	could		False	False
-40002023038	be-2	be		False	False
-40002023039	translated-1	translated		False	False
-40002023040	“-1	“		True	False
-40002023041	that-2	that		False	False
-40002023042	he-2	he		False	False
-40002023043	would-2	would		False	False
-40002023044	be-2	be		False	False
-40002023045	called-2	called		False	False
-40002023046	a-2	a		False	False
-40002023047	Nazarene-1	Nazarene		False	False
-40002023048	”-1	”		True	False
-40002023049	)-1	)		True	False
-40002023050	“-2	“		True	False
-40002023051	He-1	He	m	False	False
-40002023052	will-1	will	m	False	False
-40002023053	be-2	be	m	False	False
-40002023054	called-2	called	k	False	True
-40002023055	a-2	a	m	False	False
-40002023056	Nazarene-2	Nazarene	k	False	True
-40002023057	.-1	.		True	False
-40002023058	”-2	”		True	False
+41001001001	The-1	The		False	False
+41001001002	beginning-1	beginning	k	False	True
+41001001003	of-1	of	m	False	False
+41001001004	the-1	the	k	False	True
+41001001005	gospel-1	gospel	k	False	True
+41001001006	of-2	of	m	False	False
+41001001007	Jesus-1	Jesus	k	False	True
+41001001008	Christ-1	Christ	k	False	True
+41001001009	.-1	.		True	False
+41001002001	Just-1	Just	k	False	True
+41001002002	as-1	as	k	False	False
+41001002003	it-1	it	m	False	False
+41001002004	is-1	is	m	False	False
+41001002005	written-1	written	k	False	True
+41001002006	in-1	in	k	False	True
+41001002007	the-1	the	k	False	True
+41001002008	prophet-1	prophet	k	False	True
+41001002009	Isaiah-1	Isaiah	k	False	True
+41001002010	,-1	,		True	False
+41001002011	“-1	“		True	False
+41001002012	Behold-1	Behold	k	False	True
+41001002013	,-2	,		True	False
+41001002014	I-1	I	m	False	False
+41001002015	am-1	am	m	False	False
+41001002016	sending-1	sending	k	False	True
+41001002017	my-1	my	k	False	True
+41001002018	messenger-1	messenger	k	False	True
+41001002019	before-1	before	k	False	True
+41001002020	your-1	your	k	False	True
+41001002021	face-1	face	k	False	True
+41001002022	,-2	,		True	False
+41001002023	who-1	who	k	False	True
+41001002024	will-1	will	m	False	False
+41001002025	prepare-1	prepare	k	False	True
+41001002026	your-2	your	k	False	True
+41001002027	way-1	way	k	False	True
+41001002028	,-2	,		True	False
+41001003001	the-1	the		False	False
+41001003002	voice-1	voice	k	False	True
+41001003003	of-1	of	m	False	False
+41001003004	one-1	one	a	False	False
+41001003005	shouting-1	shouting	k	False	True
+41001003006	in-1	in	k	False	True
+41001003007	the-2	the	k	False	True
+41001003008	wilderness-1	wilderness	k	False	True
+41001003009	,-1	,		True	False
+41001003010	‘-1	‘		True	False
+41001003011	Prepare-1	Prepare	k	False	True
+41001003012	the-2	the	k	False	True
+41001003013	way-1	way	k	False	True
+41001003014	of-2	of	m	False	False
+41001003015	the-2	the		False	False
+41001003016	Lord-1	Lord	k	False	True
+41001003017	,-2	,		True	False
+41001003018	make-1	make	k	False	True
+41001003019	straight-1	straight	k	False	True
+41001003020	his-1	his	k	False	True
+41001003021	paths-1	paths	k	False	True
+41001003022	!-1	!		True	False
+41001003023	’-1	’		True	False
+41001003024	”-1	”		True	False
+41001004001	John-1	John	k	False	True
+41001004002	was-1	was	k	False	True
+41001004003	there-1	there		False	False
+41001004004	baptizing-1	baptizing	k	False	True
+41001004005	in-1	in	k	False	True
+41001004006	the-1	the	k	False	True
+41001004007	wilderness-1	wilderness	k	False	True
+41001004008	,-1	,		True	False
+41001004009	proclaiming-1	proclaiming	k	False	True
+41001004010	a-1	a	m	False	False
+41001004011	baptism-1	baptism	k	False	True
+41001004012	of-1	of	m	False	False
+41001004013	repentance-1	repentance	k	False	True
+41001004014	for-1	for	k	False	True
+41001004015	the-2	the		False	False
+41001004016	forgiveness-1	forgiveness	k	False	True
+41001004017	of-2	of	m	False	False
+41001004018	sins-1	sins	k	False	True
+41001004019	.-1	.		True	False
+41001005001	And-1	And	k	False	True
+41001005002	all-1	all	k	False	True
+41001005003	the-1	the	k	False	True
+41001005004	Judean-1	Judean	k	False	True
+41001005005	region-1	region	k	False	True
+41001005006	and-1	and	k	False	True
+41001005007	all-2	all	k	False	True
+41001005008	the-2	the	k	False	True
+41001005009	inhabitants-1	inhabitants	k	False	False
+41001005010	of-1	of	k	False	False
+41001005011	Jerusalem-1	Jerusalem	k	False	True
+41001005012	went-1	went	k	False	True
+41001005013	out-1	out	k	False	False
+41001005014	to-1	to	k	False	True
+41001005015	him-1	him	k	False	True
+41001005016	and-2	and	k	False	True
+41001005017	were-1	were	m	False	False
+41001005018	being-1	being	m	False	False
+41001005019	baptized-1	baptized	k	False	True
+41001005020	by-1	by	k	False	True
+41001005021	him-2	him	k	False	True
+41001005022	in-1	in	k	False	True
+41001005023	the-2	the	k	False	True
+41001005024	Jordan-1	Jordan	k	False	True
+41001005025	River-1	River	k	False	True
+41001005026	,-1	,		True	False
+41001005027	confessing-1	confessing	k	False	True
+41001005028	their-1	their	k	False	True
+41001005029	sins-1	sins	k	False	True
+41001005030	.-1	.		True	False
+41001006001	And-1	And	k	False	True
+41001006002	John-1	John	k	False	True
+41001006003	was-1	was	k	False	True
+41001006004	dressed-1	dressed	k	False	True
+41001006005	in-1	in	k	False	False
+41001006006	camel’s-1	camel’s	k	False	True
+41001006007	hair-1	hair	k	False	True
+41001006008	and-1	and	k	False	True
+41001006009	a-1	a	m	False	False
+41001006010	belt-1	belt	k	False	True
+41001006011	made-1	made	k	False	False
+41001006012	of-1	of	k	False	False
+41001006013	leather-1	leather	k	False	True
+41001006014	around-1	around	k	False	True
+41001006015	his-1	his	k	False	True
+41001006016	waist-1	waist	k	False	True
+41001006017	,-1	,		True	False
+41001006018	and-2	and	k	False	True
+41001006019	he-1	he		False	False
+41001006020	ate-1	ate	k	False	True
+41001006021	locusts-1	locusts	k	False	True
+41001006022	and-2	and	k	False	True
+41001006023	wild-1	wild	k	False	True
+41001006024	honey-1	honey	k	False	True
+41001006025	.-1	.		True	False
+41001007001	And-1	And	k	False	True
+41001007002	he-1	he	m	False	False
+41001007003	was-1	was	m	False	False
+41001007004	preaching-1	preaching	k	False	True
+41001007005	,-1	,		True	False
+41001007006	saying-1	saying	k	False	True
+41001007007	,-2	,		True	False
+41001007008	“-1	“		True	False
+41001007009	One-1	One	k	False	True
+41001007010	{-1	{		True	False
+41001007011	who-1	who		False	False
+41001007012	is-1	is		False	False
+41001007013	}-1	}		True	False
+41001007014	more-1	more	m	False	False
+41001007015	powerful-1	powerful	k	False	True
+41001007016	than-1	than	m	False	False
+41001007017	I-1	I	k	False	True
+41001007018	is-2	is	m	False	False
+41001007019	coming-1	coming	k	False	True
+41001007020	after-1	after	k	False	True
+41001007021	me-1	me	k	False	True
+41001007022	,-2	,		True	False
+41001007023	of-1	of		False	False
+41001007024	whom-1	whom	k	False	True
+41001007025	I-2	I	m	False	False
+41001007026	am-1	am	k	False	True
+41001007027	not-1	not	k	False	True
+41001007028	worthy-1	worthy	k	False	True
+41001007029	to-1	to		False	False
+41001007030	bend-1	bend	k	False	True
+41001007031	down-1	down	k	False	False
+41001007032	{-2	{		True	False
+41001007033	and-1	and		False	False
+41001007034	}-2	}		True	False
+41001007035	untie-1	untie	k	False	True
+41001007036	the-1	the	k	False	True
+41001007037	strap-1	strap	k	False	True
+41001007038	of-2	of	m	False	False
+41001007039	his-1	his	k	False	True
+41001007040	sandals-1	sandals	k	False	True
+41001007041	.-1	.		True	False
+41001008001	I-1	I	k	False	True
+41001008002	baptized-1	baptized	k	False	True
+41001008003	you-1	you	k	False	True
+41001008004	with-1	with	m	False	False
+41001008005	water-1	water	k	False	True
+41001008006	,-1	,		True	False
+41001008007	but-1	but	k	False	True
+41001008008	he-1	he	k	False	True
+41001008009	will-1	will	m	False	False
+41001008010	baptize-1	baptize	k	False	True
+41001008011	you-2	you	k	False	True
+41001008012	with-2	with	k	False	True
+41001008013	the-1	the		False	False
+41001008014	Holy-1	Holy	k	False	True
+41001008015	Spirit-1	Spirit	k	False	True
+41001008016	.-1	.		True	False
+41001008017	”-1	”		True	False
+41001009001	And-1	And	k	False	True
+41001009002	it-1	it	m	False	False
+41001009003	happened-1	happened	k	False	True
+41001009004	that-1	that		False	False
+41001009005	in-1	in	k	False	True
+41001009006	those-1	those	k	False	True
+41001009007	days-1	days	k	False	True
+41001009008	Jesus-1	Jesus	k	False	True
+41001009009	came-1	came	k	False	True
+41001009010	from-1	from	k	False	True
+41001009011	Nazareth-1	Nazareth	k	False	True
+41001009012	in-2	in	m	False	False
+41001009013	Galilee-1	Galilee	k	False	True
+41001009014	and-1	and	k	False	True
+41001009015	was-1	was	m	False	False
+41001009016	baptized-1	baptized	k	False	True
+41001009017	in-2	in	k	False	True
+41001009018	the-1	the	k	False	True
+41001009019	Jordan-1	Jordan	k	False	True
+41001009020	by-1	by	k	False	True
+41001009021	John-1	John	k	False	True
+41001009022	.-1	.		True	False
+41001010001	And-1	And	k	False	True
+41001010002	immediately-1	immediately	k	False	True
+41001010003	{-1	{		True	False
+41001010004	as-1	as	m	False	False
+41001010005	he-1	he		False	False
+41001010006	}-1	}		True	False
+41001010007	was-1	was	m	False	False
+41001010008	coming-1	coming	k	False	True
+41001010009	up-1	up	k	False	False
+41001010010	out-1	out	k	False	True
+41001010011	of-1	of	k	False	False
+41001010012	the-1	the	k	False	True
+41001010013	water-1	water	k	False	True
+41001010014	,-1	,		True	False
+41001010015	he-2	he	m	False	False
+41001010016	saw-1	saw	k	False	True
+41001010017	the-2	the	k	False	True
+41001010018	heavens-1	heavens	k	False	True
+41001010019	being-1	being	m	False	False
+41001010020	split-1	split	k	False	True
+41001010021	apart-1	apart	k	False	False
+41001010022	and-1	and	k	False	True
+41001010023	the-2	the	k	False	True
+41001010024	Spirit-1	Spirit	k	False	True
+41001010025	descending-1	descending	k	False	True
+41001010026	like-1	like	k	False	True
+41001010027	a-1	a	m	False	False
+41001010028	dove-1	dove	k	False	True
+41001010029	on-1	on	k	False	True
+41001010030	him-1	him	k	False	True
+41001010031	.-1	.		True	False
+41001011001	And-1	And	k	False	True
+41001011002	a-1	a	m	False	False
+41001011003	voice-1	voice	k	False	True
+41001011004	came-1	came	k	False	True
+41001011005	from-1	from	k	False	True
+41001011006	heaven-1	heaven	k	False	True
+41001011007	,-1	,		True	False
+41001011008	“-1	“		True	False
+41001011009	You-1	You	k	False	True
+41001011010	are-1	are	k	False	True
+41001011011	my-1	my	k	False	True
+41001011012	beloved-1	beloved	k	False	True
+41001011013	Son-1	Son	k	False	True
+41001011014	;-1	;		True	False
+41001011015	with-1	with	k	False	True
+41001011016	you-1	you	k	False	True
+41001011017	I-1	I	m	False	False
+41001011018	am-1	am	m	False	False
+41001011019	well-1	well	k	False	False
+41001011020	pleased-1	pleased	k	False	True
+41001011021	.-1	.		True	False
+41001011022	”-1	”		True	False
+41001012001	And-1	And	k	False	True
+41001012002	immediately-1	immediately	k	False	True
+41001012003	the-1	the	k	False	True
+41001012004	Spirit-1	Spirit	k	False	True
+41001012005	drove-1	drove	k	False	True
+41001012006	him-1	him	k	False	True
+41001012007	out-1	out	k	False	False
+41001012008	into-1	into	k	False	True
+41001012009	the-2	the	k	False	True
+41001012010	wilderness-1	wilderness	k	False	True
+41001012011	.-1	.		True	False
+41001013001	And-1	And	k	False	True
+41001013002	he-1	he	m	False	False
+41001013003	was-1	was	k	False	True
+41001013004	in-1	in	k	False	True
+41001013005	the-1	the	k	False	True
+41001013006	wilderness-1	wilderness	k	False	True
+41001013007	forty-1	forty	k	False	True
+41001013008	days-1	days	k	False	True
+41001013009	being-1	being	m	False	False
+41001013010	tempted-1	tempted	k	False	True
+41001013011	by-1	by	k	False	True
+41001013012	Satan-1	Satan	k	False	True
+41001013013	.-1	.		True	False
+41001013014	And-2	And	k	False	True
+41001013015	he-2	he	m	False	False
+41001013016	was-2	was	k	False	True
+41001013017	with-1	with	k	False	True
+41001013018	the-2	the	k	False	True
+41001013019	wild-1	wild	k	False	False
+41001013020	animals-1	animals	k	False	True
+41001013021	,-1	,		True	False
+41001013022	and-1	and	k	False	True
+41001013023	the-2	the	k	False	True
+41001013024	angels-1	angels	k	False	True
+41001013025	were-1	were	m	False	False
+41001013026	ministering-1	ministering	k	False	True
+41001013027	to-1	to	m	False	False
+41001013028	him-1	him	k	False	True
+41001013029	.-2	.		True	False
+41001014001	And-1	And	k	False	True
+41001014002	after-1	after	k	False	True
+41001014003	John-1	John	k	False	True
+41001014004	[-1	[		True	False
+41001014005	had-1	had	m	False	False
+41001014006	been-1	been	m	False	False
+41001014007	taken-1	taken	k	False	True
+41001014008	into-1	into	k	False	False
+41001014009	custody-1	custody	k	False	False
+41001014010	]-1	]		True	False
+41001014011	,-1	,		True	False
+41001014012	Jesus-1	Jesus	k	False	True
+41001014013	went-1	went	k	False	True
+41001014014	into-2	into	k	False	True
+41001014015	Galilee-1	Galilee	k	False	True
+41001014016	proclaiming-1	proclaiming	k	False	True
+41001014017	the-1	the	k	False	True
+41001014018	gospel-1	gospel	k	False	True
+41001014019	of-1	of	m	False	False
+41001014020	God-1	God	k	False	True
+41001015001	and-1	and	k	False	True
+41001015002	saying-1	saying	k	False	True
+41001015003	,-1	,		True	False
+41001015004	“-1	“		True	False
+41001015005	The-1	The	k	False	True
+41001015006	time-1	time	k	False	True
+41001015007	is-1	is	m	False	False
+41001015008	fulfilled-1	fulfilled	k	False	True
+41001015009	and-2	and	k	False	True
+41001015010	the-1	the	k	False	True
+41001015011	kingdom-1	kingdom	k	False	True
+41001015012	of-1	of	m	False	False
+41001015013	God-1	God	k	False	True
+41001015014	has-1	has	m	False	False
+41001015015	come-1	come	k	False	True
+41001015016	near-1	near	k	False	False
+41001015017	.-1	.		True	False
+41001015018	Repent-1	Repent	k	False	True
+41001015019	and-2	and	k	False	True
+41001015020	believe-1	believe	k	False	True
+41001015021	in-1	in	k	False	True
+41001015022	the-2	the	k	False	True
+41001015023	gospel-1	gospel	k	False	True
+41001015024	!-1	!		True	False
+41001015025	”-1	”		True	False
+41001016001	And-1	And	k	False	True
+41001016002	{-1	{		True	False
+41001016003	as-1	as	m	False	False
+41001016004	he-1	he		False	False
+41001016005	}-1	}		True	False
+41001016006	was-1	was	m	False	False
+41001016007	passing-1	passing	k	False	True
+41001016008	by-1	by	k	False	False
+41001016009	along-1	along	k	False	True
+41001016010	the-1	the	k	False	True
+41001016011	Sea-1	Sea	k	False	True
+41001016012	of-1	of	m	False	False
+41001016013	Galilee-1	Galilee	k	False	True
+41001016014	,-1	,		True	False
+41001016015	he-2	he	m	False	False
+41001016016	saw-1	saw	k	False	True
+41001016017	Simon-1	Simon	k	False	True
+41001016018	and-1	and	k	False	True
+41001016019	Andrew-1	Andrew	k	False	True
+41001016020	,-2	,		True	False
+41001016021	Simon’s-1	Simon’s	k	False	True
+41001016022	brother-1	brother	k	False	True
+41001016023	,-2	,		True	False
+41001016024	casting-1	casting	k	False	True
+41001016025	{-2	{		True	False
+41001016026	a-1	a	k	False	False
+41001016027	net-1	net	k	False	False
+41001016028	}-2	}		True	False
+41001016029	into-1	into	k	False	True
+41001016030	the-2	the	k	False	True
+41001016031	sea-1	sea	k	False	True
+41001016032	.-1	.		True	False
+41001017001	And-1	And	k	False	True
+41001017002	Jesus-1	Jesus	k	False	True
+41001017003	said-1	said	k	False	True
+41001017004	to-1	to	m	False	False
+41001017005	them-1	them	k	False	True
+41001017006	,-1	,		True	False
+41001017007	“-1	“		True	False
+41001017008	[-1	[		True	False
+41001017009	Follow-1	Follow	k	False	True
+41001017010	]-1	]		True	False
+41001017011	me-1	me	k	False	True
+41001017012	and-1	and	k	False	True
+41001017013	I-1	I	m	False	False
+41001017014	will-1	will	m	False	False
+41001017015	make-1	make	k	False	True
+41001017016	you-1	you	k	False	True
+41001017017	become-1	become	k	False	True
+41001017018	fishers-1	fishers	k	False	True
+41001017019	of-1	of	m	False	False
+41001017020	people-1	people	k	False	True
+41001017021	.-1	.		True	False
+41001017022	”-1	”		True	False
+41001018001	And-1	And	k	False	True
+41001018002	immediately-1	immediately	k	False	True
+41001018003	they-1	they	m	False	False
+41001018004	left-1	left	k	False	True
+41001018005	their-1	their		False	False
+41001018006	nets-1	nets	k	False	True
+41001018007	{-1	{		True	False
+41001018008	and-1	and		False	False
+41001018009	}-1	}		True	False
+41001018010	followed-1	followed	k	False	True
+41001018011	him-1	him	k	False	True
+41001018012	.-1	.		True	False
+41001019001	And-1	And	k	False	True
+41001019002	going-1	going	k	False	True
+41001019003	on-1	on	k	False	False
+41001019004	a-1	a	k	False	False
+41001019005	little-1	little	k	False	True
+41001019006	{-1	{		True	False
+41001019007	farther-1	farther	k	False	False
+41001019008	}-1	}		True	False
+41001019009	,-1	,		True	False
+41001019010	he-1	he	m	False	False
+41001019011	saw-1	saw	k	False	True
+41001019012	James-1	James	k	False	True
+41001019013	the-1	the	k	False	True
+41001019014	{-2	{		True	False
+41001019015	son-1	son	a	False	False
+41001019016	}-2	}		True	False
+41001019017	of-1	of	m	False	False
+41001019018	Zebedee-1	Zebedee	k	False	True
+41001019019	and-1	and	k	False	True
+41001019020	his-1	his	k	False	True
+41001019021	brother-1	brother	k	False	True
+41001019022	John-1	John	k	False	True
+41001019023	,-2	,		True	False
+41001019024	and-2	and	k	False	True
+41001019025	they-1	they	k	False	True
+41001019026	{-2	{		True	False
+41001019027	were-1	were		False	False
+41001019028	}-2	}		True	False
+41001019029	in-1	in	k	False	True
+41001019030	the-2	the	k	False	True
+41001019031	boat-1	boat	k	False	True
+41001019032	mending-1	mending	k	False	True
+41001019033	the-2	the	k	False	True
+41001019034	nets-1	nets	k	False	True
+41001019035	.-1	.		True	False
+41001020001	And-1	And	k	False	True
+41001020002	immediately-1	immediately	k	False	True
+41001020003	he-1	he	m	False	False
+41001020004	called-1	called	k	False	True
+41001020005	them-1	them	k	False	True
+41001020006	,-1	,		True	False
+41001020007	and-1	and	k	False	True
+41001020008	they-1	they	m	False	False
+41001020009	left-1	left	k	False	True
+41001020010	their-1	their	k	False	True
+41001020011	father-1	father	k	False	True
+41001020012	Zebedee-1	Zebedee	k	False	True
+41001020013	in-1	in	k	False	True
+41001020014	the-1	the	k	False	True
+41001020015	boat-1	boat	k	False	True
+41001020016	with-1	with	k	False	True
+41001020017	the-2	the	k	False	True
+41001020018	hired-1	hired	k	False	True
+41001020019	men-1	men	k	False	False
+41001020020	{-1	{		True	False
+41001020021	and-2	and		False	False
+41001020022	}-1	}		True	False
+41001020023	went-1	went	k	False	True
+41001020024	away-1	away	k	False	False
+41001020025	after-1	after	k	False	True
+41001020026	him-1	him	k	False	True
+41001020027	.-1	.		True	False
+41001021001	And-1	And	k	False	True
+41001021002	they-1	they	m	False	False
+41001021003	went-1	went	k	False	True
+41001021004	into-1	into	k	False	True
+41001021005	Capernaum-1	Capernaum	k	False	True
+41001021006	and-1	and	k	False	True
+41001021007	immediately-1	immediately	k	False	True
+41001021008	on-1	on	m	False	False
+41001021009	the-1	the	k	False	True
+41001021010	Sabbath-1	Sabbath	k	False	True
+41001021011	he-1	he	m	False	False
+41001021012	began-1	began	m	False	False
+41001021013	to-1	to	m	False	False
+41001021014	teach-1	teach	k	False	True
+41001021015	in-1	in	m	False	False
+41001021016	the-2	the	k	False	True
+41001021017	synagogue-1	synagogue	k	False	True
+41001021018	.-1	.		True	False
+41001022001	And-1	And	k	False	True
+41001022002	they-1	they	m	False	False
+41001022003	were-1	were	m	False	False
+41001022004	amazed-1	amazed	k	False	True
+41001022005	at-1	at	k	False	True
+41001022006	his-1	his	k	False	True
+41001022007	teaching-1	teaching	k	False	True
+41001022008	,-1	,		True	False
+41001022009	because-1	because	k	False	True
+41001022010	he-1	he	m	False	False
+41001022011	was-1	was	k	False	True
+41001022012	teaching-2	teaching	k	False	True
+41001022013	them-1	them	k	False	True
+41001022014	like-1	like	k	False	True
+41001022015	one-1	one	a	False	False
+41001022016	who-1	who	m	False	False
+41001022017	had-1	had	k	False	True
+41001022018	authority-1	authority	k	False	True
+41001022019	,-2	,		True	False
+41001022020	and-1	and	k	False	True
+41001022021	not-1	not	k	False	True
+41001022022	like-2	like	k	False	True
+41001022023	the-1	the	k	False	True
+41001022024	scribes-1	scribes	k	False	True
+41001022025	.-1	.		True	False
+41001023001	And-1	And		False	False
+41001023002	so-1	so	k	False	True
+41001023003	then-1	then	k	False	False
+41001023004	there-1	there	k	False	False
+41001023005	was-1	was	k	False	True
+41001023006	a-1	a	m	False	False
+41001023007	man-1	man	k	False	True
+41001023008	in-1	in	k	False	True
+41001023009	their-1	their	k	False	True
+41001023010	synagogue-1	synagogue	k	False	True
+41001023011	with-1	with	k	False	True
+41001023012	an-1	an	m	False	False
+41001023013	unclean-1	unclean	k	False	True
+41001023014	spirit-1	spirit	k	False	True
+41001023015	,-1	,		True	False
+41001023016	and-1	and	k	False	True
+41001023017	he-1	he	m	False	False
+41001023018	cried-1	cried	k	False	True
+41001023019	out-1	out	k	False	False
+41001023020	,-2	,		True	False
+41001024001	saying-1	saying	k	False	True
+41001024002	,-1	,		True	False
+41001024003	“-1	“		True	False
+41001024004	[-1	[		True	False
+41001024005	Leave-1	Leave		False	False
+41001024006	us-1	us	k	False	True
+41001024007	alone-1	alone		False	False
+41001024008	]-1	]		True	False
+41001024009	,-2	,		True	False
+41001024010	Jesus-1	Jesus	k	False	True
+41001024011	the-1	the		False	False
+41001024012	Nazarene-1	Nazarene	k	False	True
+41001024013	!-1	!		True	False
+41001024014	Have-1	Have	m	False	False
+41001024015	you-1	you	m	False	False
+41001024016	come-1	come	k	False	True
+41001024017	to-1	to	m	False	False
+41001024018	destroy-1	destroy	k	False	True
+41001024019	us-2	us	k	False	True
+41001024020	?-1	?		True	False
+41001024021	I-1	I	m	False	False
+41001024022	know-1	know	k	False	True
+41001024023	who-1	who	k	False	True
+41001024024	you-2	you	k	False	True
+41001024025	are-1	are	k	False	True
+41001024026	—-1	—		True	False
+41001024027	the-2	the	k	False	True
+41001024028	Holy-1	Holy	k	False	True
+41001024029	One-1	One	a	False	False
+41001024030	of-1	of	m	False	False
+41001024031	God-1	God	k	False	True
+41001024032	!-2	!		True	False
+41001024033	”-1	”		True	False
+41001025001	And-1	And	k	False	True
+41001025002	Jesus-1	Jesus	k	False	True
+41001025003	rebuked-1	rebuked	k	False	True
+41001025004	him-1	him	k	False	True
+41001025005	,-1	,		True	False
+41001025006	saying-1	saying	k	False	True
+41001025007	,-2	,		True	False
+41001025008	“-1	“		True	False
+41001025009	Be-1	Be	m	False	False
+41001025010	silent-1	silent	k	False	True
+41001025011	,-2	,		True	False
+41001025012	and-1	and	k	False	True
+41001025013	come-1	come	k	False	True
+41001025014	out-1	out	k	False	False
+41001025015	of-1	of	k	False	True
+41001025016	him-2	him	k	False	True
+41001025017	!-1	!		True	False
+41001025018	”-1	”		True	False
+41001026001	And-1	And	k	False	True
+41001026002	{-1	{		True	False
+41001026003	after-1	after	m	False	False
+41001026004	}-1	}		True	False
+41001026005	convulsing-1	convulsing	k	False	True
+41001026006	him-1	him	k	False	True
+41001026007	and-1	and	k	False	True
+41001026008	crying-1	crying	k	False	True
+41001026009	out-1	out	k	False	False
+41001026010	with-1	with	m	False	False
+41001026011	a-1	a	m	False	False
+41001026012	loud-1	loud	k	False	True
+41001026013	voice-1	voice	k	False	True
+41001026014	,-1	,		True	False
+41001026015	the-1	the	k	False	True
+41001026016	unclean-1	unclean	k	False	True
+41001026017	spirit-1	spirit	k	False	True
+41001026018	came-1	came	k	False	True
+41001026019	out-2	out	k	False	False
+41001026020	of-1	of	k	False	True
+41001026021	him-2	him	k	False	True
+41001026022	.-1	.		True	False
+41001027001	And-1	And	k	False	True
+41001027002	they-1	they	m	False	False
+41001027003	were-1	were	m	False	False
+41001027004	all-1	all	k	False	True
+41001027005	amazed-1	amazed	k	False	True
+41001027006	,-1	,		True	False
+41001027007	so-1	so	k	False	True
+41001027008	that-1	that	k	False	False
+41001027009	{-1	{		True	False
+41001027010	they-2	they		False	False
+41001027011	began-1	began	m	False	False
+41001027012	}-1	}		True	False
+41001027013	to-1	to	m	False	False
+41001027014	discuss-1	discuss	k	False	True
+41001027015	with-1	with	k	False	True
+41001027016	one-1	one	k	False	True
+41001027017	another-1	another	k	False	False
+41001027018	,-2	,		True	False
+41001027019	saying-1	saying	k	False	True
+41001027020	,-2	,		True	False
+41001027021	“-1	“		True	False
+41001027022	What-1	What	k	False	True
+41001027023	is-1	is	k	False	True
+41001027024	this-1	this	k	False	True
+41001027025	?-1	?		True	False
+41001027026	A-1	A	m	False	False
+41001027027	new-1	new	k	False	True
+41001027028	teaching-1	teaching	k	False	True
+41001027029	with-2	with	k	False	True
+41001027030	authority-1	authority	k	False	True
+41001027031	!-1	!		True	False
+41001027032	He-1	He	m	False	False
+41001027033	even-1	even	k	False	True
+41001027034	commands-1	commands	k	False	True
+41001027035	the-1	the	k	False	True
+41001027036	unclean-1	unclean	k	False	True
+41001027037	spirits-1	spirits	k	False	True
+41001027038	and-1	and	k	False	True
+41001027039	they-2	they	m	False	False
+41001027040	obey-1	obey	k	False	True
+41001027041	him-1	him	k	False	True
+41001027042	.-1	.		True	False
+41001027043	”-1	”		True	False
+41001028001	And-1	And	k	False	True
+41001028002	the-1	the	k	False	True
+41001028003	report-1	report	k	False	True
+41001028004	about-1	about	m	False	False
+41001028005	him-1	him	k	False	True
+41001028006	then-1	then		False	False
+41001028007	went-1	went	k	False	True
+41001028008	out-1	out	k	False	False
+41001028009	everywhere-1	everywhere	k	False	True
+41001028010	in-1	in	k	False	True
+41001028011	the-2	the	k	False	True
+41001028012	whole-1	whole	k	False	True
+41001028013	surrounding-1	surrounding	k	False	True
+41001028014	region-1	region	k	False	False
+41001028015	of-1	of	m	False	False
+41001028016	Galilee-1	Galilee	k	False	True
+41001028017	.-1	.		True	False
+41001029001	And-1	And	k	False	True
+41001029002	so-1	so		False	False
+41001029003	then-1	then		False	False
+41001029004	he-1	he	m	False	False
+41001029005	departed-1	departed	k	False	True
+41001029006	from-1	from	k	False	True
+41001029007	the-1	the	k	False	True
+41001029008	synagogue-1	synagogue	k	False	True
+41001029009	{-1	{		True	False
+41001029010	and-1	and		False	False
+41001029011	}-1	}		True	False
+41001029012	came-1	came	k	False	True
+41001029013	into-1	into	k	False	True
+41001029014	the-2	the	k	False	True
+41001029015	house-1	house	k	False	True
+41001029016	of-1	of	m	False	False
+41001029017	Simon-1	Simon	k	False	True
+41001029018	and-2	and	k	False	True
+41001029019	Andrew-1	Andrew	k	False	True
+41001029020	with-1	with	k	False	True
+41001029021	James-1	James	k	False	True
+41001029022	and-2	and	k	False	True
+41001029023	John-1	John	k	False	True
+41001029024	.-1	.		True	False
+41001030001	Now-1	Now	k	False	True
+41001030002	Simon’s-1	Simon’s	k	False	True
+41001030003	mother-in-law-1	mother-in-law	k	False	True
+41001030004	was-1	was	m	False	False
+41001030005	lying-1	lying	k	False	True
+41001030006	down-1	down	k	False	False
+41001030007	,-1	,		True	False
+41001030008	suffering-1	suffering	k	False	False
+41001030009	with-1	with	k	False	False
+41001030010	a-1	a	k	False	False
+41001030011	fever-1	fever	k	False	True
+41001030012	,-2	,		True	False
+41001030013	and-1	and	k	False	True
+41001030014	at-1	at	k	False	False
+41001030015	once-1	once	k	False	True
+41001030016	they-1	they	m	False	False
+41001030017	told-1	told	k	False	True
+41001030018	him-1	him	k	False	True
+41001030019	about-1	about	k	False	True
+41001030020	her-1	her	k	False	True
+41001030021	.-1	.		True	False
+41001031001	And-1	And	k	False	True
+41001031002	he-1	he	m	False	False
+41001031003	came-1	came	k	False	True
+41001031004	{-1	{		True	False
+41001031005	and-1	and		False	False
+41001031006	}-1	}		True	False
+41001031007	raised-1	raised	k	False	True
+41001031008	her-1	her	k	False	True
+41001031009	up-1	up	k	False	False
+41001031010	{-2	{		True	False
+41001031011	by-1	by	m	False	False
+41001031012	}-2	}		True	False
+41001031013	taking-1	taking	k	False	False
+41001031014	hold-1	hold	k	False	True
+41001031015	of-1	of	k	False	False
+41001031016	her-2	her		False	False
+41001031017	hand-1	hand	k	False	True
+41001031018	,-1	,		True	False
+41001031019	and-2	and	k	False	True
+41001031020	the-1	the	k	False	True
+41001031021	fever-1	fever	k	False	True
+41001031022	left-1	left	k	False	True
+41001031023	her-2	her	k	False	True
+41001031024	,-2	,		True	False
+41001031025	and-2	and	k	False	True
+41001031026	she-1	she	m	False	False
+41001031027	began-1	began	m	False	False
+41001031028	to-1	to	m	False	False
+41001031029	serve-1	serve	k	False	True
+41001031030	them-1	them	k	False	True
+41001031031	.-1	.		True	False
+41001032001	Now-1	Now	k	False	True
+41001032002	{-1	{		True	False
+41001032003	when-1	when	m	False	False
+41001032004	it-1	it		False	False
+41001032005	}-1	}		True	False
+41001032006	was-1	was	k	False	True
+41001032007	evening-1	evening	k	False	True
+41001032008	,-1	,		True	False
+41001032009	when-2	when	k	False	True
+41001032010	the-1	the	k	False	True
+41001032011	sun-1	sun	k	False	True
+41001032012	had-1	had	m	False	False
+41001032013	set-1	set	k	False	True
+41001032014	,-2	,		True	False
+41001032015	they-1	they	m	False	False
+41001032016	began-1	began	m	False	False
+41001032017	bringing-1	bringing	k	False	True
+41001032018	to-1	to	k	False	True
+41001032019	him-1	him	k	False	True
+41001032020	all-1	all	k	False	True
+41001032021	those-1	those	k	False	True
+41001032022	[-1	[		True	False
+41001032023	who-1	who	m	False	False
+41001032024	were-1	were	m	False	False
+41001032025	sick-1	sick	k	False	True
+41001032026	]-1	]		True	False
+41001032027	and-1	and	k	False	True
+41001032028	those-2	those	k	False	True
+41001032029	who-2	who	m	False	False
+41001032030	were-2	were	m	False	False
+41001032031	demon-possessed-1	demon-possessed	k	False	True
+41001032032	.-1	.		True	False
+41001033001	And-1	And	k	False	True
+41001033002	the-1	the	k	False	True
+41001033003	whole-1	whole	k	False	True
+41001033004	town-1	town	k	False	True
+41001033005	was-1	was	k	False	True
+41001033006	gathered-1	gathered	k	False	True
+41001033007	together-1	together	k	False	False
+41001033008	at-1	at	k	False	True
+41001033009	the-2	the	k	False	True
+41001033010	door-1	door	k	False	True
+41001033011	.-1	.		True	False
+41001034001	And-1	And	k	False	True
+41001034002	he-1	he	m	False	False
+41001034003	healed-1	healed	k	False	True
+41001034004	many-1	many	k	False	True
+41001034005	[-1	[		True	False
+41001034006	who-1	who	m	False	False
+41001034007	were-1	were	m	False	False
+41001034008	sick-1	sick	k	False	True
+41001034009	]-1	]		True	False
+41001034010	with-1	with	m	False	False
+41001034011	various-1	various	k	False	True
+41001034012	diseases-1	diseases	k	False	True
+41001034013	and-1	and	k	False	True
+41001034014	expelled-1	expelled	k	False	True
+41001034015	many-2	many	k	False	True
+41001034016	demons-1	demons	k	False	True
+41001034017	.-1	.		True	False
+41001034018	And-2	And	k	False	True
+41001034019	he-2	he	m	False	False
+41001034020	did-1	did	m	False	False
+41001034021	not-1	not	k	False	True
+41001034022	permit-1	permit	k	False	True
+41001034023	the-1	the	k	False	True
+41001034024	demons-2	demons	k	False	True
+41001034025	to-1	to	m	False	False
+41001034026	speak-1	speak	k	False	True
+41001034027	,-1	,		True	False
+41001034028	because-1	because	k	False	True
+41001034029	they-1	they	m	False	False
+41001034030	knew-1	knew	k	False	True
+41001034031	him-1	him	k	False	True
+41001034032	.-2	.		True	False
+41001035001	And-1	And	k	False	True
+41001035002	getting-1	getting	k	False	True
+41001035003	up-1	up	k	False	False
+41001035004	early-1	early	k	False	True
+41001035005	in-1	in	k	False	False
+41001035006	the-1	the	k	False	False
+41001035007	morning-1	morning	k	False	False
+41001035008	{-1	{		True	False
+41001035009	while-1	while		False	False
+41001035010	it-1	it		False	False
+41001035011	was-1	was		False	False
+41001035012	}-1	}		True	False
+41001035013	very-1	very	k	False	True
+41001035014	dark-1	dark		False	False
+41001035015	,-1	,		True	False
+41001035016	he-1	he	m	False	False
+41001035017	departed-1	departed	k	False	True
+41001035018	and-1	and	k	False	True
+41001035019	went-1	went	k	False	True
+41001035020	to-1	to	k	False	True
+41001035021	a-1	a	m	False	False
+41001035022	deserted-1	deserted	k	False	True
+41001035023	place-1	place	k	False	True
+41001035024	,-2	,		True	False
+41001035025	and-2	and	k	False	True
+41001035026	there-1	there	k	False	False
+41001035027	he-2	he	m	False	False
+41001035028	was-2	was	m	False	False
+41001035029	praying-1	praying	k	False	True
+41001035030	.-1	.		True	False
+41001036001	And-1	And	k	False	True
+41001036002	Simon-1	Simon	k	False	True
+41001036003	and-1	and	k	False	True
+41001036004	those-1	those	k	False	True
+41001036005	{-1	{		True	False
+41001036006	who-1	who		False	False
+41001036007	were-1	were		False	False
+41001036008	}-1	}		True	False
+41001036009	with-1	with	k	False	True
+41001036010	him-1	him	k	False	True
+41001036011	searched-1	searched	k	False	True
+41001036012	diligently-1	diligently		False	False
+41001036013	for-1	for	k	False	False
+41001036014	him-2	him	k	False	True
+41001036015	.-1	.		True	False
+41001037001	And-1	And	k	False	True
+41001037002	they-1	they	m	False	False
+41001037003	found-1	found	k	False	True
+41001037004	him-1	him	k	False	True
+41001037005	and-1	and	k	False	True
+41001037006	said-1	said	k	False	True
+41001037007	to-1	to	m	False	False
+41001037008	him-2	him	k	False	True
+41001037009	,-1	,		True	False
+41001037010	“-1	“		True	False
+41001037011	Everyone-1	Everyone	k	False	True
+41001037012	is-1	is	m	False	False
+41001037013	looking-1	looking	k	False	True
+41001037014	for-1	for	k	False	False
+41001037015	you-1	you	k	False	True
+41001037016	!-1	!		True	False
+41001037017	”-1	”		True	False
+41001038001	And-1	And	k	False	True
+41001038002	he-1	he	m	False	False
+41001038003	said-1	said	k	False	True
+41001038004	to-1	to	m	False	False
+41001038005	them-1	them	k	False	True
+41001038006	,-1	,		True	False
+41001038007	“-1	“		True	False
+41001038008	Let-1	Let	m	False	False
+41001038009	us-1	us	m	False	False
+41001038010	go-1	go	k	False	True
+41001038011	elsewhere-1	elsewhere	k	False	True
+41001038012	,-2	,		True	False
+41001038013	into-1	into	k	False	True
+41001038014	the-1	the	k	False	True
+41001038015	neighboring-1	neighboring	k	False	True
+41001038016	rural-1	rural		False	False
+41001038017	towns-1	towns	k	False	True
+41001038018	,-2	,		True	False
+41001038019	so-1	so	k	False	True
+41001038020	that-1	that	k	False	False
+41001038021	I-1	I	m	False	False
+41001038022	can-1	can	m	False	False
+41001038023	preach-1	preach	k	False	True
+41001038024	there-1	there	k	False	True
+41001038025	also-1	also	k	False	True
+41001038026	,-2	,		True	False
+41001038027	because-1	because	k	False	True
+41001038028	I-2	I	m	False	False
+41001038029	have-1	have	m	False	False
+41001038030	come-1	come	k	False	True
+41001038031	out-1	out	k	False	False
+41001038032	for-1	for	k	False	True
+41001038033	this-1	this	k	False	True
+41001038034	{-1	{		True	False
+41001038035	very-1	very		False	False
+41001038036	}-1	}		True	False
+41001038037	reason-1	reason	a	False	False
+41001038038	.-1	.		True	False
+41001038039	”-1	”		True	False
+41001039001	And-1	And	k	False	True
+41001039002	he-1	he	m	False	False
+41001039003	went-1	went	k	False	True
+41001039004	into-1	into	k	False	True
+41001039005	all-1	all	k	False	True
+41001039006	Galilee-1	Galilee	k	False	True
+41001039007	preaching-1	preaching	k	False	True
+41001039008	in-1	in	k	False	True
+41001039009	their-1	their	k	False	True
+41001039010	synagogues-1	synagogues	k	False	True
+41001039011	and-1	and	k	False	True
+41001039012	expelling-1	expelling	k	False	True
+41001039013	demons-1	demons	k	False	True
+41001039014	.-1	.		True	False
+41001040001	And-1	And	k	False	True
+41001040002	a-1	a	m	False	False
+41001040003	leper-1	leper	k	False	True
+41001040004	came-1	came	k	False	True
+41001040005	to-1	to	k	False	True
+41001040006	him-1	him	k	False	True
+41001040007	,-1	,		True	False
+41001040008	entreating-1	entreating	k	False	True
+41001040009	him-2	him	k	False	True
+41001040010	and-1	and	k	False	True
+41001040011	kneeling-1	kneeling	k	False	True
+41001040012	down-1	down	k	False	False
+41001040013	,-2	,		True	False
+41001040014	saying-1	saying	k	False	True
+41001040015	to-2	to	m	False	False
+41001040016	him-2	him	k	False	True
+41001040017	,-2	,		True	False
+41001040018	“-1	“		True	False
+41001040019	If-1	If	k	False	True
+41001040020	you-1	you	m	False	False
+41001040021	are-1	are	m	False	False
+41001040022	willing-1	willing	k	False	True
+41001040023	,-2	,		True	False
+41001040024	you-2	you	m	False	False
+41001040025	are-2	are	m	False	False
+41001040026	able-1	able	k	False	True
+41001040027	to-2	to	m	False	False
+41001040028	make-1	make	k	False	False
+41001040029	me-1	me	k	False	True
+41001040030	clean-1	clean	k	False	True
+41001040031	.-1	.		True	False
+41001040032	”-1	”		True	False
+41001041001	And-1	And	k	False	True
+41001041002	becoming-1	becoming		False	False
+41001041003	angry-1	angry		False	False
+41001041004	,-1	,		True	False
+41001041005	he-1	he	m	False	False
+41001041006	stretched-1	stretched	k	False	True
+41001041007	out-1	out	k	False	False
+41001041008	his-1	his	k	False	True
+41001041009	hand-1	hand	k	False	True
+41001041010	{-1	{		True	False
+41001041011	and-1	and		False	False
+41001041012	}-1	}		True	False
+41001041013	touched-1	touched	k	False	True
+41001041014	{-2	{		True	False
+41001041015	him-1	him		False	False
+41001041016	}-2	}		True	False
+41001041017	,-2	,		True	False
+41001041018	and-2	and	k	False	True
+41001041019	said-1	said	k	False	True
+41001041020	to-1	to	m	False	False
+41001041021	him-2	him	k	False	True
+41001041022	,-2	,		True	False
+41001041023	“-1	“		True	False
+41001041024	I-1	I	m	False	False
+41001041025	am-1	am	m	False	False
+41001041026	willing-1	willing	k	False	True
+41001041027	;-1	;		True	False
+41001041028	be-1	be	m	False	False
+41001041029	made-1	made	k	False	False
+41001041030	clean-1	clean	k	False	True
+41001041031	.-1	.		True	False
+41001041032	”-1	”		True	False
+41001042001	And-1	And	k	False	True
+41001042002	immediately-1	immediately	k	False	True
+41001042003	the-1	the	k	False	True
+41001042004	leprosy-1	leprosy	k	False	True
+41001042005	went-1	went	k	False	True
+41001042006	away-1	away	k	False	False
+41001042007	from-1	from	k	False	True
+41001042008	him-1	him	k	False	True
+41001042009	and-1	and	k	False	True
+41001042010	he-1	he	m	False	False
+41001042011	was-1	was	m	False	False
+41001042012	made-1	made	k	False	False
+41001042013	clean-1	clean	k	False	True
+41001042014	.-1	.		True	False
+41001043001	And-1	And	k	False	True
+41001043002	warning-1	warning	k	False	True
+41001043003	him-1	him	k	False	True
+41001043004	sternly-1	sternly	k	False	False
+41001043005	,-1	,		True	False
+41001043006	he-1	he	m	False	False
+41001043007	sent-1	sent	k	False	True
+41001043008	him-2	him	k	False	True
+41001043009	away-1	away	k	False	False
+41001043010	at-1	at	k	False	False
+41001043011	once-1	once	k	False	True
+41001043012	.-1	.		True	False
+41001044001	And-1	And	k	False	True
+41001044002	he-1	he	m	False	False
+41001044003	said-1	said	k	False	True
+41001044004	to-1	to	m	False	False
+41001044005	him-1	him	k	False	True
+41001044006	,-1	,		True	False
+41001044007	“-1	“		True	False
+41001044008	See-1	See	k	False	True
+41001044009	to-2	to		False	False
+41001044010	it-1	it		False	False
+41001044011	that-1	that		False	False
+41001044012	you-1	you	m	False	False
+41001044013	say-1	say	k	False	True
+41001044014	nothing-1	nothing	k	False	True
+41001044015	to-2	to	m	False	False
+41001044016	anyone-1	anyone	k	False	True
+41001044017	,-2	,		True	False
+41001044018	but-1	but	k	False	True
+41001044019	go-1	go	k	False	True
+41001044020	,-2	,		True	False
+41001044021	show-1	show	k	False	True
+41001044022	yourself-1	yourself	k	False	True
+41001044023	to-2	to	m	False	False
+41001044024	the-1	the	k	False	True
+41001044025	priest-1	priest	k	False	True
+41001044026	and-1	and	k	False	True
+41001044027	bring-1	bring	k	False	True
+41001044028	for-1	for	k	False	True
+41001044029	your-1	your	k	False	True
+41001044030	cleansing-1	cleansing	k	False	True
+41001044031	{-1	{		True	False
+41001044032	the-2	the		False	False
+41001044033	things-1	things		False	False
+41001044034	}-1	}		True	False
+41001044035	which-1	which	k	False	True
+41001044036	Moses-1	Moses	k	False	True
+41001044037	commanded-1	commanded	k	False	True
+41001044038	,-2	,		True	False
+41001044039	for-2	for	k	False	True
+41001044040	a-1	a	m	False	False
+41001044041	testimony-1	testimony	k	False	True
+41001044042	to-2	to	m	False	False
+41001044043	them-1	them	k	False	True
+41001044044	.-1	.		True	False
+41001045001	But-1	But	k	False	True
+41001045002	he-1	he	k	False	True
+41001045003	went-1	went	k	False	True
+41001045004	out-1	out	k	False	False
+41001045005	{-1	{		True	False
+41001045006	and-1	and		False	False
+41001045007	}-1	}		True	False
+41001045008	began-1	began	k	False	True
+41001045009	to-1	to	m	False	False
+41001045010	proclaim-1	proclaim	k	False	True
+41001045011	{-2	{		True	False
+41001045012	it-1	it		False	False
+41001045013	}-2	}		True	False
+41001045014	freely-1	freely	d	False	True
+41001045015	and-2	and	k	False	True
+41001045016	to-2	to	m	False	False
+41001045017	spread-1	spread	k	False	True
+41001045018	abroad-1	abroad	k	False	False
+41001045019	the-1	the	k	False	True
+41001045020	account-1	account	k	False	True
+41001045021	,-1	,		True	False
+41001045022	so-1	so	k	False	True
+41001045023	that-1	that	k	False	False
+41001045024	he-2	he	k	False	True
+41001045025	was-1	was	m	False	False
+41001045026	no-1	no	k	False	True
+41001045027	longer-1	longer	k	False	False
+41001045028	able-1	able	k	False	True
+41001045029	to-2	to	m	False	False
+41001045030	enter-1	enter	k	False	True
+41001045031	publicly-1	publicly	k	False	True
+41001045032	into-1	into	k	False	True
+41001045033	a-1	a	m	False	False
+41001045034	town-1	town	k	False	True
+41001045035	.-1	.		True	False
+41001045036	But-2	But	k	False	True
+41001045037	he-2	he	m	False	False
+41001045038	was-2	was	k	False	True
+41001045039	staying-1	staying		False	False
+41001045040	outside-1	outside	k	False	True
+41001045041	in-1	in	k	False	True
+41001045042	deserted-1	deserted	k	False	True
+41001045043	places-1	places	k	False	True
+41001045044	,-2	,		True	False
+41001045045	and-2	and	k	False	True
+41001045046	they-1	they	m	False	False
+41001045047	were-1	were	m	False	False
+41001045048	coming-1	coming	k	False	True
+41001045049	to-2	to	k	False	True
+41001045050	him-1	him	k	False	True
+41001045051	from-1	from	k	False	True
+41001045052	all-1	all	k	False	False
+41001045053	directions-1	directions	k	False	False
+41001045054	.-2	.		True	False
+41002001001	And-1	And	k	False	True
+41002001002	{-1	{		True	False
+41002001003	when-1	when	m	False	False
+41002001004	he-1	he		False	False
+41002001005	}-1	}		True	False
+41002001006	entered-1	entered	k	False	True
+41002001007	again-1	again	k	False	True
+41002001008	into-1	into	k	False	True
+41002001009	Capernaum-1	Capernaum	k	False	True
+41002001010	after-1	after	k	False	True
+41002001011	{-2	{		True	False
+41002001012	some-1	some	m	False	False
+41002001013	}-2	}		True	False
+41002001014	days-1	days	k	False	True
+41002001015	,-1	,		True	False
+41002001016	it-1	it	m	False	False
+41002001017	became-1	became	k	False	False
+41002001018	known-1	known	k	False	True
+41002001019	that-1	that	k	False	True
+41002001020	he-2	he	m	False	False
+41002001021	was-1	was	k	False	True
+41002001022	at-1	at	k	False	True
+41002001023	home-1	home	k	False	True
+41002001024	.-1	.		True	False
+41002002001	And-1	And	k	False	True
+41002002002	many-1	many	k	False	True
+41002002003	had-1	had	m	False	False
+41002002004	gathered-1	gathered	k	False	True
+41002002005	,-1	,		True	False
+41002002006	so-1	so	k	False	True
+41002002007	that-1	that	k	False	False
+41002002008	{-1	{		True	False
+41002002009	there-1	there	k	False	False
+41002002010	was-1	was	k	False	False
+41002002011	}-1	}		True	False
+41002002012	no-1	no	k	False	True
+41002002013	longer-1	longer	k	False	False
+41002002014	room-1	room	k	False	True
+41002002015	,-2	,		True	False
+41002002016	not-1	not	k	False	True
+41002002017	even-1	even	k	False	False
+41002002018	at-1	at	k	False	True
+41002002019	the-1	the	k	False	True
+41002002020	door-1	door	k	False	True
+41002002021	,-2	,		True	False
+41002002022	and-1	and	k	False	True
+41002002023	he-1	he	m	False	False
+41002002024	was-2	was	m	False	False
+41002002025	speaking-1	speaking	k	False	True
+41002002026	the-2	the	k	False	True
+41002002027	word-1	word	k	False	True
+41002002028	to-1	to	m	False	False
+41002002029	them-1	them	k	False	True
+41002002030	.-1	.		True	False
+41002003001	And-1	And	k	False	True
+41002003002	they-1	they	m	False	False
+41002003003	came-1	came	k	False	True
+41002003004	bringing-1	bringing	k	False	True
+41002003005	to-1	to	k	False	True
+41002003006	him-1	him	k	False	True
+41002003007	a-1	a	m	False	False
+41002003008	paralytic-1	paralytic	k	False	True
+41002003009	,-1	,		True	False
+41002003010	carried-1	carried	k	False	True
+41002003011	by-1	by	k	False	True
+41002003012	four-1	four	k	False	True
+41002003013	{-1	{		True	False
+41002003014	of-1	of		False	False
+41002003015	them-1	them		False	False
+41002003016	}-1	}		True	False
+41002003017	.-1	.		True	False
+41002004001	And-1	And	k	False	True
+41002004002	{-1	{		True	False
+41002004003	when-1	when	m	False	False
+41002004004	}-1	}		True	False
+41002004005	they-1	they		False	False
+41002004006	were-1	were	m	False	False
+41002004007	not-1	not	k	False	True
+41002004008	able-1	able	k	False	True
+41002004009	to-1	to	m	False	False
+41002004010	bring-1	bring	k	False	True
+41002004011	{-2	{		True	False
+41002004012	him-1	him		False	False
+41002004013	}-2	}		True	False
+41002004014	to-2	to	m	False	False
+41002004015	him-2	him	k	False	True
+41002004016	because-1	because	k	False	True
+41002004017	of-1	of	k	False	False
+41002004018	the-1	the	k	False	True
+41002004019	crowd-1	crowd	k	False	True
+41002004020	,-1	,		True	False
+41002004021	they-2	they	m	False	False
+41002004022	removed-1	removed	k	False	True
+41002004023	the-2	the	k	False	True
+41002004024	roof-1	roof	k	False	True
+41002004025	where-1	where	k	False	True
+41002004026	he-1	he	m	False	False
+41002004027	was-1	was	k	False	True
+41002004028	.-1	.		True	False
+41002004029	And-2	And	k	False	True
+41002004030	{-2	{		True	False
+41002004031	after-1	after	m	False	False
+41002004032	}-2	}		True	False
+41002004033	digging-1	digging	k	False	True
+41002004034	through-1	through	k	False	False
+41002004035	,-2	,		True	False
+41002004036	they-2	they	m	False	False
+41002004037	lowered-1	lowered	k	False	True
+41002004038	the-2	the	k	False	True
+41002004039	stretcher-1	stretcher	k	False	True
+41002004040	on-1	on	k	False	False
+41002004041	which-1	which	k	False	True
+41002004042	the-2	the	k	False	True
+41002004043	paralytic-1	paralytic	k	False	True
+41002004044	was-2	was	m	False	False
+41002004045	lying-1	lying	k	False	True
+41002004046	.-2	.		True	False
+41002005001	And-1	And	k	False	True
+41002005002	{-1	{		True	False
+41002005003	when-1	when	m	False	False
+41002005004	}-1	}		True	False
+41002005005	Jesus-1	Jesus	k	False	True
+41002005006	saw-1	saw	k	False	True
+41002005007	their-1	their	k	False	True
+41002005008	faith-1	faith	k	False	True
+41002005009	,-1	,		True	False
+41002005010	he-1	he	m	False	False
+41002005011	said-1	said	k	False	True
+41002005012	to-1	to	m	False	False
+41002005013	the-1	the	k	False	True
+41002005014	paralytic-1	paralytic	k	False	True
+41002005015	,-2	,		True	False
+41002005016	“-1	“		True	False
+41002005017	Child-1	Child	k	False	True
+41002005018	,-2	,		True	False
+41002005019	your-1	your	k	False	True
+41002005020	sins-1	sins	k	False	True
+41002005021	are-1	are	m	False	False
+41002005022	forgiven-1	forgiven	k	False	True
+41002005023	.-1	.		True	False
+41002005024	”-1	”		True	False
+41002006001	Now-1	Now	k	False	True
+41002006002	some-1	some	k	False	True
+41002006003	of-1	of	m	False	False
+41002006004	the-1	the	k	False	True
+41002006005	scribes-1	scribes	k	False	True
+41002006006	were-1	were	m	False	False
+41002006007	sitting-1	sitting	k	False	True
+41002006008	there-1	there	k	False	True
+41002006009	and-1	and	k	False	True
+41002006010	reasoning-1	reasoning	k	False	True
+41002006011	in-1	in	k	False	True
+41002006012	their-1	their	k	False	True
+41002006013	hearts-1	hearts	k	False	True
+41002006014	,-1	,		True	False
+41002007001	“-1	“		True	False
+41002007002	Why-1	Why	k	False	True
+41002007003	does-1	does	m	False	False
+41002007004	this-1	this	k	False	True
+41002007005	man-1	man	m	False	False
+41002007006	speak-1	speak	k	False	True
+41002007007	like-1	like	k	False	True
+41002007008	this-2	this	k	False	False
+41002007009	?-1	?		True	False
+41002007010	He-1	He	m	False	False
+41002007011	is-1	is	m	False	False
+41002007012	blaspheming-1	blaspheming	k	False	True
+41002007013	!-1	!		True	False
+41002007014	Who-1	Who	k	False	True
+41002007015	is-2	is	m	False	False
+41002007016	able-1	able	k	False	True
+41002007017	to-1	to	m	False	False
+41002007018	forgive-1	forgive	k	False	True
+41002007019	sins-1	sins	k	False	True
+41002007020	except-1	except	k	False	True
+41002007021	God-1	God	k	False	True
+41002007022	alone-1	alone	k	False	True
+41002007023	?-2	?		True	False
+41002007024	”-1	”		True	False
+41002008001	And-1	And	k	False	True
+41002008002	immediately-1	immediately	k	False	True
+41002008003	Jesus-1	Jesus	k	False	True
+41002008004	,-1	,		True	False
+41002008005	perceiving-1	perceiving	k	False	True
+41002008006	in-1	in	m	False	False
+41002008007	his-1	his	k	False	True
+41002008008	spirit-1	spirit	k	False	True
+41002008009	that-1	that	k	False	True
+41002008010	they-1	they	m	False	False
+41002008011	were-1	were	m	False	False
+41002008012	reasoning-1	reasoning	k	False	True
+41002008013	like-1	like	k	False	True
+41002008014	this-1	this	k	False	False
+41002008015	within-1	within	k	False	True
+41002008016	themselves-1	themselves	k	False	True
+41002008017	,-2	,		True	False
+41002008018	said-1	said	k	False	True
+41002008019	to-1	to	m	False	False
+41002008020	them-1	them	k	False	True
+41002008021	,-2	,		True	False
+41002008022	“-1	“		True	False
+41002008023	Why-1	Why	k	False	True
+41002008024	are-1	are	m	False	False
+41002008025	you-1	you	m	False	False
+41002008026	considering-1	considering	k	False	True
+41002008027	these-1	these	k	False	True
+41002008028	{-1	{		True	False
+41002008029	things-1	things	a	False	False
+41002008030	}-1	}		True	False
+41002008031	in-2	in	k	False	True
+41002008032	your-1	your	k	False	True
+41002008033	hearts-1	hearts	k	False	True
+41002008034	?-1	?		True	False
+41002009001	Which-1	Which	k	False	True
+41002009002	is-1	is	k	False	True
+41002009003	easier-1	easier	k	False	True
+41002009004	to-1	to	m	False	False
+41002009005	say-1	say	k	False	True
+41002009006	to-2	to	m	False	False
+41002009007	the-1	the	k	False	True
+41002009008	paralytic-1	paralytic	k	False	True
+41002009009	,-1	,		True	False
+41002009010	‘-1	‘		True	False
+41002009011	Your-1	Your	k	False	True
+41002009012	sins-1	sins	k	False	True
+41002009013	are-1	are	m	False	False
+41002009014	forgiven-1	forgiven	k	False	True
+41002009015	,-2	,		True	False
+41002009016	’-1	’		True	False
+41002009017	or-1	or	k	False	True
+41002009018	to-2	to	m	False	False
+41002009019	say-2	say	k	False	True
+41002009020	‘-2	‘		True	False
+41002009021	Get-1	Get	k	False	True
+41002009022	up-1	up	k	False	False
+41002009023	and-1	and	k	False	True
+41002009024	pick-1	pick	k	False	True
+41002009025	up-2	up	k	False	False
+41002009026	your-1	your	k	False	True
+41002009027	stretcher-1	stretcher	k	False	True
+41002009028	and-2	and	k	False	True
+41002009029	walk-1	walk	k	False	True
+41002009030	’-2	’		True	False
+41002009031	?-1	?		True	False
+41002010001	But-1	But	k	False	True
+41002010002	so-1	so	k	False	True
+41002010003	that-1	that	k	False	False
+41002010004	you-1	you	m	False	False
+41002010005	may-1	may	m	False	False
+41002010006	know-1	know	k	False	True
+41002010007	that-2	that	k	False	True
+41002010008	the-1	the	k	False	True
+41002010009	Son-1	Son	k	False	True
+41002010010	of-1	of	m	False	False
+41002010011	Man-1	Man	k	False	True
+41002010012	has-1	has	k	False	True
+41002010013	authority-1	authority	k	False	True
+41002010014	on-1	on	k	False	True
+41002010015	earth-1	earth	k	False	True
+41002010016	to-1	to	m	False	False
+41002010017	forgive-1	forgive	k	False	True
+41002010018	sins-1	sins	k	False	True
+41002010019	,-1	,		True	False
+41002010020	”-1	”		True	False
+41002010021	—-1	—		True	False
+41002010022	he-1	he	m	False	False
+41002010023	said-1	said	k	False	True
+41002010024	to-2	to	m	False	False
+41002010025	the-2	the	k	False	True
+41002010026	paralytic-1	paralytic	k	False	True
+41002010027	—-2	—		True	False
+41002011001	“-1	“		True	False
+41002011002	I-1	I	m	False	False
+41002011003	say-1	say	k	False	True
+41002011004	to-1	to	m	False	False
+41002011005	you-1	you	k	False	True
+41002011006	,-1	,		True	False
+41002011007	get-1	get	k	False	True
+41002011008	up-1	up	k	False	False
+41002011009	,-2	,		True	False
+41002011010	pick-1	pick	k	False	True
+41002011011	up-2	up	k	False	False
+41002011012	your-1	your	k	False	True
+41002011013	stretcher-1	stretcher	k	False	True
+41002011014	,-2	,		True	False
+41002011015	and-1	and	k	False	True
+41002011016	go-1	go	k	False	True
+41002011017	to-2	to	k	False	True
+41002011018	your-2	your	k	False	True
+41002011019	home-1	home	k	False	True
+41002011020	.-1	.		True	False
+41002011021	”-1	”		True	False
+41002012001	And-1	And	k	False	True
+41002012002	he-1	he	m	False	False
+41002012003	got-1	got	k	False	True
+41002012004	up-1	up	k	False	False
+41002012005	and-1	and	k	False	True
+41002012006	immediately-1	immediately	k	False	True
+41002012007	picked-1	picked	k	False	True
+41002012008	up-2	up	k	False	False
+41002012009	his-1	his		False	False
+41002012010	stretcher-1	stretcher	k	False	True
+41002012011	{-1	{		True	False
+41002012012	and-2	and		False	False
+41002012013	}-1	}		True	False
+41002012014	went-1	went	k	False	True
+41002012015	out-1	out	k	False	False
+41002012016	in-1	in	k	False	False
+41002012017	front-1	front	k	False	True
+41002012018	of-1	of	k	False	False
+41002012019	{-2	{		True	False
+41002012020	them-1	them		False	False
+41002012021	}-2	}		True	False
+41002012022	all-1	all	k	False	True
+41002012023	,-1	,		True	False
+41002012024	so-1	so	k	False	True
+41002012025	that-1	that	k	False	False
+41002012026	they-1	they		False	False
+41002012027	were-1	were	m	False	False
+41002012028	all-2	all	k	False	True
+41002012029	amazed-1	amazed	k	False	True
+41002012030	and-2	and	k	False	True
+41002012031	glorified-1	glorified	k	False	True
+41002012032	God-1	God	k	False	True
+41002012033	,-2	,		True	False
+41002012034	saying-1	saying	k	False	True
+41002012035	,-2	,		True	False
+41002012036	“-1	“		True	False
+41002012037	We-1	We	m	False	False
+41002012038	have-1	have	m	False	False
+41002012039	never-1	never	k	False	True
+41002012040	seen-1	seen	k	False	True
+41002012041	{-2	{		True	False
+41002012042	anything-1	anything	k	False	False
+41002012043	}-2	}		True	False
+41002012044	like-1	like	k	False	True
+41002012045	this-1	this	k	False	False
+41002012046	!-1	!		True	False
+41002012047	”-1	”		True	False
+41002013001	And-1	And	k	False	True
+41002013002	he-1	he	m	False	False
+41002013003	went-1	went	k	False	True
+41002013004	out-1	out	k	False	False
+41002013005	again-1	again	k	False	True
+41002013006	beside-1	beside	k	False	True
+41002013007	the-1	the	k	False	True
+41002013008	sea-1	sea	k	False	True
+41002013009	,-1	,		True	False
+41002013010	and-1	and	k	False	True
+41002013011	all-1	all	k	False	True
+41002013012	the-2	the	k	False	True
+41002013013	crowd-1	crowd	k	False	True
+41002013014	was-1	was	m	False	False
+41002013015	coming-1	coming	k	False	True
+41002013016	to-1	to	k	False	True
+41002013017	him-1	him	k	False	True
+41002013018	,-2	,		True	False
+41002013019	and-2	and	k	False	True
+41002013020	he-2	he	m	False	False
+41002013021	began-1	began	m	False	False
+41002013022	to-2	to	m	False	False
+41002013023	teach-1	teach	k	False	True
+41002013024	them-1	them	k	False	True
+41002013025	.-1	.		True	False
+41002014001	And-1	And	k	False	True
+41002014002	{-1	{		True	False
+41002014003	as-1	as	m	False	False
+41002014004	he-1	he		False	False
+41002014005	}-1	}		True	False
+41002014006	was-1	was	m	False	False
+41002014007	passing-1	passing	k	False	True
+41002014008	by-1	by	k	False	False
+41002014009	,-1	,		True	False
+41002014010	he-2	he	m	False	False
+41002014011	saw-1	saw	k	False	True
+41002014012	Levi-1	Levi	k	False	True
+41002014013	the-1	the	k	False	True
+41002014014	{-2	{		True	False
+41002014015	son-1	son	a	False	False
+41002014016	}-2	}		True	False
+41002014017	of-1	of	m	False	False
+41002014018	Alphaeus-1	Alphaeus	k	False	True
+41002014019	sitting-1	sitting	k	False	True
+41002014020	at-1	at	k	False	True
+41002014021	the-2	the	k	False	True
+41002014022	tax-1	tax	k	False	True
+41002014023	booth-1	booth	k	False	False
+41002014024	,-2	,		True	False
+41002014025	and-1	and	k	False	True
+41002014026	he-2	he	m	False	False
+41002014027	said-1	said	k	False	True
+41002014028	to-1	to	m	False	False
+41002014029	him-1	him	k	False	True
+41002014030	,-2	,		True	False
+41002014031	“-1	“		True	False
+41002014032	Follow-1	Follow	k	False	True
+41002014033	me-1	me	k	False	True
+41002014034	!-1	!		True	False
+41002014035	”-1	”		True	False
+41002014036	And-2	And	k	False	True
+41002014037	he-2	he	m	False	False
+41002014038	stood-1	stood	k	False	True
+41002014039	up-1	up	k	False	False
+41002014040	{-2	{		True	False
+41002014041	and-2	and		False	False
+41002014042	}-2	}		True	False
+41002014043	followed-1	followed	k	False	True
+41002014044	him-2	him	k	False	True
+41002014045	.-1	.		True	False
+41002015001	And-1	And	k	False	True
+41002015002	it-1	it	m	False	False
+41002015003	happened-1	happened	k	False	True
+41002015004	that-1	that		False	False
+41002015005	he-1	he	k	False	True
+41002015006	[-1	[		True	False
+41002015007	was-1	was	m	False	False
+41002015008	dining-1	dining	k	False	True
+41002015009	]-1	]		True	False
+41002015010	in-1	in	k	False	True
+41002015011	his-1	his	k	False	True
+41002015012	house-1	house	k	False	True
+41002015013	,-1	,		True	False
+41002015014	and-1	and	k	False	True
+41002015015	many-1	many	k	False	True
+41002015016	tax-1	tax	k	False	True
+41002015017	collectors-1	collectors	k	False	False
+41002015018	and-2	and	k	False	True
+41002015019	sinners-1	sinners	k	False	True
+41002015020	[-2	[		True	False
+41002015021	were-1	were	m	False	False
+41002015022	dining-2	dining	k	False	True
+41002015023	with-1	with	k	False	False
+41002015024	]-2	]		True	False
+41002015025	Jesus-1	Jesus	k	False	True
+41002015026	and-2	and	k	False	True
+41002015027	his-2	his	k	False	True
+41002015028	disciples-1	disciples	k	False	True
+41002015029	,-2	,		True	False
+41002015030	for-1	for	k	False	True
+41002015031	there-1	there	k	False	False
+41002015032	were-2	were	k	False	True
+41002015033	many-2	many	k	False	True
+41002015034	and-2	and	k	False	True
+41002015035	they-1	they	m	False	False
+41002015036	were-2	were	m	False	False
+41002015037	following-1	following	k	False	True
+41002015038	him-1	him	k	False	True
+41002015039	.-1	.		True	False
+41002016001	And-1	And	k	False	True
+41002016002	the-1	the	k	False	True
+41002016003	scribes-1	scribes	k	False	True
+41002016004	of-1	of	m	False	False
+41002016005	the-2	the	k	False	True
+41002016006	Pharisees-1	Pharisees	k	False	True
+41002016007	,-1	,		True	False
+41002016008	{-1	{		True	False
+41002016009	when-1	when	m	False	False
+41002016010	they-1	they		False	False
+41002016011	}-1	}		True	False
+41002016012	saw-1	saw	k	False	True
+41002016013	that-1	that	k	False	True
+41002016014	he-1	he	m	False	False
+41002016015	was-1	was	m	False	False
+41002016016	eating-1	eating	k	False	True
+41002016017	with-1	with	k	False	True
+41002016018	sinners-1	sinners	k	False	True
+41002016019	and-1	and	k	False	True
+41002016020	tax-1	tax	k	False	True
+41002016021	collectors-1	collectors	k	False	False
+41002016022	,-2	,		True	False
+41002016023	began-1	began	m	False	False
+41002016024	to-1	to	m	False	False
+41002016025	say-1	say	k	False	True
+41002016026	to-2	to	m	False	False
+41002016027	his-1	his	k	False	True
+41002016028	disciples-1	disciples	k	False	True
+41002016029	,-2	,		True	False
+41002016030	“-1	“		True	False
+41002016031	Why-1	Why	k	False	True
+41002016032	does-1	does	m	False	False
+41002016033	he-2	he	m	False	False
+41002016034	eat-1	eat	k	False	True
+41002016035	with-2	with	k	False	True
+41002016036	tax-2	tax	k	False	True
+41002016037	collectors-2	collectors	k	False	False
+41002016038	and-2	and	k	False	True
+41002016039	sinners-2	sinners	k	False	True
+41002016040	?-1	?		True	False
+41002016041	”-1	”		True	False
+41002017001	And-1	And	k	False	True
+41002017002	{-1	{		True	False
+41002017003	when-1	when	m	False	False
+41002017004	}-1	}		True	False
+41002017005	Jesus-1	Jesus	k	False	True
+41002017006	heard-1	heard	k	False	True
+41002017007	{-2	{		True	False
+41002017008	it-1	it		False	False
+41002017009	}-2	}		True	False
+41002017010	,-1	,		True	False
+41002017011	he-1	he	m	False	False
+41002017012	said-1	said	k	False	True
+41002017013	to-1	to	m	False	False
+41002017014	them-1	them	k	False	True
+41002017015	,-2	,		True	False
+41002017016	“-1	“		True	False
+41002017017	Those-1	Those	k	False	True
+41002017018	who-1	who	m	False	False
+41002017019	are-1	are	m	False	False
+41002017020	healthy-1	healthy	k	False	True
+41002017021	do-1	do	m	False	False
+41002017022	not-1	not	k	False	True
+41002017023	have-1	have	k	False	False
+41002017024	need-1	need	k	False	True
+41002017025	of-1	of	k	False	False
+41002017026	a-1	a	m	False	False
+41002017027	physician-1	physician	k	False	True
+41002017028	,-2	,		True	False
+41002017029	but-1	but	k	False	True
+41002017030	those-1	those	k	False	True
+41002017031	[-1	[		True	False
+41002017032	who-2	who	m	False	False
+41002017033	are-2	are	m	False	False
+41002017034	sick-1	sick	k	False	True
+41002017035	]-1	]		True	False
+41002017036	.-1	.		True	False
+41002017037	I-1	I	m	False	False
+41002017038	have-2	have	m	False	False
+41002017039	not-2	not	k	False	True
+41002017040	come-1	come	k	False	True
+41002017041	to-2	to	m	False	False
+41002017042	call-1	call	k	False	True
+41002017043	the-1	the		False	False
+41002017044	righteous-1	righteous	k	False	True
+41002017045	,-2	,		True	False
+41002017046	but-2	but	k	False	True
+41002017047	sinners-1	sinners	k	False	True
+41002017048	.-2	.		True	False
+41002017049	”-1	”		True	False
+41002018001	And-1	And	k	False	True
+41002018002	John’s-1	John’s	k	False	True
+41002018003	disciples-1	disciples	k	False	True
+41002018004	and-1	and	k	False	True
+41002018005	the-1	the	k	False	True
+41002018006	Pharisees-1	Pharisees	k	False	True
+41002018007	were-1	were	k	False	True
+41002018008	fasting-1	fasting	k	False	True
+41002018009	,-1	,		True	False
+41002018010	and-2	and	k	False	True
+41002018011	they-1	they	m	False	False
+41002018012	came-1	came	k	False	True
+41002018013	and-2	and	k	False	True
+41002018014	said-1	said	k	False	True
+41002018015	to-1	to	m	False	False
+41002018016	him-1	him	k	False	True
+41002018017	,-2	,		True	False
+41002018018	“-1	“		True	False
+41002018019	[-1	[		True	False
+41002018020	Why-1	Why	k	False	True
+41002018021	]-1	]		True	False
+41002018022	do-1	do	m	False	False
+41002018023	the-2	the	k	False	True
+41002018024	disciples-2	disciples	k	False	True
+41002018025	of-1	of	m	False	False
+41002018026	John-1	John	k	False	True
+41002018027	and-2	and	k	False	True
+41002018028	the-2	the	k	False	True
+41002018029	disciples-2	disciples	k	False	True
+41002018030	of-2	of	m	False	False
+41002018031	the-2	the	k	False	True
+41002018032	Pharisees-2	Pharisees	k	False	True
+41002018033	fast-1	fast	k	False	True
+41002018034	,-2	,		True	False
+41002018035	but-1	but	k	False	True
+41002018036	your-1	your	k	False	True
+41002018037	disciples-2	disciples	k	False	True
+41002018038	do-2	do	m	False	False
+41002018039	not-1	not	k	False	True
+41002018040	fast-2	fast	k	False	True
+41002018041	?-1	?		True	False
+41002018042	”-1	”		True	False
+41002019001	And-1	And	k	False	True
+41002019002	Jesus-1	Jesus	k	False	True
+41002019003	said-1	said	k	False	True
+41002019004	to-1	to	m	False	False
+41002019005	them-1	them	k	False	True
+41002019006	,-1	,		True	False
+41002019007	“-1	“		True	False
+41002019008	The-1	The	k	False	True
+41002019009	[-1	[		True	False
+41002019010	bridegroom’s-1	bridegroom’s	k	False	True
+41002019011	attendants-1	attendants	k	False	False
+41002019012	]-1	]		True	False
+41002019013	are-1	are	m	False	False
+41002019014	not-1	not	k	False	True
+41002019015	able-1	able	k	False	True
+41002019016	to-2	to	m	False	False
+41002019017	fast-1	fast	k	False	True
+41002019018	while-1	while	k	False	True
+41002019019	the-1	the	k	False	True
+41002019020	bridegroom-1	bridegroom	k	False	True
+41002019021	is-1	is	k	False	True
+41002019022	with-1	with	k	False	True
+41002019023	them-2	them	k	False	True
+41002019024	,-2	,		True	False
+41002019025	{-1	{		True	False
+41002019026	are-2	are		False	False
+41002019027	they-1	they		False	False
+41002019028	}-1	}		True	False
+41002019029	?-1	?		True	False
+41002019030	As-1	As	k	False	True
+41002019031	long-1	long	k	False	False
+41002019032	a-1	a	m	False	False
+41002019033	time-1	time	k	False	True
+41002019034	{-2	{		True	False
+41002019035	as-1	as	k	False	False
+41002019036	}-2	}		True	False
+41002019037	they-2	they	m	False	False
+41002019038	have-1	have	k	False	True
+41002019039	the-2	the	k	False	True
+41002019040	bridegroom-2	bridegroom	k	False	True
+41002019041	with-2	with	k	False	True
+41002019042	them-2	them	k	False	True
+41002019043	,-2	,		True	False
+41002019044	they-2	they	m	False	False
+41002019045	are-2	are	m	False	False
+41002019046	not-2	not	k	False	True
+41002019047	able-2	able	k	False	True
+41002019048	to-2	to	m	False	False
+41002019049	fast-2	fast	k	False	True
+41002019050	.-1	.		True	False
+41002020001	But-1	But	k	False	True
+41002020002	days-1	days	k	False	True
+41002020003	will-1	will	m	False	False
+41002020004	come-1	come	k	False	True
+41002020005	when-1	when	k	False	True
+41002020006	the-1	the	k	False	True
+41002020007	bridegroom-1	bridegroom	k	False	True
+41002020008	is-1	is	m	False	False
+41002020009	taken-1	taken	k	False	True
+41002020010	away-1	away	k	False	False
+41002020011	from-1	from	k	False	True
+41002020012	them-1	them	k	False	True
+41002020013	,-1	,		True	False
+41002020014	and-1	and	k	False	True
+41002020015	then-1	then	k	False	True
+41002020016	they-1	they	m	False	False
+41002020017	will-2	will	m	False	False
+41002020018	fast-1	fast	k	False	True
+41002020019	in-1	in	k	False	True
+41002020020	that-1	that	k	False	True
+41002020021	day-1	day	k	False	True
+41002020022	.-1	.		True	False
+41002021001	No-1	No	k	False	True
+41002021002	one-1	one	k	False	False
+41002021003	sews-1	sews	k	False	True
+41002021004	a-1	a	m	False	False
+41002021005	patch-1	patch	k	False	True
+41002021006	of-1	of	m	False	False
+41002021007	unshrunken-1	unshrunken	k	False	True
+41002021008	cloth-1	cloth	k	False	True
+41002021009	on-1	on	k	False	True
+41002021010	an-1	an	m	False	False
+41002021011	old-1	old	k	False	True
+41002021012	garment-1	garment	k	False	True
+41002021013	.-1	.		True	False
+41002021014	[-1	[		True	False
+41002021015	Otherwise-1	Otherwise	k	False	True
+41002021016	]-1	]		True	False
+41002021017	the-1	the	k	False	True
+41002021018	patch-2	patch		False	False
+41002021019	pulls-1	pulls	k	False	True
+41002021020	away-1	away	k	False	False
+41002021021	from-1	from	k	False	True
+41002021022	it-1	it	k	False	True
+41002021023	—-1	—		True	False
+41002021024	the-2	the	k	False	True
+41002021025	new-1	new	k	False	True
+41002021026	from-2	from	m	False	False
+41002021027	the-2	the	k	False	True
+41002021028	old-2	old	k	False	True
+41002021029	—-2	—		True	False
+41002021030	and-1	and	k	False	True
+41002021031	the-2	the		False	False
+41002021032	tear-1	tear	k	False	True
+41002021033	becomes-1	becomes	k	False	True
+41002021034	worse-1	worse	k	False	True
+41002021035	.-2	.		True	False
+41002022001	And-1	And	k	False	True
+41002022002	no-1	no	k	False	True
+41002022003	one-1	one	k	False	False
+41002022004	puts-1	puts	k	False	True
+41002022005	new-1	new	k	False	True
+41002022006	wine-1	wine	k	False	True
+41002022007	into-1	into	k	False	True
+41002022008	old-1	old	k	False	True
+41002022009	wineskins-1	wineskins	k	False	True
+41002022010	.-1	.		True	False
+41002022011	[-1	[		True	False
+41002022012	Otherwise-1	Otherwise	k	False	True
+41002022013	]-1	]		True	False
+41002022014	the-1	the	k	False	True
+41002022015	wine-2	wine	k	False	True
+41002022016	will-1	will	m	False	False
+41002022017	burst-1	burst	k	False	True
+41002022018	the-2	the	k	False	True
+41002022019	wineskins-2	wineskins	k	False	True
+41002022020	and-1	and	k	False	True
+41002022021	the-2	the	k	False	True
+41002022022	wine-2	wine	k	False	True
+41002022023	is-1	is	m	False	False
+41002022024	destroyed-1	destroyed	k	False	True
+41002022025	and-2	and	k	False	True
+41002022026	the-2	the	k	False	True
+41002022027	wineskins-2	wineskins	k	False	True
+41002022028	{-1	{		True	False
+41002022029	too-1	too		False	False
+41002022030	}-1	}		True	False
+41002022031	.-2	.		True	False
+41002022032	But-1	But	k	False	True
+41002022033	new-2	new	k	False	True
+41002022034	wine-2	wine	k	False	True
+41002022035	{-2	{		True	False
+41002022036	is-2	is		False	False
+41002022037	put-1	put		False	False
+41002022038	}-2	}		True	False
+41002022039	into-2	into	k	False	True
+41002022040	new-2	new	k	False	True
+41002022041	wineskins-2	wineskins	k	False	True
+41002022042	.-2	.		True	False
+41002022043	”-1	”		True	False
+41002023001	And-1	And	k	False	True
+41002023002	it-1	it	m	False	False
+41002023003	happened-1	happened	k	False	True
+41002023004	that-1	that		False	False
+41002023005	he-1	he	k	False	True
+41002023006	was-1	was	m	False	False
+41002023007	going-1	going	k	False	True
+41002023008	through-1	through	k	False	True
+41002023009	the-1	the	k	False	True
+41002023010	grain-1	grain	k	False	True
+41002023011	fields-1	fields	k	False	False
+41002023012	on-1	on	k	False	True
+41002023013	the-2	the	k	False	True
+41002023014	Sabbath-1	Sabbath	k	False	True
+41002023015	,-1	,		True	False
+41002023016	and-1	and	k	False	True
+41002023017	his-1	his	k	False	True
+41002023018	disciples-1	disciples	k	False	True
+41002023019	began-1	began	k	False	True
+41002023020	to-1	to	m	False	False
+41002023021	make-1	make	k	False	True
+41002023022	{-1	{		True	False
+41002023023	their-1	their		False	False
+41002023024	}-1	}		True	False
+41002023025	way-1	way	k	False	True
+41002023026	{-2	{		True	False
+41002023027	while-1	while	m	False	False
+41002023028	}-2	}		True	False
+41002023029	plucking-1	plucking	k	False	True
+41002023030	off-1	off	k	False	False
+41002023031	the-2	the	k	False	True
+41002023032	heads-1	heads	k	False	True
+41002023033	of-1	of	k	False	False
+41002023034	grain-2	grain	k	False	False
+41002023035	.-1	.		True	False
+41002024001	And-1	And	k	False	True
+41002024002	the-1	the	k	False	True
+41002024003	Pharisees-1	Pharisees	k	False	True
+41002024004	began-1	began	m	False	False
+41002024005	to-1	to	m	False	False
+41002024006	say-1	say	k	False	True
+41002024007	to-2	to	m	False	False
+41002024008	him-1	him	k	False	True
+41002024009	,-1	,		True	False
+41002024010	“-1	“		True	False
+41002024011	Behold-1	Behold	k	False	True
+41002024012	,-2	,		True	False
+41002024013	why-1	why	k	False	True
+41002024014	are-1	are	m	False	False
+41002024015	they-1	they	m	False	False
+41002024016	doing-1	doing	k	False	True
+41002024017	what-1	what	k	False	True
+41002024018	is-1	is	m	False	False
+41002024019	not-1	not	k	False	True
+41002024020	permitted-1	permitted	k	False	True
+41002024021	on-1	on	m	False	False
+41002024022	the-2	the	k	False	True
+41002024023	Sabbath-1	Sabbath	k	False	True
+41002024024	?-1	?		True	False
+41002024025	”-1	”		True	False
+41002025001	And-1	And	k	False	True
+41002025002	he-1	he	m	False	False
+41002025003	said-1	said	k	False	True
+41002025004	to-1	to	m	False	False
+41002025005	them-1	them	k	False	True
+41002025006	,-1	,		True	False
+41002025007	“-1	“		True	False
+41002025008	Have-1	Have	m	False	False
+41002025009	you-1	you	m	False	False
+41002025010	never-1	never	k	False	True
+41002025011	read-1	read	k	False	True
+41002025012	what-1	what	k	False	True
+41002025013	David-1	David	k	False	True
+41002025014	did-1	did	k	False	True
+41002025015	when-1	when	k	False	True
+41002025016	he-2	he	m	False	False
+41002025017	had-1	had	m	False	False
+41002025018	need-1	need	k	False	True
+41002025019	and-1	and	k	False	True
+41002025020	he-2	he	k	False	True
+41002025021	and-2	and	k	False	True
+41002025022	those-1	those	k	False	True
+41002025023	{-1	{		True	False
+41002025024	who-1	who		False	False
+41002025025	were-1	were		False	False
+41002025026	}-1	}		True	False
+41002025027	with-1	with	k	False	True
+41002025028	him-1	him	k	False	True
+41002025029	were-2	were	m	False	False
+41002025030	hungry-1	hungry	k	False	True
+41002025031	—-1	—		True	False
+41002026001	how-1	how	k	False	True
+41002026002	he-1	he	m	False	False
+41002026003	entered-1	entered	k	False	True
+41002026004	into-1	into	k	False	True
+41002026005	the-1	the	k	False	True
+41002026006	house-1	house	k	False	True
+41002026007	of-1	of	m	False	False
+41002026008	God-1	God	k	False	True
+41002026009	in-1	in	k	False	True
+41002026010	the-2	the	k	False	False
+41002026011	time-1	time	k	False	False
+41002026012	of-2	of	k	False	False
+41002026013	Abiathar-1	Abiathar	k	False	True
+41002026014	the-2	the		False	False
+41002026015	high-1	high	k	False	True
+41002026016	priest-1	priest	k	False	False
+41002026017	and-1	and	k	False	True
+41002026018	ate-1	ate	k	False	True
+41002026019	the-2	the	k	False	True
+41002026020	bread-1	bread	k	False	True
+41002026021	of-2	of	m	False	False
+41002026022	the-2	the	k	False	True
+41002026023	presentation-1	presentation	k	False	True
+41002026024	,-1	,		True	False
+41002026025	which-1	which	k	False	True
+41002026026	it-1	it	m	False	False
+41002026027	is-1	is	m	False	False
+41002026028	not-1	not	k	False	True
+41002026029	permitted-1	permitted	k	False	True
+41002026030	to-1	to	m	False	False
+41002026031	eat-1	eat	k	False	True
+41002026032	and-2	and	k	False	True
+41002026033	also-1	also	k	False	True
+41002026034	gave-1	gave	k	False	True
+41002026035	{-1	{		True	False
+41002026036	it-2	it		False	False
+41002026037	}-1	}		True	False
+41002026038	to-2	to	m	False	False
+41002026039	those-1	those	k	False	True
+41002026040	who-1	who	m	False	False
+41002026041	were-1	were	k	False	True
+41002026042	with-1	with	k	False	True
+41002026043	him-1	him	k	False	True
+41002026044	?-1	?	k	True	True
+41002026045	”-1	”		True	False
+41002027001	And-1	And	k	False	True
+41002027002	he-1	he	m	False	False
+41002027003	said-1	said	k	False	True
+41002027004	to-1	to	m	False	False
+41002027005	them-1	them	k	False	True
+41002027006	,-1	,		True	False
+41002027007	“-1	“		True	False
+41002027008	The-1	The	k	False	True
+41002027009	Sabbath-1	Sabbath	k	False	True
+41002027010	was-1	was	m	False	False
+41002027011	established-1	established	k	False	True
+41002027012	for-1	for	k	False	True
+41002027013	people-1	people	k	False	True
+41002027014	,-2	,		True	False
+41002027015	and-1	and	k	False	True
+41002027016	not-1	not	k	False	True
+41002027017	people-2	people	k	False	True
+41002027018	for-2	for	k	False	True
+41002027019	the-1	the	k	False	True
+41002027020	Sabbath-2	Sabbath	k	False	True
+41002027021	.-1	.		True	False
+41002028001	So-1	So	k	False	True
+41002028002	then-1	then	k	False	False
+41002028003	,-1	,		True	False
+41002028004	the-1	the	k	False	True
+41002028005	Son-1	Son	k	False	True
+41002028006	of-1	of	m	False	False
+41002028007	Man-1	Man	k	False	True
+41002028008	is-1	is	k	False	True
+41002028009	lord-1	lord	k	False	True
+41002028010	even-1	even	k	False	True
+41002028011	of-2	of	m	False	False
+41002028012	the-2	the	k	False	True
+41002028013	Sabbath-1	Sabbath	k	False	True
+41002028014	.-1	.		True	False
+41002028015	”-1	”		True	False
