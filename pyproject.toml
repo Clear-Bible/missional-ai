@@ -8,9 +8,10 @@ readme = "README.md"
 #packages = [{include = "biblical_machine_learning"}]
 
 [tool.poetry.dependencies]
-python = ">=3.10"
-jupyterlab = "^3.6.3"
-pandas = "^2.0.0"
+python = ">=3.10,<4.0"
+jupyterlab = "^3.6"
+pandas = "^1.5"
+bible-alignments = "^0.2.2"
 
 
 [build-system]
