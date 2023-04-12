@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "missional-ai"
+version = "0.1.0"
+description = "Machine Learning notebooks for Missional AI"
+authors = ["Ryder Wishart"]
+license = "MIT License"
+readme = "README.md"
+#packages = [{include = "biblical_machine_learning"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+jupyterlab = "^3.6.3"
+pandas = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
