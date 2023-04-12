@@ -1,0 +1,894 @@
+identifier	altId	text	strongs	gloss	gloss2	lemma	pos	morph
+400010010011	Βίβλος-1	Βίβλος	G0976	a record	A record	βίβλος	noun	n- -nsf-
+400010010021	γενέσεως-1	γενέσεως	G1078	of [the] genealogy	of genealogy	γένεσις	noun	n- -gsf-
+400010010031	Ἰησοῦ-1	Ἰησοῦ	G2424	of Jesus	of Jesus	Ἰησοῦς	Name	nr -gsm-
+400010010041	Χριστοῦ-1	Χριστοῦ	G5547	Christ	Christ	Χριστός	Name	nr -gsm-
+400010010051	υἱοῦ-1	υἱοῦ	G5207	son	son	υἱός	noun	n- -gsm-
+400010010061	Δαυὶδ-1	Δαυὶδ	G1138	of David	of David	Δαυίδ	Name	nr -gsm-
+400010010071	υἱοῦ-2	υἱοῦ	G5207	son	son	υἱός	noun	n- -gsm-
+400010010081	Ἀβραάμ-1	Ἀβραάμ	G0011	of Abraham.	of Abraham	Ἀβραάμ	Name	nr -gsm-
+400010020011	Ἀβραὰμ-1	Ἀβραὰμ	G0011	Abraham	Abraham	Ἀβραάμ	Name	nr -nsm-
+400010020021	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	was the father	γεννάω	verb	v- 3-s--aai
+400010020031	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010020041	Ἰσαάκ-1	Ἰσαάκ	G2464	Isaac,	Isaac	Ἰσαάκ	Name	nr -asm-
+400010020051	Ἰσαὰκ-1	Ἰσαὰκ	G2464	Isaac	Isaac	Ἰσαάκ	Name	nr -nsm-
+400010020061	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010020071	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010020081	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010020091	Ἰακώβ-1	Ἰακώβ	G2384	Jacob,	Jacob	Ἰακώβ	Name	nr -asm-
+400010020101	Ἰακὼβ-1	Ἰακὼβ	G2384	Jacob	Jacob	Ἰακώβ	Name	nr -nsm-
+400010020111	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010020121	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010020131	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010020141	Ἰούδαν-1	Ἰούδαν	G2455	Judah	Judah	Ἰούδας	Name	nr -asm-
+400010020151	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010020161	τοὺς-1	τοὺς	G3588	the		ὁ	det	ra -apm-
+400010020171	ἀδελφοὺς-1	ἀδελφοὺς	G0080	brothers	brothers	ἀδελφός	noun	n- -apm-
+400010020181	αὐτοῦ-1	αὐτοῦ	G0846	of him,	his	αὐτός	pron	rp -gsm-
+400010030011	Ἰούδας-1	Ἰούδας	G2455	Judah	Judah	Ἰούδας	Name	nr -nsm-
+400010030021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010030031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010030041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010030051	Φάρες-1	Φάρες	G5329	Perez	Perez	Φάρες	Name	nr -asm-
+400010030061	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010030071	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010030081	Ζάρα-1	Ζάρα	G2196	Zerah	Zerah	Ζάρα	Name	nr -asm-
+400010030091	ἐκ-1	ἐκ	G1537	by		ἐκ	prep	p- -----
+400010030101	τῆς-1	τῆς	G3588	-		ὁ	det	ra -gsf-
+400010030111	Θαμάρ-1	Θαμάρ	G2283	Tamar,	Tamar	Θαμάρ	Name	nr -gsf-
+400010030121	Φάρες-2	Φάρες	G5329	Perez	Perez	Φάρες	Name	nr -nsm-
+400010030131	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010030141	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010030151	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010030161	Ἑσρώμ-1	Ἑσρώμ	G2074	Hezron,	Hezron	Ἑσρώμ	Name	nr -asm-
+400010030171	Ἑσρὼμ-1	Ἑσρὼμ	G2074	Hezron	Hezron	Ἑσρώμ	Name	nr -nsm-
+400010030181	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010030191	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010030201	τὸν-4	τὸν	G3588	-		ὁ	det	ra -asm-
+400010030211	Ἀράμ-1	Ἀράμ	G0689	Aram,	Ram	Ἀράμ	Name	nr -asm-
+400010040011	Ἀρὰμ-1	Ἀρὰμ	G0689	Aram	Ram	Ἀράμ	Name	nr -nsm-
+400010040021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010040031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010040041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010040051	Ἀμιναδάβ-1	Ἀμιναδάβ	G0284	Amminadab,	Amminadab	Ἀμιναδάβ	Name	nr -asm-
+400010040061	Ἀμιναδὰβ-1	Ἀμιναδὰβ	G0284	Amminadab	Amminadab	Ἀμιναδάβ	Name	nr -nsm-
+400010040071	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010040081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010040091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010040101	Ναασσών-1	Ναασσών	G3476	Nashon,	Nahshon	Ναασσών	Name	nr -asm-
+400010040111	Ναασσὼν-1	Ναασσὼν	G3476	Nashon	Nahshon	Ναασσών	Name	nr -nsm-
+400010040121	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010040131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010040141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010040151	Σαλμών-1	Σαλμών	G4533	Salmon,	Salmon	Σαλμών	Name	nr -asm-
+400010050011	Σαλμὼν-1	Σαλμὼν	G4533	Salmon	Salmon	Σαλμών	Name	nr -nsm-
+400010050021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010050031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010050041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010050051	Βόες-1	Βόες	G1003b	Boaz	Boaz	Βόες	Name	nr -asm-
+400010050061	ἐκ-1	ἐκ	G1537	by		ἐκ	prep	p- -----
+400010050071	τῆς-1	τῆς	G3588	-		ὁ	det	ra -gsf-
+400010050081	Ῥαχάβ-1	Ῥαχάβ	G4477	Rahab,	Rahab	Ῥαχάβ	Name	nr -gsf-
+400010050091	Βόες-2	Βόες	G1003b	Boaz	Boaz	Βόες	Name	nr -nsm-
+400010050101	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010050111	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010050121	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010050131	Ἰωβὴδ-1	Ἰωβὴδ	G5601a	Obed	Obed	Ἰωβήδ	Name	nr -asm-
+400010050141	ἐκ-2	ἐκ	G1537	by		ἐκ	prep	p- -----
+400010050151	τῆς-2	τῆς	G3588	-		ὁ	det	ra -gsf-
+400010050161	Ῥούθ-1	Ῥούθ	G4503	Ruth,	Ruth	Ῥούθ	Name	nr -gsf-
+400010050171	Ἰωβὴδ-2	Ἰωβὴδ	G5601a	Obed	Obed	Ἰωβήδ	Name	nr -nsm-
+400010050181	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010050191	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010050201	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010050211	Ἰεσσαί-1	Ἰεσσαί	G2421	Jesse,	Jesse	Ἰεσσαί	Name	nr -asm-
+400010060011	Ἰεσσαὶ-1	Ἰεσσαὶ	G2421	Jesse	Jesse	Ἰεσσαί	Name	nr -nsm-
+400010060021	δὲ-1	δὲ	G1161	and	and	δέ	conj	c- -----
+400010060031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010060041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010060051	Δαυὶδ-1	Δαυὶδ	G1138	David	David	Δαυίδ	Name	nr -asm-
+400010060061	τὸν-2	τὸν	G3588	the		ὁ	det	ra -asm-
+400010060071	βασιλέα-1	βασιλέα	G0935	king.	King	βασιλεύς	noun	n- -asm-
+400010060081	Δαυὶδ-2	Δαυὶδ	G1138	David	David	Δαυίδ	Name	nr -nsm-
+400010060091	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010060101	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	was the father	γεννάω	verb	v- 3-s--aai
+400010060111	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010060121	Σολομῶνα-1	Σολομῶνα	G4672	Solomon	Solomon	Σολομών	Name	nr -asm-
+400010060131	ἐκ-1	ἐκ	G1537	by		ἐκ	prep	p- -----
+400010060141	τῆς-1	τῆς	G3588	the [wife]		ὁ	det	ra -gsf-
+400010060151	τοῦ-1	τοῦ	G3588	-		ὁ	det	ra -gsm-
+400010060161	Οὐρίου-1	Οὐρίου	G3774	of Uriah,	Uriah’s	Οὐρίας	Name	nr -gsm-
+400010070011	Σολομὼν-1	Σολομὼν	G4672	Solomon	Solomon	Σολομών	Name	nr -nsm-
+400010070021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010070031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010070041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010070051	Ῥοβοάμ-1	Ῥοβοάμ	G4497	Rehoboam,	Rehoboam	Ῥοβοάμ	Name	nr -asm-
+400010070061	Ῥοβοὰμ-1	Ῥοβοὰμ	G4497	Rehoboam	Rehoboam	Ῥοβοάμ	Name	nr -nsm-
+400010070071	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010070081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010070091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010070101	Ἀβιά-1	Ἀβιά	G0007	Abijah,	Abijah	Ἀβιά	Name	nr -asm-
+400010070111	Ἀβιὰ-1	Ἀβιὰ	G0007	Abijah	Abijah	Ἀβιά	Name	nr -nsm-
+400010070121	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010070131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010070141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010070151	Ἀσάφ-1	Ἀσάφ	G0760a	Asaph,	Asa	Ἀσάφ	Name	nr -asm-
+400010080011	Ἀσὰφ-1	Ἀσὰφ	G0760a	Asaph	Asa	Ἀσάφ	Name	nr -nsm-
+400010080021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010080031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010080041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010080051	Ἰωσαφάτ-1	Ἰωσαφάτ	G2498	Jehoshaphat,	Jehoshaphat	Ἰωσαφάτ	Name	nr -asm-
+400010080061	Ἰωσαφὰτ-1	Ἰωσαφὰτ	G2498	Jehoshaphat	Jehoshaphat	Ἰωσαφάτ	Name	nr -nsm-
+400010080071	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010080081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010080091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010080101	Ἰωράμ-1	Ἰωράμ	G2496	Joram,	Jehoram	Ἰωράμ	Name	nr -asm-
+400010080111	Ἰωρὰμ-1	Ἰωρὰμ	G2496	Joram	Jehoram	Ἰωράμ	Name	nr -nsm-
+400010080121	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010080131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010080141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010080151	Ὀζίαν-1	Ὀζίαν	G3604	Uzziah,	Uzziah	Ὀζίας	Name	nr -asm-
+400010090011	Ὀζίας-1	Ὀζίας	G3604	Uzziah	Uzziah	Ὀζίας	Name	nr -nsm-
+400010090021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010090031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010090041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010090051	Ἰωαθάμ-1	Ἰωαθάμ	G2488	Jotham,	Jotham	Ἰωαθάμ	Name	nr -asm-
+400010090061	Ἰωαθὰμ-1	Ἰωαθὰμ	G2488	Jotham	Jotham	Ἰωαθάμ	Name	nr -nsm-
+400010090071	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010090081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010090091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010090101	Ἀχάζ-1	Ἀχάζ	G0881	Ahaz,	Ahaz	Ἀχάζ	Name	nr -asm-
+400010090111	Ἀχὰζ-1	Ἀχὰζ	G0881	Ahaz	Ahaz	Ἀχάζ	Name	nr -nsm-
+400010090121	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010090131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010090141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010090151	Ἑζεκίαν-1	Ἑζεκίαν	G1478	Hezekiah,	Hezekiah	Ἑζεκίας	Name	nr -asm-
+400010100011	Ἑζεκίας-1	Ἑζεκίας	G1478	Hezekiah	Hezekiah	Ἑζεκίας	Name	nr -nsm-
+400010100021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010100031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010100041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010100051	Μανασσῆ-1	Μανασσῆ	G3128	Manasseh.	Manasseh	Μανασσῆ	Name	nr -asm-
+400010100061	Μανασσῆς-1	Μανασσῆς	G3128	Manasseh	Manasseh	Μανασσῆ	Name	nr -nsm-
+400010100071	δὲ-2	δὲ	G1161	and		δέ	conj	c- -----
+400010100081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010100091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010100101	Ἀμώς-1	Ἀμώς	G0300	Amos,	Amon	Ἀμώς	Name	nr -asm-
+400010100111	Ἀμὼς-1	Ἀμὼς	G0300	Amos	Amon	Ἀμώς	Name	nr -nsm-
+400010100121	δὲ-3	δὲ	G1161	and		δέ	conj	c- -----
+400010100131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010100141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010100151	Ἰωσίαν-1	Ἰωσίαν	G2502	Josiah,	Josiah	Ἰωσίας	Name	nr -asm-
+400010110011	Ἰωσίας-1	Ἰωσίας	G2502	Josiah	Josiah	Ἰωσίας	Name	nr -nsm-
+400010110021	δὲ-1	δὲ	G1161	and	and	δέ	conj	c- -----
+400010110031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010110041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010110051	Ἰεχονίαν-1	Ἰεχονίαν	G2423	Jeconiah	Jeconiah	Ἰεχονίας	Name	nr -asm-
+400010110061	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010110071	τοὺς-1	τοὺς	G3588	the		ὁ	det	ra -apm-
+400010110081	ἀδελφοὺς-1	ἀδελφοὺς	G0080	brothers	brothers	ἀδελφός	noun	n- -apm-
+400010110091	αὐτοῦ-1	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400010110101	ἐπὶ-1	ἐπὶ	G1909	at	at the time	ἐπί	prep	p- -----
+400010110111	τῆς-1	τῆς	G3588	the	the	ὁ	det	ra -gsf-
+400010110121	μετοικεσίας-1	μετοικεσίας	G3350	deportation	of exile	μετοικεσία	noun	n- -gsf-
+400010110131	Βαβυλῶνος-1	Βαβυλῶνος	G0897	to Babylon.	Babylon	Βαβυλών	Name	nr -gsf-
+400010120011	Μετὰ-1	Μετὰ	G3326	after	After	μετά	prep	p- -----
+400010120021	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400010120031	τὴν-1	τὴν	G3588	the	the	ὁ	det	ra -asf-
+400010120041	μετοικεσίαν-1	μετοικεσίαν	G3350	deportation	exile	μετοικεσία	noun	n- -asf-
+400010120051	Βαβυλῶνος-1	Βαβυλῶνος	G0897	to Babylon,	Babylon	Βαβυλών	Name	nr -gsf-
+400010120061	Ἰεχονίας-1	Ἰεχονίας	G2423	Jeconiah	Jeconiah	Ἰεχονίας	Name	nr -nsm-
+400010120071	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	was the father	γεννάω	verb	v- 3-s--aai
+400010120081	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010120091	Σαλαθιήλ-1	Σαλαθιήλ	G4528	Shealtiel,	Shealtiel	Σαλαθιήλ	Name	nr -asm-
+400010120101	Σαλαθιὴλ-1	Σαλαθιὴλ	G4528	Shealtiel	Shealtiel	Σαλαθιήλ	Name	nr -nsm-
+400010120111	δὲ-2	δὲ	G1161	and ~		δέ	conj	c- -----
+400010120121	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010120131	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010120141	Ζοροβαβέλ-1	Ζοροβαβέλ	G2216	Zerubbabel,	Zerubbabel	Ζοροβαβέλ	Name	nr -asm-
+400010130011	Ζοροβαβὲλ-1	Ζοροβαβὲλ	G2216	Zerubbabel	Zerubbabel	Ζοροβαβέλ	Name	nr -nsm-
+400010130021	δὲ-1	δὲ	G1161	and ~		δέ	conj	c- -----
+400010130031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010130041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010130051	Ἀβιούδ-1	Ἀβιούδ	G0010	Abiud,	Abiud	Ἀβιούδ	Name	nr -asm-
+400010130061	Ἀβιοὺδ-1	Ἀβιοὺδ	G0010	Abiud	Abiud	Ἀβιούδ	Name	nr -nsm-
+400010130071	δὲ-2	δὲ	G1161	and ~		δέ	conj	c- -----
+400010130081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010130091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010130101	Ἐλιακίμ-1	Ἐλιακίμ	G1662	Eliakim,	Eliakim	Ἐλιακίμ	Name	nr -asm-
+400010130111	Ἐλιακὶμ-1	Ἐλιακὶμ	G1662	Eliakimi	Eliakim	Ἐλιακίμ	Name	nr -nsm-
+400010130121	δὲ-3	δὲ	G1161	and ~		δέ	conj	c- -----
+400010130131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010130141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010130151	Ἀζώρ-1	Ἀζώρ	G0107	Azor,	Azor	Ἀζώρ	Name	nr -asm-
+400010140011	Ἀζὼρ-1	Ἀζὼρ	G0107	Azor	Azor	Ἀζώρ	Name	nr -nsm-
+400010140021	δὲ-1	δὲ	G1161	and ~		δέ	conj	c- -----
+400010140031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010140041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010140051	Σαδώκ-1	Σαδώκ	G4524	Zadok,	Zadok	Σαδώκ	Name	nr -asm-
+400010140061	Σαδὼκ-1	Σαδὼκ	G4524	Zadok	Zadok	Σαδώκ	Name	nr -nsm-
+400010140071	δὲ-2	δὲ	G1161	and ~		δέ	conj	c- -----
+400010140081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010140091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010140101	Ἀχίμ-1	Ἀχίμ	G0885	Achim,	Akim	Ἀχίμ	Name	nr -asm-
+400010140111	Ἀχὶμ-1	Ἀχὶμ	G0885	Achim	Akim	Ἀχίμ	Name	nr -nsm-
+400010140121	δὲ-3	δὲ	G1161	and ~		δέ	conj	c- -----
+400010140131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010140141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010140151	Ἐλιούδ-1	Ἐλιούδ	G1664	Eliud,	Eliud	Ἐλιούδ	Name	nr -asm-
+400010150011	Ἐλιοὺδ-1	Ἐλιοὺδ	G1664	Eliud	Eliud	Ἐλιούδ	Name	nr -nsm-
+400010150021	δὲ-1	δὲ	G1161	and ~		δέ	conj	c- -----
+400010150031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010150041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010150051	Ἐλεάζαρ-1	Ἐλεάζαρ	G1648	Eleazar,	Eleazar	Ἐλεάζαρ	Name	nr -asm-
+400010150061	Ἐλεάζαρ-2	Ἐλεάζαρ	G1648	Eleazar	Eleazar	Ἐλεάζαρ	Name	nr -nsm-
+400010150071	δὲ-2	δὲ	G1161	and ~		δέ	conj	c- -----
+400010150081	ἐγέννησεν-2	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010150091	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400010150101	Ματθάν-1	Ματθάν	G3157	Matthan,	Matthan	Ματθάν	Name	nr -asm-
+400010150111	Ματθὰν-1	Ματθὰν	G3157	Matthan	Matthan	Ματθάν	Name	nr -nsm-
+400010150121	δὲ-3	δὲ	G1161	and ~		δέ	conj	c- -----
+400010150131	ἐγέννησεν-3	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010150141	τὸν-3	τὸν	G3588	-		ὁ	det	ra -asm-
+400010150151	Ἰακώβ-1	Ἰακώβ	G2384	Jacob,	Jacob	Ἰακώβ	Name	nr -asm-
+400010160011	Ἰακὼβ-1	Ἰακὼβ	G2384	and ~ Jacob	Jacob	Ἰακώβ	Name	nr -nsm-
+400010160021	δὲ-1	δὲ	G1161	*	and	δέ	conj	c- -----
+400010160031	ἐγέννησεν-1	ἐγέννησεν	G1080	fathered	father	γεννάω	verb	v- 3-s--aai
+400010160041	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400010160051	Ἰωσὴφ-1	Ἰωσὴφ	G2501	Joseph,	Joseph	Ἰωσήφ	Name	nr -asm-
+400010160061	τὸν-2	τὸν	G3588	the	the	ὁ	det	ra -asm-
+400010160071	ἄνδρα-1	ἄνδρα	G0435	husband	husband	ἀνήρ	noun	n- -asm-
+400010160081	Μαρίας-1	Μαρίας	G3137	of Mary,	of Mary	Μαρία	Name	nr -gsf-
+400010160091	ἐξ-1	ἐξ	G1537	from	of	ἐκ	prep	p- -----
+400010160101	ἧς-1	ἧς	G3739	whom	whom	ὅς	pron	rr -gsf-
+400010160111	ἐγεννήθη-1	ἐγεννήθη	G1080	was born	was born	γεννάω	verb	v- 3-s--api
+400010160121	Ἰησοῦς-1	Ἰησοῦς	G2424	Jesus	Jesus	Ἰησοῦς	Name	nr -nsm-
+400010160131	ὁ-1	ὁ	G3588	the one		ὁ	det	ra -nsm-
+400010160141	λεγόμενος-1	λεγόμενος	G3004	being called	who is called	λέγω	verb	v- -nsm-ppp
+400010160151	Χριστός-1	Χριστός	G5547	Christ.	Christ	Χριστός	Name	nr -nsm-
+400010170011	Πᾶσαι-1	Πᾶσαι	G3956	all	all	πᾶς	adj	a- -npf-
+400010170021	οὖν-1	οὖν	G3767	thus ~	Thus	οὖν	conj	c- -----
+400010170031	αἱ-1	αἱ	G3588	the		ὁ	det	ra -npf-
+400010170041	γενεαὶ-1	γενεαὶ	G1074	generations		γενεά	noun	n- -npf-
+400010170051	ἀπὸ-1	ἀπὸ	G0575	from	from	ἀπό	prep	p- -----
+400010170061	Ἀβραὰμ-1	Ἀβραὰμ	G0011	Abraham	Abraham	Ἀβραάμ	Name	nr -gsm-
+400010170071	ἕως-1	ἕως	G2193	to	to	ἕως	prep	p- -----
+400010170081	Δαυὶδ-1	Δαυὶδ	G1138	David [were]	David	Δαυίδ	Name	nr -gsm-
+400010170091	γενεαὶ-2	γενεαὶ	G1074	fourteen ~ generations,	generations	γενεά	noun	n- -npf-
+400010170101	δεκατέσσαρες-1	δεκατέσσαρες	G1180	*	fourteen	δεκατέσσαρες	adj	a- -npf-
+400010170111	καὶ-1	καὶ	G2532	and		καί	conj	c- -----
+400010170121	ἀπὸ-2	ἀπὸ	G0575	from	from	ἀπό	prep	p- -----
+400010170131	Δαυὶδ-2	Δαυὶδ	G1138	David	David	Δαυίδ	Name	nr -gsm-
+400010170141	ἕως-2	ἕως	G2193	to	to	ἕως	prep	p- -----
+400010170151	τῆς-1	τῆς	G3588	the	the	ὁ	det	ra -gsf-
+400010170161	μετοικεσίας-1	μετοικεσίας	G3350	deportation	exile	μετοικεσία	noun	n- -gsf-
+400010170171	Βαβυλῶνος-1	Βαβυλῶνος	G0897	to Babylon,	Babylon	Βαβυλών	Name	nr -gsf-
+400010170181	γενεαὶ-3	γενεαὶ	G1074	generations,		γενεά	noun	n- -npf-
+400010170191	δεκατέσσαρες-2	δεκατέσσαρες	G1180	fourteen ~	fourteen	δεκατέσσαρες	adj	a- -npf-
+400010170201	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400010170211	ἀπὸ-3	ἀπὸ	G0575	from	from	ἀπό	prep	p- -----
+400010170221	τῆς-2	τῆς	G3588	the	the	ὁ	det	ra -gsf-
+400010170231	μετοικεσίας-2	μετοικεσίας	G3350	deportation	exile	μετοικεσία	noun	n- -gsf-
+400010170241	Βαβυλῶνος-2	Βαβυλῶνος	G0897	to Babylon		Βαβυλών	Name	nr -gsf-
+400010170251	ἕως-3	ἕως	G2193	to	to	ἕως	prep	p- -----
+400010170261	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsm-
+400010170271	Χριστοῦ-1	Χριστοῦ	G5547	Christ,	Christ	Χριστός	Name	nr -gsm-
+400010170281	γενεαὶ-4	γενεαὶ	G1074	fourteen ~ generations.		γενεά	noun	n- -npf-
+400010170291	δεκατέσσαρες-3	δεκατέσσαρες	G1180	*	fourteen	δεκατέσσαρες	adj	a- -npf-
+400010180011	Τοῦ-1	Τοῦ	G3588	-		ὁ	det	ra -gsm-
+400010180021	δὲ-1	δὲ	G1161	now		δέ	conj	c- -----
+400010180031	Ἰησοῦ-1	Ἰησοῦ	G2424	of Jesus	of Jesus	Ἰησοῦς	Name	nr -gsm-
+400010180041	Χριστοῦ-1	Χριστοῦ	G5547	Christ	Christ	Χριστός	Name	nr -gsm-
+400010180051	ἡ-1	ἡ	G3588	the	the	ὁ	det	ra -nsf-
+400010180061	γένεσις-1	γένεσις	G1078	birth	birth	γένεσις	noun	n- -nsf-
+400010180071	οὕτως-1	οὕτως	G3779	was ~ thus.	This is how	οὕτως	adv	d- -----
+400010180081	ἦν-1	ἦν	G2258	*	came about	εἰμί	verb	v- 3-s--iai
+400010180091	μνηστευθείσης-1	μνηστευθείσης	G3423	being engaged	was pledged to be married	μνηστεύω	verb	v- -gsf-app
+400010180101	τῆς-1	τῆς	G3588	the		ὁ	det	ra -gsf-
+400010180111	μητρὸς-1	μητρὸς	G3384	mother	mother	μήτηρ	noun	n- -gsf-
+400010180121	αὐτοῦ-1	αὐτοῦ	G0846	of him	His	αὐτός	pron	rp -gsm-
+400010180131	Μαρίας-1	Μαρίας	G3137	Mary	Mary	Μαρία	Name	nr -gsf-
+400010180141	τῷ-1	τῷ	G3588	-		ὁ	det	ra -dsm-
+400010180151	Ἰωσήφ-1	Ἰωσήφ	G2501	to Joseph,	to Joseph	Ἰωσήφ	Name	nr -dsm-
+400010180161	πρὶν-1	πρὶν	G4250	before	before	πρίν	adv	d- -----
+400010180171	ἢ-1	ἢ	G2228	*		ἤ	conj	c- -----
+400010180181	συνελθεῖν-1	συνελθεῖν	G4905	came together	came together	συνέρχομαι	verb	v- -----aan
+400010180191	αὐτοὺς-1	αὐτοὺς	G0846	they ~	they	αὐτός	pron	rp -apm-
+400010180201	εὑρέθη-1	εὑρέθη	G2147	she was found	she was found	εὑρίσκω	verb	v- 3-s--api
+400010180211	ἐν-1	ἐν	G1722	pregnant	be with child	ἐν	prep	p- -----
+400010180221	γαστρὶ-1	γαστρὶ	G1064	*	be with child	γαστήρ	noun	n- -dsf-
+400010180231	ἔχουσα-1	ἔχουσα	G2192	*	be with child	ἔχω	verb	v- -nsf-pap
+400010180241	ἐκ-1	ἐκ	G1537	by	through	ἐκ	prep	p- -----
+400010180251	πνεύματος-1	πνεύματος	G4151	[the] holy ~ spirit.	Spirit	πνεῦμα	noun	n- -gsn-
+400010180261	ἁγίου-1	ἁγίου	G0040	*	Holy	ἅγιος	adj	a- -gsn-
+400010190011	Ἰωσὴφ-1	Ἰωσὴφ	G2501	now ~ Joseph,	Joseph	Ἰωσήφ	Name	nr -nsm-
+400010190021	δὲ-1	δὲ	G1161	*		δέ	conj	c- -----
+400010190031	ὁ-1	ὁ	G3588	the		ὁ	det	ra -nsm-
+400010190041	ἀνὴρ-1	ἀνὴρ	G0435	husband	husband	ἀνήρ	noun	n- -nsm-
+400010190051	αὐτῆς-1	αὐτῆς	G0846	of her,	her	αὐτός	pron	rp -gsf-
+400010190061	δίκαιος-1	δίκαιος	G1342	righteous	a righteous man	δίκαιος	adj	a- -nsm-
+400010190071	ὢν-1	ὢν	G5607	being ~	was	εἰμί	verb	v- -nsm-pap
+400010190081	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010190091	μὴ-1	μὴ	G3361	not	not	μή	adv	d- -----
+400010190101	θέλων-1	θέλων	G2309	wishing	did want	θέλω	verb	v- -nsm-pap
+400010190111	αὐτὴν-1	αὐτὴν	G0846	to disgrace ~ her,	her	αὐτός	pron	rp -asf-
+400010190121	δειγματίσαι-1	δειγματίσαι	G1165	*	to public disgrace	δειγματίζω	verb	v- -----aan
+400010190131	ἐβουλήθη-1	ἐβουλήθη	G1014	decided	he had in mind	βούλομαι	verb	v- 3-s--api
+400010190141	λάθρᾳ-1	λάθρᾳ	G2977	secretly	quietly	λάθρᾳ	adv	d- -----
+400010190151	ἀπολῦσαι-1	ἀπολῦσαι	G0630	to divorce	to divorce	ἀπολύω	verb	v- -----aan
+400010190161	αὐτήν-1	αὐτήν	G0846	her.	her	αὐτός	pron	rp -asf-
+400010200011	ταῦτα-1	ταῦτα	G5023	[on] these things	this	οὗτος	pron	rd -apn-
+400010200021	δὲ-1	δὲ	G1161	now	But	δέ	conj	c- -----
+400010200031	αὐτοῦ-1	αὐτοῦ	G0846	he	he	αὐτός	pron	rp -gsm-
+400010200041	ἐνθυμηθέντος-1	ἐνθυμηθέντος	G1760	[while] ~ was thinking,	after had considered	ἐνθυμέομαι	verb	v- -gsm-app
+400010200051	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400010200061	ἄγγελος-1	ἄγγελος	G0032	an angel	an angel	ἄγγελος	noun	n- -nsm-
+400010200071	κυρίου-1	κυρίου	G2962	of  [the] lord	of Lord	κύριος	noun	n- -gsm-
+400010200081	κατ’-1	κατ’	G2596	in	in	κατά	prep	p- -----
+400010200091	ὄναρ-1	ὄναρ	G3677	a dream	a dream	ὄναρ	noun	n- -asn-
+400010200101	ἐφάνη-1	ἐφάνη	G5316	appeared	appeared	φαίνω	verb	v- 3-s--api
+400010200111	αὐτῷ-1	αὐτῷ	G0846	to him	to him	αὐτός	pron	rp -dsm-
+400010200121	λέγων-1	λέγων	G3004	saying,	said	λέγω	verb	v- -nsm-pap
+400010200131	Ἰωσὴφ-1	Ἰωσὴφ	G2501	Joseph,	Joseph	Ἰωσήφ	Name	nr -vsm-
+400010200141	υἱὸς-1	υἱὸς	G5207	son	son	υἱός	noun	n- -nsm-
+400010200151	Δαυίδ-1	Δαυίδ	G1138	of David	of David	Δαυίδ	Name	nr -gsm-
+400010200161	μὴ-1	μὴ	G3361	not	not	μή	adv	d- -----
+400010200171	φοβηθῇς-1	φοβηθῇς	G5399	do be afraid	do be afraid	φοβέω	verb	v- 2-s--aps
+400010200181	παραλαβεῖν-1	παραλαβεῖν	G3880	to take	to take	παραλαμβάνω	verb	v- -----aan
+400010200191	Μαρίαν-1	Μαρίαν	G3137	Mary [to be]	Mary	Μαρία	Name	nr -asf-
+400010200201	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400010200211	γυναῖκά-1	γυναῖκά	G1135	wife	wife	γυνή	noun	n- -asf-
+400010200221	σου-1	σου	G4675	of you;	your	σύ	pron	rp 2gs--
+400010200231	τὸ-1	τὸ	G3588	for ~ the [child]		ὁ	det	ra -nsn-
+400010200241	γὰρ-1	γὰρ	G1063	*	because	γάρ	conj	c- -----
+400010200251	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400010200261	αὐτῇ-1	αὐτῇ	G0846	her	her	αὐτός	pron	rp -dsf-
+400010200271	γεννηθὲν-1	γεννηθὲν	G1080	having been conceived	what is conceived	γεννάω	verb	v- -nsn-app
+400010200281	ἐκ-1	ἐκ	G1537	from	from	ἐκ	prep	p- -----
+400010200291	πνεύματός-1	πνεύματός	G4151	spirit	Spirit	πνεῦμα	noun	n- -gsn-
+400010200301	ἐστιν-1	ἐστιν	G2076	is	is	εἰμί	verb	v- 3-s--pai
+400010200311	ἁγίου-1	ἁγίου	G0040	[the] holy.	Holy	ἅγιος	adj	a- -gsn-
+400010210011	τέξεται-1	τέξεται	G5088	she will bear	She will give birth to	τίκτω	verb	v- 3-s--fmi
+400010210021	δὲ-1	δὲ	G1161	and ~		δέ	conj	c- -----
+400010210031	υἱόν-1	υἱόν	G5207	a son,	a son	υἱός	noun	n- -asm-
+400010210041	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010210051	καλέσεις-1	καλέσεις	G2564	you will call	you are to give	καλέω	verb	v- 2-s--fai
+400010210061	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400010210071	ὄνομα-1	ὄνομα	G3686	name	name	ὄνομα	noun	n- -asn-
+400010210081	αὐτοῦ-1	αὐτοῦ	G0846	of him	him	αὐτός	pron	rp -gsm-
+400010210091	Ἰησοῦν-1	Ἰησοῦν	G2424	Jesus,	Jesus	Ἰησοῦς	Name	nr -asm-
+400010210101	αὐτὸς-1	αὐτὸς	G0846	for ~ he	he	αὐτός	pron	rp -nsm-
+400010210111	γὰρ-1	γὰρ	G1063	*	because	γάρ	conj	c- -----
+400010210121	σώσει-1	σώσει	G4982	will save	will save	σῴζω	verb	v- 3-s--fai
+400010210131	τὸν-1	τὸν	G3588	the		ὁ	det	ra -asm-
+400010210141	λαὸν-1	λαὸν	G2992	people	people	λαός	noun	n- -asm-
+400010210151	αὐτοῦ-2	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400010210161	ἀπὸ-1	ἀπὸ	G0575	from	from	ἀπό	prep	p- -----
+400010210171	τῶν-1	τῶν	G3588	the		ὁ	det	ra -gpf-
+400010210181	ἁμαρτιῶν-1	ἁμαρτιῶν	G0266	sins	sins	ἁμαρτία	noun	n- -gpf-
+400010210191	αὐτῶν-1	αὐτῶν	G0846	of them.	their	αὐτός	pron	rp -gpm-
+400010220011	τοῦτο-1	τοῦτο	G5124	now ~ this	this	οὗτος	pron	rd -nsn-
+400010220021	δὲ-1	δὲ	G1161	*		δέ	conj	c- -----
+400010220031	ὅλον-1	ὅλον	G3650	all	All	ὅλος	adj	a- -nsn-
+400010220041	γέγονεν-1	γέγονεν	G1096	occurred	took place	γίνομαι	verb	v- 3-s--xai
+400010220051	ἵνα-1	ἵνα	G2443	that	to	ἵνα	conj	c- -----
+400010220061	πληρωθῇ-1	πληρωθῇ	G4137	might be fulfilled	fulfil	πληρόω	verb	v- 3-s--aps
+400010220071	τὸ-1	τὸ	G3588	the [thing]		ὁ	det	ra -nsn-
+400010220081	ῥηθὲν-1	ῥηθὲν	G4483	spoken	what had said	εἶπον	verb	v- -nsn-app
+400010220091	ὑπὸ-1	ὑπὸ	G5259	by		ὑπό	prep	p- -----
+400010220101	κυρίου-1	κυρίου	G2962	[the] lord	Lord	κύριος	noun	n- -gsm-
+400010220111	διὰ-1	διὰ	G1223	through	through	διά	prep	p- -----
+400010220121	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsm-
+400010220131	προφήτου-1	προφήτου	G4396	prophet	prophet	προφήτης	noun	n- -gsm-
+400010220141	λέγοντος-1	λέγοντος	G3004	saying,		λέγω	verb	v- -gsm-pap
+400010230011	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400010230021	ἡ-1	ἡ	G3588	the	The	ὁ	det	ra -nsf-
+400010230031	παρθένος-1	παρθένος	G3933	virgin	virgin	παρθένος	noun	n- -nsf-
+400010230041	ἐν-1	ἐν	G1722	will be pregnant	will be with child	ἐν	prep	p- -----
+400010230051	γαστρὶ-1	γαστρὶ	G1064	*	will be with child	γαστήρ	noun	n- -dsf-
+400010230061	ἕξει-1	ἕξει	G2192	*	will be with child	ἔχω	verb	v- 3-s--fai
+400010230071	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010230081	τέξεται-1	τέξεται	G5088	she will bear	will give birth to	τίκτω	verb	v- 3-s--fmi
+400010230091	υἱόν-1	υἱόν	G5207	a son,	a son	υἱός	noun	n- -asm-
+400010230101	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400010230111	καλέσουσιν-1	καλέσουσιν	G2564	they will call	they will call	καλέω	verb	v- 3-p--fai
+400010230121	τὸ-1	τὸ	G3588	the		ὁ	det	ra -asn-
+400010230131	ὄνομα-1	ὄνομα	G3686	name		ὄνομα	noun	n- -asn-
+400010230141	αὐτοῦ-1	αὐτοῦ	G0846	of him	him	αὐτός	pron	rp -gsm-
+400010230151	Ἐμμανουήλ-1	Ἐμμανουήλ	G1694	Immanuel,	Immanuel	Ἐμμανουήλ	Name	nr -asm-
+400010230161	ὅ-1	ὅ	G3739	which	which	ὅς	pron	rr -nsn-
+400010230171	ἐστιν-1	ἐστιν	G2076	means	means	εἰμί	verb	v- 3-s--pai
+400010230181	μεθερμηνευόμενον-1	μεθερμηνευόμενον	G3177	having been interpreted	means	μεθερμηνεύω	verb	v- -nsn-ppp
+400010230191	μεθ’-1	μεθ’	G3326	with	with	μετά	prep	p- -----
+400010230201	ἡμῶν-1	ἡμῶν	G2257	us	us	ἐγώ	pron	rp 1gp--
+400010230211	ὁ-1	ὁ	G3588	-		ὁ	det	ra -nsm-
+400010230221	θεός-1	θεός	G2316	god.	God	θεός	noun	n- -nsm-
+400010240011	ἐγερθεὶς-1	ἐγερθεὶς	G1453	rising up	When woke up	ἐγείρω	verb	v- -nsm-app
+400010240021	δὲ-1	δὲ	G1161	then ~		δέ	conj	c- -----
+400010240031	ὁ-1	ὁ	G3588	-		ὁ	det	ra -nsm-
+400010240041	Ἰωσὴφ-1	Ἰωσὴφ	G2501	Joseph	Joseph	Ἰωσήφ	Name	nr -nsm-
+400010240051	ἀπὸ-1	ἀπὸ	G0575	from		ἀπό	prep	p- -----
+400010240061	τοῦ-1	τοῦ	G3588	-		ὁ	det	ra -gsm-
+400010240071	ὕπνου-1	ὕπνου	G5258	sleep		ὕπνος	noun	n- -gsm-
+400010240081	ἐποίησεν-1	ἐποίησεν	G4160	he did	he did	ποιέω	verb	v- 3-s--aai
+400010240091	ὡς-1	ὡς	G5613	as		ὡς	conj	c- -----
+400010240101	προσέταξεν-1	προσέταξεν	G4367	commanded	had commanded	προστάσσω	verb	v- 3-s--aai
+400010240111	αὐτῷ-1	αὐτῷ	G0846	him	him	αὐτός	pron	rp -dsm-
+400010240121	ὁ-2	ὁ	G3588	the	the	ὁ	det	ra -nsm-
+400010240131	ἄγγελος-1	ἄγγελος	G0032	angel	angel	ἄγγελος	noun	n- -nsm-
+400010240141	κυρίου-1	κυρίου	G2962	of [the] lord	of Lord	κύριος	noun	n- -gsm-
+400010240151	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400010240161	παρέλαβεν-1	παρέλαβεν	G3880	he took	took	παραλαμβάνω	verb	v- 3-s--aai
+400010240171	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400010240181	γυναῖκα-1	γυναῖκα	G1135	wife	wife	γυνή	noun	n- -asf-
+400010240191	αὐτοῦ-1	αὐτοῦ	G0846	of him,	his	αὐτός	pron	rp -gsm-
+400010250011	καὶ-1	καὶ	G2532	and	But	καί	conj	c- -----
+400010250021	οὐκ-1	οὐκ	G3756	not	no	οὐ	adv	d- -----
+400010250031	ἐγίνωσκεν-1	ἐγίνωσκεν	G1097	he did know	he had union	γινώσκω	verb	v- 3-s--iai
+400010250041	αὐτὴν-1	αὐτὴν	G0846	her	her	αὐτός	pron	rp -asf-
+400010250051	ἕως-1	ἕως	G2193	until	until	ἕως	prep	p- -----
+400010250061	οὗ-1	οὗ	G3739	*	until	ὅς	pron	rr -gsm-
+400010250071	ἔτεκεν-1	ἔτεκεν	G5088	she bore	she gave birth to	τίκτω	verb	v- 3-s--aai
+400010250081	υἱόν-1	υἱόν	G5207	a son;	a son	υἱός	noun	n- -asm-
+400010250091	καὶ-2	καὶ	G2532	and	And	καί	conj	c- -----
+400010250101	ἐκάλεσεν-1	ἐκάλεσεν	G2564	he called	he gave	καλέω	verb	v- 3-s--aai
+400010250111	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400010250121	ὄνομα-1	ὄνομα	G3686	name	name	ὄνομα	noun	n- -asn-
+400010250131	αὐτοῦ-1	αὐτοῦ	G0846	of him	him	αὐτός	pron	rp -gsm-
+400010250141	Ἰησοῦν-1	Ἰησοῦν	G2424	Jesus.	Jesus	Ἰησοῦς	Name	nr -asm-
+400020010011	Τοῦ-1	Τοῦ	G3588	-		ὁ	det	ra -gsm-
+400020010021	δὲ-1	δὲ	G1161	now		δέ	conj	c- -----
+400020010031	Ἰησοῦ-1	Ἰησοῦ	G2424	Jesus	Jesus	Ἰησοῦς	Name	nr -gsm-
+400020010041	γεννηθέντος-1	γεννηθέντος	G1080	having been born	After was born	γεννάω	verb	v- -gsm-app
+400020010051	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020010061	Βηθλέεμ-1	Βηθλέεμ	G0965	Bethlehem	Bethlehem	Βηθλέεμ	Name	nr -dsf-
+400020010071	τῆς-1	τῆς	G3588	-		ὁ	det	ra -gsf-
+400020010081	Ἰουδαίας-1	Ἰουδαίας	G2449	of Judea	in Judea	Ἰουδαία	Name	nr -gsf-
+400020010091	ἐν-2	ἐν	G1722	in	during	ἐν	prep	p- -----
+400020010101	ἡμέραις-1	ἡμέραις	G2250	[the] days	time	ἡμέρα	noun	n- -dpf-
+400020010111	Ἡρῴδου-1	Ἡρῴδου	G2264	of Herod	Herod	Ἡρῴδης	Name	nr -gsm-
+400020010121	τοῦ-1	τοῦ	G3588	the		ὁ	det	ra -gsm-
+400020010131	βασιλέως-1	βασιλέως	G0935	king,	of King	βασιλεύς	noun	n- -gsm-
+400020010141	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400020010151	μάγοι-1	μάγοι	G3097	magi	Magi	μάγος	noun	n- -npm-
+400020010161	ἀπὸ-1	ἀπὸ	G0575	from	from	ἀπό	prep	p- -----
+400020010171	ἀνατολῶν-1	ἀνατολῶν	G0395	[the] east	east	ἀνατολή	noun	n- -gpf-
+400020010181	παρεγένοντο-1	παρεγένοντο	G3854	arrived	came	παραγίνομαι	verb	v- 3-p--ami
+400020010191	εἰς-1	εἰς	G1519	in	to	εἰς	prep	p- -----
+400020010201	Ἱεροσόλυμα-1	Ἱεροσόλυμα	G2414	Jerusalem.	Jerusalem	Ἱεροσόλυμα	Name	nr -apn-
+400020020011	λέγοντες-1	λέγοντες	G3004	saying,	asked	λέγω	verb	v- -npm-pap
+400020020021	ποῦ-1	ποῦ	G4226	where	Where	ποῦ	adv	d- -----
+400020020031	ἐστιν-1	ἐστιν	G2076	is	is	εἰμί	verb	v- 3-s--pai
+400020020041	ὁ-1	ὁ	G3588	the one	the one	ὁ	det	ra -nsm-
+400020020051	τεχθεὶς-1	τεχθεὶς	G5088	having been born	who has been born	τίκτω	verb	v- -nsm-app
+400020020061	βασιλεὺς-1	βασιλεὺς	G0935	king	king	βασιλεύς	noun	n- -nsm-
+400020020071	τῶν-1	τῶν	G3588	of the	the	ὁ	det	ra -gpm-
+400020020081	Ἰουδαίων-1	Ἰουδαίων	G2453	Jews?	of Jews	Ἰουδαῖος	adj	a- -gpm-
+400020020091	εἴδομεν-1	εἴδομεν	G3708	for ~ we saw	We saw	ὁράω	verb	v- 1-p--aai
+400020020101	γὰρ-1	γὰρ	G1063	*		γάρ	conj	c- -----
+400020020111	αὐτοῦ-1	αὐτοῦ	G0846	his	his	αὐτός	pron	rp -gsm-
+400020020121	τὸν-1	τὸν	G3588	-		ὁ	det	ra -asm-
+400020020131	ἀστέρα-1	ἀστέρα	G0792	star	star	ἀστήρ	noun	n- -asm-
+400020020141	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020020151	τῇ-1	τῇ	G3588	the	the	ὁ	det	ra -dsf-
+400020020161	ἀνατολῇ-1	ἀνατολῇ	G0395	east	east	ἀνατολή	noun	n- -dsf-
+400020020171	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020020181	ἤλθομεν-1	ἤλθομεν	G2064	we came	have come	ἔρχομαι	verb	v- 1-p--aai
+400020020191	προσκυνῆσαι-1	προσκυνῆσαι	G4352	to worship	to worship	προσκυνέω	verb	v- -----aan
+400020020201	αὐτῷ-1	αὐτῷ	G0846	him.	him	αὐτός	pron	rp -dsm-
+400020030011	ἀκούσας-1	ἀκούσας	G0191	having heard [this]	When heard	ἀκούω	verb	v- -nsm-aap
+400020030021	δὲ-1	δὲ	G1161	now ~		δέ	conj	c- -----
+400020030031	ὁ-1	ὁ	G3588	-		ὁ	det	ra -nsm-
+400020030041	βασιλεὺς-1	βασιλεὺς	G0935	king	King	βασιλεύς	noun	n- -nsm-
+400020030051	Ἡρῴδης-1	Ἡρῴδης	G2264	Herod	Herod	Ἡρῴδης	Name	nr -nsm-
+400020030061	ἐταράχθη-1	ἐταράχθη	G5015	was troubled	he was disturbed	ταράσσω	verb	v- 3-s--api
+400020030071	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020030081	πᾶσα-1	πᾶσα	G3956	all	all	πᾶς	adj	a- -nsf-
+400020030091	Ἱεροσόλυμα-1	Ἱεροσόλυμα	G2414	Jerusalem	Jerusalem	Ἱεροσόλυμα	Name	nr -nsf-
+400020030101	μετ’-1	μετ’	G3326	with	with	μετά	prep	p- -----
+400020030111	αὐτοῦ-1	αὐτοῦ	G0846	him.	him	αὐτός	pron	rp -gsm-
+400020040011	καὶ-1	καὶ	G2532	and	When	καί	conj	c- -----
+400020040021	συναγαγὼν-1	συναγαγὼν	G4863	having assembled	had called together	συνάγω	verb	v- -nsm-aap
+400020040031	πάντας-1	πάντας	G3956	all	all	πᾶς	adj	a- -apm-
+400020040041	τοὺς-1	τοὺς	G3588	the	the	ὁ	det	ra -apm-
+400020040051	ἀρχιερεῖς-1	ἀρχιερεῖς	G0749	chief priests	chief priests	ἀρχιερεύς	noun	n- -apm-
+400020040061	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020040071	γραμματεῖς-1	γραμματεῖς	G1122	scribes	teachers of the law	γραμματεύς	noun	n- -apm-
+400020040081	τοῦ-1	τοῦ	G3588	of the		ὁ	det	ra -gsm-
+400020040091	λαοῦ-1	λαοῦ	G2992	people	people’s	λαός	noun	n- -gsm-
+400020040101	ἐπυνθάνετο-1	ἐπυνθάνετο	G4441	he inquired	he asked	πυνθάνομαι	verb	v- 3-s--ini
+400020040111	παρ’-1	παρ’	G3844	from		παρά	prep	p- -----
+400020040121	αὐτῶν-1	αὐτῶν	G0846	them	them	αὐτός	pron	rp -gpm-
+400020040131	ποῦ-1	ποῦ	G4226	where	where	ποῦ	adv	d- -----
+400020040141	ὁ-1	ὁ	G3588	the	the	ὁ	det	ra -nsm-
+400020040151	χριστὸς-1	χριστὸς	G5547	Christ	Christ	Χριστός	Name	nr -nsm-
+400020040161	γεννᾶται-1	γεννᾶται	G1080	is being born.	was to be born	γεννάω	verb	v- 3-s--ppi
+400020050011	οἱ-1	οἱ	G3588	they	they	ὁ	det	ra -npm-
+400020050021	δὲ-1	δὲ	G1161	and ~		δέ	conj	c- -----
+400020050031	εἶπαν-1	εἶπαν	G2036	said	replied	λέγω	verb	v- 3-p--aai
+400020050041	αὐτῷ-1	αὐτῷ	G0846	to him,		αὐτός	pron	rp -dsm-
+400020050051	ἐν-1	ἐν	G1722	in	In	ἐν	prep	p- -----
+400020050061	Βηθλέεμ-1	Βηθλέεμ	G0965	Bethlehem	Bethlehem	Βηθλέεμ	Name	nr -dsf-
+400020050071	τῆς-1	τῆς	G3588	-		ὁ	det	ra -gsf-
+400020050081	Ἰουδαίας-1	Ἰουδαίας	G2449	of Judea;	in Judea	Ἰουδαία	Name	nr -gsf-
+400020050091	οὕτως-1	οὕτως	G3779	thus	this is what	οὕτως	adv	d- -----
+400020050101	γὰρ-1	γὰρ	G1063	for ~	for	γάρ	conj	c- -----
+400020050111	γέγραπται-1	γέγραπται	G1125	it has been written	has written	γράφω	verb	v- 3-s--xpi
+400020050121	διὰ-1	διὰ	G1223	through		διά	prep	p- -----
+400020050131	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsm-
+400020050141	προφήτου-1	προφήτου	G4396	prophet:	prophet	προφήτης	noun	n- -gsm-
+400020060011	καὶ-1	καὶ	G2532	and	But	καί	conj	c- -----
+400020060021	σὺ-1	σὺ	G4771	you	you	σύ	pron	rp 2ns--
+400020060031	Βηθλέεμ-1	Βηθλέεμ	G0965	Bethlehem,	Bethlehem	Βηθλέεμ	Name	nr -vsf-
+400020060041	γῆ-1	γῆ	G1093	[in the] land	land	γῆ	noun	n- -vsf-
+400020060051	Ἰούδα-1	Ἰούδα	G2448	of Judah,	of Judah	Ἰούδας	Name	nr -gsm-
+400020060061	οὐδαμῶς-1	οὐδαμῶς	G3760	by no means	by no means	οὐδαμῶς	adv	d- -----
+400020060071	ἐλαχίστη-1	ἐλαχίστη	G1646	least	least	ἐλάχιστος	adj	a- -nsfs
+400020060081	εἶ-1	εἶ	G1488	are you	are	εἰμί	verb	v- 2-s--pai
+400020060091	ἐν-1	ἐν	G1722	among	among	ἐν	prep	p- -----
+400020060101	τοῖς-1	τοῖς	G3588	the	the	ὁ	det	ra -dpm-
+400020060111	ἡγεμόσιν-1	ἡγεμόσιν	G2232	rulers	rulers	ἡγεμών	noun	n- -dpm-
+400020060121	Ἰούδα-2	Ἰούδα	G2448	of Judah.	of Judah	Ἰούδας	Name	nr -gsm-
+400020060131	ἐκ-1	ἐκ	G1537	from	out of	ἐκ	prep	p- -----
+400020060141	σοῦ-1	σοῦ	G4675	you	you	σύ	pron	rp 2gs--
+400020060151	γὰρ-1	γὰρ	G1063	for	for	γάρ	conj	c- -----
+400020060161	ἐξελεύσεται-1	ἐξελεύσεται	G1831	will come	will come	ἐξέρχομαι	verb	v- 3-s--fmi
+400020060171	ἡγούμενος-1	ἡγούμενος	G2233	a ruler,	a ruler	ἡγέομαι	verb	v- -nsm-pnp
+400020060181	ὅστις-1	ὅστις	G3748	who	who	ὅστις	pron	rr -nsm-
+400020060191	ποιμανεῖ-1	ποιμανεῖ	G4165	will shepherd	will be the shepherd	ποιμαίνω	verb	v- 3-s--fai
+400020060201	τὸν-1	τὸν	G3588	the		ὁ	det	ra -asm-
+400020060211	λαόν-1	λαόν	G2992	people	people	λαός	noun	n- -asm-
+400020060221	μου-1	μου	G3450	of me	my	ἐγώ	pron	rp 1gs--
+400020060231	τὸν-2	τὸν	G3588	-		ὁ	det	ra -asm-
+400020060241	Ἰσραήλ-1	Ἰσραήλ	G2474	Israel.	Israel	Ἰσραήλ	Name	nr -asm-
+400020070011	Τότε-1	Τότε	G5119	then	Then	τότε	adv	d- -----
+400020070021	Ἡρῴδης-1	Ἡρῴδης	G2264	Herod	Herod	Ἡρῴδης	Name	nr -nsm-
+400020070031	λάθρᾳ-1	λάθρᾳ	G2977	secretly	secretly	λάθρᾳ	adv	d- -----
+400020070041	καλέσας-1	καλέσας	G2564	having called	called	καλέω	verb	v- -nsm-aap
+400020070051	τοὺς-1	τοὺς	G3588	the	the	ὁ	det	ra -apm-
+400020070061	μάγους-1	μάγους	G3097	magi	Magi	μάγος	noun	n- -apm-
+400020070071	ἠκρίβωσεν-1	ἠκρίβωσεν	G0198	ascertained	found out	ἀκριβόω	verb	v- 3-s--aai
+400020070081	παρ’-1	παρ’	G3844	from	from	παρά	prep	p- -----
+400020070091	αὐτῶν-1	αὐτῶν	G0846	them	them	αὐτός	pron	rp -gpm-
+400020070101	τὸν-1	τὸν	G3588	the	the	ὁ	det	ra -asm-
+400020070111	χρόνον-1	χρόνον	G5550	time	exact time	χρόνος	noun	n- -asm-
+400020070121	τοῦ-1	τοῦ	G3588	of the	the	ὁ	det	ra -gsm-
+400020070131	φαινομένου-1	φαινομένου	G5316	appearing	had appeared	φαίνω	verb	v- -gsm-pnp
+400020070141	ἀστέρος-1	ἀστέρος	G0792	of [the] star,	star	ἀστήρ	noun	n- -gsm-
+400020080011	καὶ-1	καὶ	G2532	and		καί	conj	c- -----
+400020080021	πέμψας-1	πέμψας	G3992	having sent	sent	πέμπω	verb	v- -nsm-aap
+400020080031	αὐτοὺς-1	αὐτοὺς	G0846	them	them	αὐτός	pron	rp -apm-
+400020080041	εἰς-1	εἰς	G1519	to	to	εἰς	prep	p- -----
+400020080051	Βηθλέεμ-1	Βηθλέεμ	G0965	Bethlehem	Bethlehem	Βηθλέεμ	Name	nr -asf-
+400020080061	εἶπεν-1	εἶπεν	G2036	he said,	said	λέγω	verb	v- 3-s--aai
+400020080071	πορευθέντες-1	πορευθέντες	G4198	going	Go	πορεύομαι	verb	v- -npm-app
+400020080081	ἐξετάσατε-1	ἐξετάσατε	G1833	inquire	make a search	ἐξετάζω	verb	v- 2-p--aad
+400020080091	ἀκριβῶς-1	ἀκριβῶς	G0199	carefully	careful	ἀκριβῶς	adv	d- -----
+400020080101	περὶ-1	περὶ	G4012	concerning	for	περί	prep	p- -----
+400020080111	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsn-
+400020080121	παιδίου-1	παιδίου	G3813	child;	child	παιδίον	noun	n- -gsn-
+400020080131	ἐπὰν-1	ἐπὰν	G1875	when	As soon as	ἐπάν	conj	c- -----
+400020080141	δὲ-1	δὲ	G1161	and		δέ	conj	c- -----
+400020080151	εὕρητε-1	εὕρητε	G2147	you find [him],	you find	εὑρίσκω	verb	v- 2-p--aas
+400020080161	ἀπαγγείλατέ-1	ἀπαγγείλατέ	G0518	report	report	ἀπαγγέλλω	verb	v- 2-p--aad
+400020080171	μοι-1	μοι	G3427	to me,	to me	ἐγώ	pron	rp 1ds--
+400020080181	ὅπως-1	ὅπως	G3704	so that	so that	ὅπως	conj	c- -----
+400020080191	κἀγὼ-1	κἀγὼ	G2504	I also	I too	κἀγώ	pron	rp 1ns--
+400020080201	ἐλθὼν-1	ἐλθὼν	G2064	coming	may go	ἔρχομαι	verb	v- -nsm-aap
+400020080211	προσκυνήσω-1	προσκυνήσω	G4352	may worship	worship	προσκυνέω	verb	v- 1-s--aas
+400020080221	αὐτῷ-1	αὐτῷ	G0846	him.	him	αὐτός	pron	rp -dsm-
+400020090011	Οἱ-1	Οἱ	G3588	~ they,	they	ὁ	det	ra -npm-
+400020090021	δὲ-1	δὲ	G1161	so		δέ	conj	c- -----
+400020090031	ἀκούσαντες-1	ἀκούσαντες	G0191	having listened	had heard	ἀκούω	verb	v- -npm-aap
+400020090041	τοῦ-1	τοῦ	G3588	to the	the	ὁ	det	ra -gsm-
+400020090051	βασιλέως-1	βασιλέως	G0935	king,	king	βασιλεύς	noun	n- -gsm-
+400020090061	ἐπορεύθησαν-1	ἐπορεύθησαν	G4198	departed	they went on their way	πορεύομαι	verb	v- 3-p--api
+400020090071	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020090081	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400020090091	ὁ-1	ὁ	G3588	the	the	ὁ	det	ra -nsm-
+400020090101	ἀστήρ-1	ἀστήρ	G0792	star,	star	ἀστήρ	noun	n- -nsm-
+400020090111	ὃν-1	ὃν	G3739	which		ὅς	pron	rr -asm-
+400020090121	εἶδον-1	εἶδον	G3708	they saw	they had seen	ὁράω	verb	v- 3-p--aai
+400020090131	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020090141	τῇ-1	τῇ	G3588	the	the	ὁ	det	ra -dsf-
+400020090151	ἀνατολῇ-1	ἀνατολῇ	G0395	east,	east	ἀνατολή	noun	n- -dsf-
+400020090161	προῆγεν-1	προῆγεν	G4254	went before	went ahead of	προάγω	verb	v- 3-s--iai
+400020090171	αὐτούς-1	αὐτούς	G0846	them,	them	αὐτός	pron	rp -apm-
+400020090181	ἕως-1	ἕως	G2193	until	until	ἕως	conj	c- -----
+400020090191	ἐλθὼν-1	ἐλθὼν	G2064	having come		ἔρχομαι	verb	v- -nsm-aap
+400020090201	ἐστάθη-1	ἐστάθη	G2476	it stood	it stopped	ἵστημι	verb	v- 3-s--api
+400020090211	ἐπάνω-1	ἐπάνω	G1883	over	over	ἐπάνω	prep	p- -----
+400020090221	οὗ-1	οὗ	G3757	[the place] where	where	οὗ	adv	d- -----
+400020090231	ἦν-1	ἦν	G2258	was	was	εἰμί	verb	v- 3-s--iai
+400020090241	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -nsn-
+400020090251	παιδίον-1	παιδίον	G3813	child.	child	παιδίον	noun	n- -nsn-
+400020100011	ἰδόντες-1	ἰδόντες	G3708	and ~ seeing	When saw	ὁράω	verb	v- -npm-aap
+400020100021	δὲ-1	δὲ	G1161	*		δέ	conj	c- -----
+400020100031	τὸν-1	τὸν	G3588	the	the	ὁ	det	ra -asm-
+400020100041	ἀστέρα-1	ἀστέρα	G0792	star,	star	ἀστήρ	noun	n- -asm-
+400020100051	ἐχάρησαν-1	ἐχάρησαν	G5463	they rejoiced	they were overjoyed	χαίρω	verb	v- 3-p--api
+400020100061	χαρὰν-1	χαρὰν	G5479	joy	they were overjoyed	χαρά	noun	n- -asf-
+400020100071	μεγάλην-1	μεγάλην	G3173	great		μέγας	adj	a- -asf-
+400020100081	σφόδρα-1	σφόδρα	G4970	[with] exceeding.		σφόδρα	adv	d- -----
+400020110011	καὶ-1	καὶ	G2532	and		καί	conj	c- -----
+400020110021	ἐλθόντες-1	ἐλθόντες	G2064	coming	On coming	ἔρχομαι	verb	v- -npm-aap
+400020110031	εἰς-1	εἰς	G1519	into	to	εἰς	prep	p- -----
+400020110041	τὴν-1	τὴν	G3588	the	the	ὁ	det	ra -asf-
+400020110051	οἰκίαν-1	οἰκίαν	G3614	house	house	οἰκία	noun	n- -asf-
+400020110061	εἶδον-1	εἶδον	G3708	they saw	they saw	ὁράω	verb	v- 3-p--aai
+400020110071	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020110081	παιδίον-1	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020110091	μετὰ-1	μετὰ	G3326	with	with	μετά	prep	p- -----
+400020110101	Μαρίας-1	Μαρίας	G3137	Mary	Mary	Μαρία	Name	nr -gsf-
+400020110111	τῆς-1	τῆς	G3588	the		ὁ	det	ra -gsf-
+400020110121	μητρὸς-1	μητρὸς	G3384	mother	mother	μήτηρ	noun	n- -gsf-
+400020110131	αὐτοῦ-1	αὐτοῦ	G0846	of him,	his	αὐτός	pron	rp -gsn-
+400020110141	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020110151	πεσόντες-1	πεσόντες	G4098	falling down,	bowed down	πίπτω	verb	v- -npm-aap
+400020110161	προσεκύνησαν-1	προσεκύνησαν	G4352	they worshiped	they worshipped	προσκυνέω	verb	v- 3-p--aai
+400020110171	αὐτῷ-1	αὐτῷ	G0846	him	him	αὐτός	pron	rp -dsn-
+400020110181	καὶ-3	καὶ	G2532	and	Then	καί	conj	c- -----
+400020110191	ἀνοίξαντες-1	ἀνοίξαντες	G0455	having opened	opened	ἀνοίγω	verb	v- -npm-aap
+400020110201	τοὺς-1	τοὺς	G3588	the		ὁ	det	ra -apm-
+400020110211	θησαυροὺς-1	θησαυροὺς	G2344	treasures	treasures	θησαυρός	noun	n- -apm-
+400020110221	αὐτῶν-1	αὐτῶν	G0846	of them,	their	αὐτός	pron	rp -gpm-
+400020110231	προσήνεγκαν-1	προσήνεγκαν	G4374	they offered	presented	προσφέρω	verb	v- 3-p--aai
+400020110241	αὐτῷ-2	αὐτῷ	G0846	to him	him	αὐτός	pron	rp -dsn-
+400020110251	δῶρα-1	δῶρα	G1435	gifts,	with gifts	δῶρον	noun	n- -apn-
+400020110261	χρυσὸν-1	χρυσὸν	G5557	gold	gold	χρυσός	noun	n- -asm-
+400020110271	καὶ-4	καὶ	G2532	and	and	καί	conj	c- -----
+400020110281	λίβανον-1	λίβανον	G3030	frankincense	incense	λίβανος	noun	n- -asm-
+400020110291	καὶ-5	καὶ	G2532	and	and	καί	conj	c- -----
+400020110301	σμύρναν-1	σμύρναν	G4666	myrrh.	myrrh	σμύρνα	noun	n- -asf-
+400020120011	Καὶ-1	Καὶ	G2532	and	And	καί	conj	c- -----
+400020120021	χρηματισθέντες-1	χρηματισθέντες	G5537	having been warned	having been warned	χρηματίζω	verb	v- -npm-app
+400020120031	κατ’-1	κατ’	G2596	in	in	κατά	prep	p- -----
+400020120041	ὄναρ-1	ὄναρ	G3677	a dream	a dream	ὄναρ	noun	n- -asn-
+400020120051	μὴ-1	μὴ	G3361	not	not	μή	adv	d- -----
+400020120061	ἀνακάμψαι-1	ἀνακάμψαι	G0344	to return	to go back	ἀνακάμπτω	verb	v- -----aan
+400020120071	πρὸς-1	πρὸς	G4314	to	to	πρός	prep	p- -----
+400020120081	Ἡρῴδην-1	Ἡρῴδην	G2264	Herod,	Herod	Ἡρῴδης	Name	nr -asm-
+400020120091	δι’-1	δι’	G1223	by	by	διά	prep	p- -----
+400020120101	ἄλλης-1	ἄλλης	G0243	another	another	ἄλλος	adj	a- -gsf-
+400020120111	ὁδοῦ-1	ὁδοῦ	G3598	way	route	ὁδός	noun	n- -gsf-
+400020120121	ἀνεχώρησαν-1	ἀνεχώρησαν	G0402	they departed	they returned	ἀναχωρέω	verb	v- 3-p--aai
+400020120131	εἰς-1	εἰς	G1519	to	to	εἰς	prep	p- -----
+400020120141	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400020120151	χώραν-1	χώραν	G5561	country	country	χώρα	noun	n- -asf-
+400020120161	αὐτῶν-1	αὐτῶν	G0846	of them.	their	αὐτός	pron	rp -gpm-
+400020130011	Ἀναχωρησάντων-1	Ἀναχωρησάντων	G0402	[after]  departed,	When had gone	ἀναχωρέω	verb	v- -gpm-aap
+400020130021	δὲ-1	δὲ	G1161	now		δέ	conj	c- -----
+400020130031	αὐτῶν-1	αὐτῶν	G0846	they	they	αὐτός	pron	rp -gpm-
+400020130041	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400020130051	ἄγγελος-1	ἄγγελος	G0032	an angel	an angel	ἄγγελος	noun	n- -nsm-
+400020130061	κυρίου-1	κυρίου	G2962	of [the] lord	of Lord	κύριος	noun	n- -gsm-
+400020130071	φαίνεται-1	φαίνεται	G5316	appeared	appeared	φαίνω	verb	v- 3-s--pni
+400020130081	κατ’-1	κατ’	G2596	in	in	κατά	prep	p- -----
+400020130091	ὄναρ-1	ὄναρ	G3677	a dream	a dream	ὄναρ	noun	n- -asn-
+400020130101	τῷ-1	τῷ	G3588	-		ὁ	det	ra -dsm-
+400020130111	Ἰωσὴφ-1	Ἰωσὴφ	G2501	to Joseph	to Joseph	Ἰωσήφ	Name	nr -dsm-
+400020130121	λέγων-1	λέγων	G3004	saying,	said	λέγω	verb	v- -nsm-pap
+400020130131	ἐγερθεὶς-1	ἐγερθεὶς	G1453	rising up	Get up	ἐγείρω	verb	v- -nsm-app
+400020130141	παράλαβε-1	παράλαβε	G3880	take	take	παραλαμβάνω	verb	v- 2-s--aad
+400020130151	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020130161	παιδίον-1	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020130171	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020130181	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400020130191	μητέρα-1	μητέρα	G3384	mother	mother	μήτηρ	noun	n- -asf-
+400020130201	αὐτοῦ-1	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400020130211	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020130221	φεῦγε-1	φεῦγε	G5343	flee	escape	φεύγω	verb	v- 2-s--pad
+400020130231	εἰς-1	εἰς	G1519	to	to	εἰς	prep	p- -----
+400020130241	Αἴγυπτον-1	Αἴγυπτον	G0125	Egypt	Egypt	Αἴγυπτος	Name	nr -asf-
+400020130251	καὶ-3	καὶ	G2532	and		καί	conj	c- -----
+400020130261	ἴσθι-1	ἴσθι	G2468	remain	Stay	εἰμί	verb	v- 2-s--pad
+400020130271	ἐκεῖ-1	ἐκεῖ	G1563	there	there	ἐκεῖ	adv	d- -----
+400020130281	ἕως-1	ἕως	G2193	until	until	ἕως	conj	c- -----
+400020130291	ἂν-1	ἂν	G0302	*	until	ἄν	ptcl	x- -----
+400020130301	εἴπω-1	εἴπω	G2036	I tell	I tell	λέγω	verb	v- 1-s--aas
+400020130311	σοι-1	σοι	G4671	you;	you	σύ	pron	rp 2ds--
+400020130321	μέλλει-1	μέλλει	G3195	is about	is going to	μέλλω	verb	v- 3-s--pai
+400020130331	γὰρ-1	γὰρ	G1063	for	for	γάρ	conj	c- -----
+400020130341	Ἡρῴδης-1	Ἡρῴδης	G2264	Herod	Herod	Ἡρῴδης	Name	nr -nsm-
+400020130351	ζητεῖν-1	ζητεῖν	G2212	to seek	search for	ζητέω	verb	v- -----pan
+400020130361	τὸ-2	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020130371	παιδίον-2	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020130381	τοῦ-1	τοῦ	G3588	-		ὁ	det	ra -gsn-
+400020130391	ἀπολέσαι-1	ἀπολέσαι	G0622	to kill	to kill	ἀπόλλυμι	verb	v- -----aan
+400020130401	αὐτό-1	αὐτό	G0846	it.	him	αὐτός	pron	rp -asn-
+400020140011	ὁ-1	ὁ	G3588	-	he	ὁ	det	ra -nsm-
+400020140021	δὲ-1	δὲ	G1161	so	So	δέ	conj	c- -----
+400020140031	ἐγερθεὶς-1	ἐγερθεὶς	G1453	having arisen,	got up	ἐγείρω	verb	v- -nsm-app
+400020140041	παρέλαβεν-1	παρέλαβεν	G3880	he took	took	παραλαμβάνω	verb	v- 3-s--aai
+400020140051	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020140061	παιδίον-1	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020140071	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020140081	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400020140091	μητέρα-1	μητέρα	G3384	mother	mother	μήτηρ	noun	n- -asf-
+400020140101	αὐτοῦ-1	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400020140111	νυκτὸς-1	νυκτὸς	G3571	during [the] night	night	νύξ	noun	n- -gsf-
+400020140121	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020140131	ἀνεχώρησεν-1	ἀνεχώρησεν	G0402	departed	left	ἀναχωρέω	verb	v- 3-s--aai
+400020140141	εἰς-1	εἰς	G1519	for	for	εἰς	prep	p- -----
+400020140151	Αἴγυπτον-1	Αἴγυπτον	G0125	Egypt.	Egypt	Αἴγυπτος	Name	nr -asf-
+400020150011	καὶ-1	καὶ	G2532	and		καί	conj	c- -----
+400020150021	ἦν-1	ἦν	G2258	he was	he stayed	εἰμί	verb	v- 3-s--iai
+400020150031	ἐκεῖ-1	ἐκεῖ	G1563	there	where	ἐκεῖ	adv	d- -----
+400020150041	ἕως-1	ἕως	G2193	until	until	ἕως	prep	p- -----
+400020150051	τῆς-1	τῆς	G3588	the	the	ὁ	det	ra -gsf-
+400020150061	τελευτῆς-1	τελευτῆς	G5054	death	death	τελευτή	noun	n- -gsf-
+400020150071	Ἡρῴδου-1	Ἡρῴδου	G2264	of Herod;	of Herod	Ἡρῴδης	Name	nr -gsm-
+400020150081	ἵνα-1	ἵνα	G2443	in order that	so	ἵνα	conj	c- -----
+400020150091	πληρωθῇ-1	πληρωθῇ	G4137	might be fulfilled	was fulfilled	πληρόω	verb	v- 3-s--aps
+400020150101	τὸ-1	τὸ	G3588	the [thing]		ὁ	det	ra -nsn-
+400020150111	ῥηθὲν-1	ῥηθὲν	G4483	spoken	what had said	εἶπον	verb	v- -nsn-app
+400020150121	ὑπὸ-1	ὑπὸ	G5259	by		ὑπό	prep	p- -----
+400020150131	κυρίου-1	κυρίου	G2962	[the] lord	Lord	κύριος	noun	n- -gsm-
+400020150141	διὰ-1	διὰ	G1223	through	through	διά	prep	p- -----
+400020150151	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsm-
+400020150161	προφήτου-1	προφήτου	G4396	prophet	prophet	προφήτης	noun	n- -gsm-
+400020150171	λέγοντος-1	λέγοντος	G3004	saying,		λέγω	verb	v- -gsm-pap
+400020150181	ἐξ-1	ἐξ	G1537	out of	Out of	ἐκ	prep	p- -----
+400020150191	Αἰγύπτου-1	Αἰγύπτου	G0125	Egypt	Egypt	Αἴγυπτος	Name	nr -gsf-
+400020150201	ἐκάλεσα-1	ἐκάλεσα	G2564	I called	I called	καλέω	verb	v- 1-s--aai
+400020150211	τὸν-1	τὸν	G3588	the		ὁ	det	ra -asm-
+400020150221	υἱόν-1	υἱόν	G5207	son	son	υἱός	noun	n- -asm-
+400020150231	μου-1	μου	G3450	of me.	my	ἐγώ	pron	rp 1gs--
+400020160011	Τότε-1	Τότε	G5119	then		τότε	adv	d- -----
+400020160021	Ἡρῴδης-1	Ἡρῴδης	G2264	Herod,	Herod	Ἡρῴδης	Name	nr -nsm-
+400020160031	ἰδὼν-1	ἰδὼν	G3708	seeing	When realised	ὁράω	verb	v- -nsm-aap
+400020160041	ὅτι-1	ὅτι	G3754	that	that	ὅτι	conj	c- -----
+400020160051	ἐνεπαίχθη-1	ἐνεπαίχθη	G1702	he was deceived	he had been outwitted	ἐμπαίζω	verb	v- 3-s--api
+400020160061	ὑπὸ-1	ὑπὸ	G5259	by	by	ὑπό	prep	p- -----
+400020160071	τῶν-1	τῶν	G3588	the	the	ὁ	det	ra -gpm-
+400020160081	μάγων-1	μάγων	G3097	magi,	Magi	μάγος	noun	n- -gpm-
+400020160091	ἐθυμώθη-1	ἐθυμώθη	G2373	was enraged	he was furious	θυμόω	verb	v- 3-s--api
+400020160101	λίαν-1	λίαν	G3029	greatly,	he was furious	λίαν	adv	d- -----
+400020160111	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020160121	ἀποστείλας-1	ἀποστείλας	G0649	having sent [orders]	gave orders	ἀποστέλλω	verb	v- -nsm-aap
+400020160131	ἀνεῖλεν-1	ἀνεῖλεν	G0337	he killed	kill	ἀναιρέω	verb	v- 3-s--aai
+400020160141	πάντας-1	πάντας	G3956	all	all	πᾶς	adj	a- -apm-
+400020160151	τοὺς-1	τοὺς	G3588	the	the	ὁ	det	ra -apm-
+400020160161	παῖδας-1	παῖδας	G3816	male children	boys	παῖς	noun	n- -apm-
+400020160171	τοὺς-2	τοὺς	G3588	-		ὁ	det	ra -apm-
+400020160181	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020160191	Βηθλέεμ-1	Βηθλέεμ	G0965	Bethlehem	Bethlehem	Βηθλέεμ	Name	nr -dsf-
+400020160201	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020160211	ἐν-2	ἐν	G1722	in		ἐν	prep	p- -----
+400020160221	πᾶσιν-1	πᾶσιν	G3956	all		πᾶς	adj	a- -dpn-
+400020160231	τοῖς-1	τοῖς	G3588	the		ὁ	det	ra -dpn-
+400020160241	ὁρίοις-1	ὁρίοις	G3725	districts	vicinity	ὅριον	noun	n- -dpn-
+400020160251	αὐτῆς-1	αὐτῆς	G0846	of it	its	αὐτός	pron	rp -gsf-
+400020160261	ἀπὸ-1	ἀπὸ	G0575	from		ἀπό	prep	p- -----
+400020160271	διετοῦς-1	διετοῦς	G1332	two years old	two years old	διετής	adj	a- -gsm-
+400020160281	καὶ-3	καὶ	G2532	and	and	καί	conj	c- -----
+400020160291	κατωτέρω-1	κατωτέρω	G2736a	under,	under	κάτω	adv	d- -----
+400020160301	κατὰ-1	κατὰ	G2596	according to	in accordance with	κατά	prep	p- -----
+400020160311	τὸν-1	τὸν	G3588	the	the	ὁ	det	ra -asm-
+400020160321	χρόνον-1	χρόνον	G5550	time	time	χρόνος	noun	n- -asm-
+400020160331	ὃν-1	ὃν	G3739	which		ὅς	pron	rr -asm-
+400020160341	ἠκρίβωσεν-1	ἠκρίβωσεν	G0198	he ascertained	he had learned	ἀκριβόω	verb	v- 3-s--aai
+400020160351	παρὰ-1	παρὰ	G3844	from	from	παρά	prep	p- -----
+400020160361	τῶν-2	τῶν	G3588	the	the	ὁ	det	ra -gpm-
+400020160371	μάγων-2	μάγων	G3097	magi.	Magi	μάγος	noun	n- -gpm-
+400020170011	τότε-1	τότε	G5119	then	Then	τότε	adv	d- -----
+400020170021	ἐπληρώθη-1	ἐπληρώθη	G4137	was fulfilled	was fulfilled	πληρόω	verb	v- 3-s--api
+400020170031	τὸ-1	τὸ	G3588	the [thing]		ὁ	det	ra -nsn-
+400020170041	ῥηθὲν-1	ῥηθὲν	G4483	spoken	what was said	εἶπον	verb	v- -nsn-app
+400020170051	διὰ-1	διὰ	G1223	through	through	διά	prep	p- -----
+400020170061	Ἰερεμίου-1	Ἰερεμίου	G2408	Jeremiah	Jeremiah	Ἰερεμίας	Name	nr -gsm-
+400020170071	τοῦ-1	τοῦ	G3588	the	the	ὁ	det	ra -gsm-
+400020170081	προφήτου-1	προφήτου	G4396	prophet	prophet	προφήτης	noun	n- -gsm-
+400020170091	λέγοντος-1	λέγοντος	G3004	saying,		λέγω	verb	v- -gsm-pap
+400020180011	φωνὴ-1	φωνὴ	G5456	a voice	A voice	φωνή	noun	n- -nsf-
+400020180021	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020180031	Ῥαμὰ-1	Ῥαμὰ	G4471	Ramah	Ramah	Ῥαμά	Name	nr -dsf-
+400020180041	ἠκούσθη-1	ἠκούσθη	G0191	was heard,	is heard	ἀκούω	verb	v- 3-s--api
+400020180051	κλαυθμὸς-1	κλαυθμὸς	G2805	weeping	weeping	κλαυθμός	noun	n- -nsm-
+400020180061	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020180071	ὀδυρμὸς-1	ὀδυρμὸς	G3602	mourning	mourning	ὀδυρμός	noun	n- -nsm-
+400020180081	πολύς-1	πολύς	G4183	great;	great	πολύς	adj	a- -nsm-
+400020180091	Ῥαχὴλ-1	Ῥαχὴλ	G4478	Rachel	Rachel	Ῥαχήλ	Name	nr -nsf-
+400020180101	κλαίουσα-1	κλαίουσα	G2799	weeping [for]	weeping	κλαίω	verb	v- -nsf-pap
+400020180111	τὰ-1	τὰ	G3588	the		ὁ	det	ra -apn-
+400020180121	τέκνα-1	τέκνα	G5043	children	for children	τέκνον	noun	n- -apn-
+400020180131	αὐτῆς-1	αὐτῆς	G0846	of her,	her	αὐτός	pron	rp -gsf-
+400020180141	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020180151	οὐκ-1	οὐκ	G3756	and	refusing	οὐ	adv	d- -----
+400020180161	ἤθελεν-1	ἤθελεν	G2309	she would not	refusing	θέλω	verb	v- 3-s--iai
+400020180171	παρακληθῆναι-1	παρακληθῆναι	G3870	be comforted,	to be comforted	παρακαλέω	verb	v- -----apn
+400020180181	ὅτι-1	ὅτι	G3754	because	because	ὅτι	conj	c- -----
+400020180191	οὐκ-2	οὐκ	G3756	~ not	no more	οὐ	adv	d- -----
+400020180201	εἰσίν-1	εἰσίν	G1526	they are ~.	they are	εἰμί	verb	v- 3-p--pai
+400020190011	Τελευτήσαντος-1	Τελευτήσαντος	G5053	now ~ having died	After died	τελευτάω	verb	v- -gsm-aap
+400020190021	δὲ-1	δὲ	G1161	*		δέ	conj	c- -----
+400020190031	τοῦ-1	τοῦ	G3588	-		ὁ	det	ra -gsm-
+400020190041	Ἡρῴδου-1	Ἡρῴδου	G2264	Herod,	Herod	Ἡρῴδης	Name	nr -gsm-
+400020190051	ἰδοὺ-1	ἰδοὺ	G2400	behold		ὁράω	verb	v- 2-s--amd
+400020190061	ἄγγελος-1	ἄγγελος	G0032	an angel	an angel	ἄγγελος	noun	n- -nsm-
+400020190071	κυρίου-1	κυρίου	G2962	of [the] lord	of Lord	κύριος	noun	n- -gsm-
+400020190081	φαίνεται-1	φαίνεται	G5316	appeared	appeared	φαίνω	verb	v- 3-s--pni
+400020190091	κατ’-1	κατ’	G2596	in	in	κατά	prep	p- -----
+400020190101	ὄναρ-1	ὄναρ	G3677	a dream	a dream	ὄναρ	noun	n- -asn-
+400020190111	τῷ-1	τῷ	G3588	-		ὁ	det	ra -dsm-
+400020190121	Ἰωσὴφ-1	Ἰωσὴφ	G2501	to Joseph	to Joseph	Ἰωσήφ	Name	nr -dsm-
+400020190131	ἐν-1	ἐν	G1722	in	in	ἐν	prep	p- -----
+400020190141	Αἰγύπτῳ-1	Αἰγύπτῳ	G0125	Egypt	Egypt	Αἴγυπτος	Name	nr -dsf-
+400020200011	λέγων-1	λέγων	G3004	saying,	said	λέγω	verb	v- -nsm-pap
+400020200021	ἐγερθεὶς-1	ἐγερθεὶς	G1453	rising up	Get up	ἐγείρω	verb	v- -nsm-app
+400020200031	παράλαβε-1	παράλαβε	G3880	take	take	παραλαμβάνω	verb	v- 2-s--aad
+400020200041	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020200051	παιδίον-1	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020200061	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020200071	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400020200081	μητέρα-1	μητέρα	G3384	mother	mother	μήτηρ	noun	n- -asf-
+400020200091	αὐτοῦ-1	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400020200101	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020200111	πορεύου-1	πορεύου	G4198	go	go	πορεύομαι	verb	v- 2-s--pnd
+400020200121	εἰς-1	εἰς	G1519	into	to	εἰς	prep	p- -----
+400020200131	γῆν-1	γῆν	G1093	[the] land	land	γῆ	noun	n- -asf-
+400020200141	Ἰσραήλ-1	Ἰσραήλ	G2474	of Israel.	of Israel	Ἰσραήλ	Name	nr -gsm-
+400020200151	τεθνήκασιν-1	τεθνήκασιν	G2348	for ~ have died	are dead	θνῄσκω	verb	v- 3-p--xai
+400020200161	γὰρ-1	γὰρ	G1063	*	for	γάρ	conj	c- -----
+400020200171	οἱ-1	οἱ	G3588	the ones	those	ὁ	det	ra -npm-
+400020200181	ζητοῦντες-1	ζητοῦντες	G2212	seeking	who were trying to take	ζητέω	verb	v- -npm-pap
+400020200191	τὴν-2	τὴν	G3588	the	the	ὁ	det	ra -asf-
+400020200201	ψυχὴν-1	ψυχὴν	G5590	life	life	ψυχή	noun	n- -asf-
+400020200211	τοῦ-1	τοῦ	G3588	of the		ὁ	det	ra -gsn-
+400020200221	παιδίου-1	παιδίου	G3813	child.	child’s	παιδίον	noun	n- -gsn-
+400020210011	ὁ-1	ὁ	G3588	-	he	ὁ	det	ra -nsm-
+400020210021	δὲ-1	δὲ	G1161	so	So	δέ	conj	c- -----
+400020210031	ἐγερθεὶς-1	ἐγερθεὶς	G1453	having arisen	got up	ἐγείρω	verb	v- -nsm-app
+400020210041	παρέλαβεν-1	παρέλαβεν	G3880	he took	took	παραλαμβάνω	verb	v- 3-s--aai
+400020210051	τὸ-1	τὸ	G3588	the	the	ὁ	det	ra -asn-
+400020210061	παιδίον-1	παιδίον	G3813	child	child	παιδίον	noun	n- -asn-
+400020210071	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020210081	τὴν-1	τὴν	G3588	the		ὁ	det	ra -asf-
+400020210091	μητέρα-1	μητέρα	G3384	mother	mother	μήτηρ	noun	n- -asf-
+400020210101	αὐτοῦ-1	αὐτοῦ	G0846	of him	his	αὐτός	pron	rp -gsm-
+400020210111	καὶ-2	καὶ	G2532	and	and	καί	conj	c- -----
+400020210121	εἰσῆλθεν-1	εἰσῆλθεν	G1525	entered	went	εἰσέρχομαι	verb	v- 3-s--aai
+400020210131	εἰς-1	εἰς	G1519	into	to	εἰς	prep	p- -----
+400020210141	γῆν-1	γῆν	G1093	[the] land	land	γῆ	noun	n- -asf-
+400020210151	Ἰσραήλ-1	Ἰσραήλ	G2474	of Israel.	of Israel	Ἰσραήλ	Name	nr -gsm-
+400020220011	Ἀκούσας-1	Ἀκούσας	G0191	~ having heard	when heard	ἀκούω	verb	v- -nsm-aap
+400020220021	δὲ-1	δὲ	G1161	but	But	δέ	conj	c- -----
+400020220031	ὅτι-1	ὅτι	G3754	that	that	ὅτι	conj	c- -----
+400020220041	Ἀρχέλαος-1	Ἀρχέλαος	G0745	Archelaus	Archelaus	Ἀρχέλαος	Name	nr -nsm-
+400020220051	βασιλεύει-1	βασιλεύει	G0936	is (was) reigning [over]	was reigning	βασιλεύω	verb	v- 3-s--pai
+400020220061	τῆς-1	τῆς	G3588	-		ὁ	det	ra -gsf-
+400020220071	Ἰουδαίας-1	Ἰουδαίας	G2449	Judea	Judea	Ἰουδαία	Name	nr -gsf-
+400020220081	ἀντὶ-1	ἀντὶ	G0473	instead	in place of	ἀντί	prep	p- -----
+400020220091	τοῦ-1	τοῦ	G3588	of the		ὁ	det	ra -gsm-
+400020220101	πατρὸς-1	πατρὸς	G3962	father	father	πατήρ	noun	n- -gsm-
+400020220111	αὐτοῦ-1	αὐτοῦ	G0846	of him,	his	αὐτός	pron	rp -gsm-
+400020220121	Ἡρῴδου-1	Ἡρῴδου	G2264	Herod,	Herod	Ἡρῴδης	Name	nr -gsm-
+400020220131	ἐφοβήθη-1	ἐφοβήθη	G5399	he was afraid	he was afraid	φοβέω	verb	v- 3-s--api
+400020220141	ἐκεῖ-1	ἐκεῖ	G1563	~ there.	there	ἐκεῖ	adv	d- -----
+400020220151	ἀπελθεῖν-1	ἀπελθεῖν	G0565	to go	to go	ἀπέρχομαι	verb	v- -----aan
+400020220161	χρηματισθεὶς-1	χρηματισθεὶς	G5537	and ~ having been warned	Having been warned	χρηματίζω	verb	v- -nsm-app
+400020220171	δὲ-2	δὲ	G1161	*		δέ	conj	c- -----
+400020220181	κατ’-1	κατ’	G2596	in	in	κατά	prep	p- -----
+400020220191	ὄναρ-1	ὄναρ	G3677	a dream,	a dream	ὄναρ	noun	n- -asn-
+400020220201	ἀνεχώρησεν-1	ἀνεχώρησεν	G0402	he departed	he withdrew	ἀναχωρέω	verb	v- 3-s--aai
+400020220211	εἰς-1	εἰς	G1519	into	to	εἰς	prep	p- -----
+400020220221	τὰ-1	τὰ	G3588	the	the	ὁ	det	ra -apn-
+400020220231	μέρη-1	μέρη	G3313	districts	district	μέρος	noun	n- -apn-
+400020220241	τῆς-2	τῆς	G3588	-		ὁ	det	ra -gsf-
+400020220251	Γαλιλαίας-1	Γαλιλαίας	G1056	of Galilee,	of Galilee	Γαλιλαία	Name	nr -gsf-
+400020230011	καὶ-1	καὶ	G2532	and	and	καί	conj	c- -----
+400020230021	ἐλθὼν-1	ἐλθὼν	G2064	having come	went	ἔρχομαι	verb	v- -nsm-aap
+400020230031	κατῴκησεν-1	κατῴκησεν	G2730	he settled	he lived	κατοικέω	verb	v- 3-s--aai
+400020230041	εἰς-1	εἰς	G1519	in	in	εἰς	prep	p- -----
+400020230051	πόλιν-1	πόλιν	G4172	[the] city	a town	πόλις	noun	n- -asf-
+400020230061	λεγομένην-1	λεγομένην	G3004	called	called	λέγω	verb	v- -asf-ppp
+400020230071	Ναζαρέτ-1	Ναζαρέτ	G3478a	Nazareth;	Nazareth	Ναζαρά	Name	nr -asf-
+400020230081	ὅπως-1	ὅπως	G3704	so that	So	ὅπως	conj	c- -----
+400020230091	πληρωθῇ-1	πληρωθῇ	G4137	might be fulfilled	was fulfilled	πληρόω	verb	v- 3-s--aps
+400020230101	τὸ-1	τὸ	G3588	the [thing]		ὁ	det	ra -nsn-
+400020230111	ῥηθὲν-1	ῥηθὲν	G4483	spoken	what was said	εἶπον	verb	v- -nsn-app
+400020230121	διὰ-1	διὰ	G1223	through	through	διά	prep	p- -----
+400020230131	τῶν-1	τῶν	G3588	the	the	ὁ	det	ra -gpm-
+400020230141	προφητῶν-1	προφητῶν	G4396	prophets	prophets	προφήτης	noun	n- -gpm-
+400020230151	ὅτι-1	ὅτι	G3754	-		ὅτι	adv	d- -----
+400020230161	Ναζωραῖος-1	Ναζωραῖος	G3480	a Nazarene	a Nazarene	Ναζωραῖος	Name	nr -nsm-
+400020230171	κληθήσεται-1	κληθήσεται	G2564	he will be called.	He will be called	καλέω	verb	v- 3-s--fpi
