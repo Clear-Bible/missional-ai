@@ -216,14 +216,14 @@ lxml = ["lxml"]
 
 [[package]]
 name = "bible-alignments"
-version = "0.2.6"
+version = "0.2.7"
 description = "Word-level alignments for Bibles, including both automatic alignments and manually corrected alignments."
 category = "main"
 optional = false
 python-versions = ">=3.7,<4.0"
 files = [
-    {file = "bible_alignments-0.2.6-py3-none-any.whl", hash = "sha256:45502e1b610c6a7bcdb72de4bc8cd5b1195dbbd9765ee594fa0df3b981ffff6e"},
-    {file = "bible_alignments-0.2.6.tar.gz", hash = "sha256:738d203170d076cee461618dfeaa3950b0e7f647e65953b36943dd0484715066"},
+    {file = "bible_alignments-0.2.7-py3-none-any.whl", hash = "sha256:52835b0e9560c35fff29e04f21dd27bdaef7ab8235f893a338db704287cad178"},
+    {file = "bible_alignments-0.2.7.tar.gz", hash = "sha256:d6e02311b5cc7168c555a84f03a55f198fe58acb03c53a0a5dbb574f6361b0a6"},
 ]
 
 [package.dependencies]
@@ -2227,4 +2227,4 @@ test = ["mypy", "pre-commit", "pytest", "pytest-asyncio", "websockets (>=10.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<4.0"
-content-hash = "d084e2ce6ca023d10eb725a2d8cdb38dddffb7986a29e923d457c5bb23a0ffe5"
+content-hash = "6de126efc7e41f57068e2e25bb5141f65b3ddadefd03ad886c843297a63e3292"
