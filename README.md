@@ -44,3 +44,7 @@ this data, or build on the notebooks we present.
 
 The notebooks were created by [Ryder
 Wishart](https://github.com/ryderwishart) and Nathan Brock.
+
+## License
+
+All code in this repository is released under [MIT License](LICENSE.md). For data licensing, see the [data README](data/README.md).
